@@ -1,8 +1,12 @@
 """
 Vitakruid UPDATE-feed
 =====================
-Lichte feed om bestaande producten bij te werken: verkoopprijs + beschikbaarheid,
-per variant (elke maat = eigen SKU/EAN/prijs). Matcht in Stock Sync op SKU of barcode.
+Lichte feed om bestaande producten bij te werken: titel + verkoopprijs +
+beschikbaarheid, per variant (elke maat = eigen SKU/EAN/prijs). Matcht in
+Stock Sync op SKU of barcode.
+
+Bewust GEEN beschrijving/Body HTML: die wordt in de shop door de AI-pipeline
+(gfy-pd) verzorgd en mag niet door een sync worden overschreven.
 Output: vitakruid_feed.xml
 """
 
@@ -25,6 +29,9 @@ def build_xml(products):
                 el = ET.SubElement(item, tag)
                 el.text = "" if value is None else str(value)
 
+            add("handle", p["slug"])
+            add("title", p["title"])
+            add("vendor", p["brand"])
             add("sku", v["sku"])
             add("barcode", v["ean"])
             add("price", f"{v['price']:.2f}")     # retail incl. BTW
