@@ -110,13 +110,26 @@ def _product_ld(html):
 
 
 def _description_html(html):
-    """Rijke beschrijving uit het .prose--pdp-blok (whitelist basis-tags)."""
-    m = re.search(r'<div class="prose prose--pdp">(.*?)</div>\s*(?:</div>|<div class="(?!prose))', html, re.DOTALL)
-    if not m:
-        m = re.search(r'prose--pdp">(.*?)</div>', html, re.DOTALL)
-    if not m:
+    """Rijke beschrijving uit het .prose--pdp-blok (whitelist basis-tags).
+
+    Het blok bevat geneste divs (dus geen betrouwbare `</div>`-grens) en start
+    vaak met een cross-sell-kaartje (`<a href="/products/…">`). We nemen daarom
+    een venster vanaf de prose--pdp-opening tot het volgende prose-blok en
+    verwijderen de cross-sell-links.
+    """
+    a = html.find('class="prose prose--pdp"')
+    if a == -1:
         return ""
-    b = m.group(1)
+    start = html.find(">", a) + 1
+    ends = [e for e in (
+        html.find('class="prose prose--sm"', start),
+        html.find('class="prose"', start),
+        html.find('class="prose prose--pdp"', start),
+    ) if e != -1]
+    end = min(ends) if ends else start + 14000
+    b = html[start:end]
+    # cross-sell-kaartjes weg (links naar andere producten, incl. figure/img erin)
+    b = re.sub(r'<a[^>]+href="/products/[^"]*".*?</a>', "", b, flags=re.DOTALL | re.I)
     b = re.sub(r'<(script|style|svg|button)[^>]*>.*?</\1>', "", b, flags=re.DOTALL | re.I)
     b = re.sub(r"<img[^>]*>", "", b, flags=re.I)
     keep = {"p", "ul", "ol", "li", "strong", "b", "em", "h2", "h3", "h4", "br"}
@@ -127,6 +140,10 @@ def _description_html(html):
         return f"<{slash}{tag}>" if tag in keep else ""
 
     b = re.sub(r"<(/?)(\w+)[^>]*>", _tag, b)
+    # Opruimen: cross-sell/afbeelding-blokken laten soms losse attribuut-fragmenten
+    # achter (bv. class="…" loading="…" />). Die strippen we.
+    b = re.sub(r'[a-z_-]+="[^"]*"', "", b, flags=re.I)
+    b = re.sub(r"/>", " ", b)
     b = b.replace("&nbsp;", " ")
     b = re.sub(r"[ \t]+", " ", b)
     b = re.sub(r"\s*\n\s*", "", b)
