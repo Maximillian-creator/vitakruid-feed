@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <handle>5-htp-100mg</handle>
+    <title>5-HTP 100mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>90988</sku>
     <barcode>8717438690988</barcode>
     <price>24.90</price>
@@ -8,6 +11,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>5-htp-100mg</handle>
+    <title>5-HTP 100mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>92753</sku>
     <barcode>8717438692753</barcode>
     <price>36.90</price>
@@ -15,6 +21,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ashwagandha-ksm-66-bioperine</handle>
+    <title>Ashwagandha KSM-66® &amp; Bioperine®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91305</sku>
     <barcode>8717438691305</barcode>
     <price>22.90</price>
@@ -22,6 +31,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ashwagandha-ksm-66-bioperine</handle>
+    <title>Ashwagandha KSM-66® &amp; Bioperine®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91992</sku>
     <barcode>8717438691992</barcode>
     <price>33.90</price>
@@ -29,6 +41,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>gaba-plus</handle>
+    <title>GABA Plus</title>
+    <vendor>Vitakruid</vendor>
     <sku>9059</sku>
     <barcode>8717438690599</barcode>
     <price>24.90</price>
@@ -36,6 +51,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>gaba-plus</handle>
+    <title>GABA Plus</title>
+    <vendor>Vitakruid</vendor>
     <sku>91787</sku>
     <barcode>8717438691787</barcode>
     <price>48.90</price>
@@ -43,6 +61,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>saffraan-l-theanine</handle>
+    <title>Saffraan &amp; L-Theanine</title>
+    <vendor>Vitakruid</vendor>
     <sku>91220</sku>
     <barcode>8717438691220</barcode>
     <price>24.90</price>
@@ -50,6 +71,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>saffraan-l-theanine</handle>
+    <title>Saffraan &amp; L-Theanine</title>
+    <vendor>Vitakruid</vendor>
     <sku>92180</sku>
     <barcode>8717438692180</barcode>
     <price>73.90</price>
@@ -57,6 +81,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>atrimove-glucosamine-complex-poeder</handle>
+    <title>Atrimove® Glucosamine Complex poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>9000</sku>
     <barcode>8717438690001</barcode>
     <price>59.90</price>
@@ -64,6 +91,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>atrimove-glucosamine-complex-poeder</handle>
+    <title>Atrimove® Glucosamine Complex poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>9048</sku>
     <barcode>8717438690483</barcode>
     <price>114.90</price>
@@ -71,6 +101,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>glucosil-glucosamine-gel</handle>
+    <title>GlucoSil Glucosamine Gel</title>
+    <vendor>Vitakruid</vendor>
     <sku>9017</sku>
     <barcode>8717438690179</barcode>
     <price>24.90</price>
@@ -78,6 +111,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-hd</handle>
+    <title>Multi Dag &amp; Nacht® HD</title>
+    <vendor>Vitakruid</vendor>
     <sku>90575</sku>
     <barcode>8717438690575</barcode>
     <price>28.90</price>
@@ -85,6 +121,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-hd</handle>
+    <title>Multi Dag &amp; Nacht® HD</title>
+    <vendor>Vitakruid</vendor>
     <sku>90582</sku>
     <barcode>8717438690582</barcode>
     <price>77.90</price>
@@ -92,6 +131,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b-complex-actief-zonder-b6</handle>
+    <title>B-Complex Actief zonder B6</title>
+    <vendor>Vitakruid</vendor>
     <sku>91299</sku>
     <barcode>8717438691299</barcode>
     <price>34.90</price>
@@ -99,6 +141,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>pea-puur-400</handle>
+    <title>PEA Puur 400</title>
+    <vendor>Vitakruid</vendor>
     <sku>91176</sku>
     <barcode>8717438691176</barcode>
     <price>39.90</price>
@@ -106,6 +151,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>super-greens</handle>
+    <title>Super Greens</title>
+    <vendor>Vitakruid</vendor>
     <sku>9015</sku>
     <barcode>8717438690155</barcode>
     <price>49.90</price>
@@ -113,6 +161,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>super-greens</handle>
+    <title>Super Greens</title>
+    <vendor>Vitakruid</vendor>
     <sku>9051</sku>
     <barcode>8717438690513</barcode>
     <price>97.90</price>
@@ -120,6 +171,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>super-greens</handle>
+    <title>Super Greens</title>
+    <vendor>Vitakruid</vendor>
     <sku>93583</sku>
     <barcode>8717438693583</barcode>
     <price>49.90</price>
@@ -127,6 +181,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-original</handle>
+    <title>Symflora® Original</title>
+    <vendor>Vitakruid</vendor>
     <sku>90674</sku>
     <barcode>8717438690674</barcode>
     <price>39.90</price>
@@ -134,6 +191,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-original</handle>
+    <title>Symflora® Original</title>
+    <vendor>Vitakruid</vendor>
     <sku>91459</sku>
     <barcode>8717438691459</barcode>
     <price>77.90</price>
@@ -141,6 +201,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>feminosan</handle>
+    <title>Feminosan®</title>
+    <vendor>Vitakruid</vendor>
     <sku>9003</sku>
     <barcode>8717438690032</barcode>
     <price>37.90</price>
@@ -148,6 +211,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>feminosan</handle>
+    <title>Feminosan®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91435</sku>
     <barcode>8717438691435</barcode>
     <price>69.90</price>
@@ -155,6 +221,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>glycodin</handle>
+    <title>Glycodin®</title>
+    <vendor>Vitakruid</vendor>
     <sku>90605</sku>
     <barcode>8717438690605</barcode>
     <price>26.90</price>
@@ -162,6 +231,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>groenlipmossel-extract-ovomet</handle>
+    <title>Groenlipmossel extract &amp; Ovomet</title>
+    <vendor>Vitakruid</vendor>
     <sku>91213</sku>
     <barcode>8717438691213</barcode>
     <price>30.90</price>
@@ -169,6 +241,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-b3-niacinamide-500-mg</handle>
+    <title>Vitamine B3 Niacinamide 500 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91039</sku>
     <barcode>8717438691039</barcode>
     <price>16.90</price>
@@ -176,6 +251,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>osta-k2-d3-algae</handle>
+    <title>Osta K2 &amp; D3 Algae</title>
+    <vendor>Vitakruid</vendor>
     <sku>90704</sku>
     <barcode>8717438690704</barcode>
     <price>34.90</price>
@@ -183,6 +261,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-5000-mcg-adenosylcobalamine</handle>
+    <title>B12 5000 mcg Adenosylcobalamine</title>
+    <vendor>Vitakruid</vendor>
     <sku>90971</sku>
     <barcode>8717438690971</barcode>
     <price>26.90</price>
@@ -190,6 +271,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ostamax</handle>
+    <title>Ostamax</title>
+    <vendor>Vitakruid</vendor>
     <sku>9002</sku>
     <barcode>8717438690025</barcode>
     <price>33.90</price>
@@ -197,6 +281,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ostavit</handle>
+    <title>Ostavit</title>
+    <vendor>Vitakruid</vendor>
     <sku>92722</sku>
     <barcode>8717438692722</barcode>
     <price>24.90</price>
@@ -204,6 +291,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-combi-10-000-met-folaat</handle>
+    <title>B12 Combi 10.000® met folaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91190</sku>
     <barcode>8717438691190</barcode>
     <price>42.90</price>
@@ -211,6 +301,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-combi-10-000-met-folaat</handle>
+    <title>B12 Combi 10.000® met folaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91404</sku>
     <barcode>8717438691404</barcode>
     <price>79.90</price>
@@ -218,6 +311,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>betaine-hcl-650-mg</handle>
+    <title>Betaïne HCL 650 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91152</sku>
     <barcode>8717438691152</barcode>
     <price>32.90</price>
@@ -225,6 +321,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-combi-6000-met-folaat-en-p-5-p</handle>
+    <title>B12 Combi 6000® met folaat en P-5-P</title>
+    <vendor>Vitakruid</vendor>
     <sku>90995</sku>
     <barcode>8717438690995</barcode>
     <price>34.90</price>
@@ -232,6 +331,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-combi-6000-met-folaat-en-p-5-p</handle>
+    <title>B12 Combi 6000® met folaat en P-5-P</title>
+    <vendor>Vitakruid</vendor>
     <sku>91411</sku>
     <barcode>8717438691411</barcode>
     <price>64.90</price>
@@ -239,6 +341,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>betaine-hcl-testkit</handle>
+    <title>Betaïne HCL Testkit</title>
+    <vendor>Vitakruid</vendor>
     <sku>91183</sku>
     <barcode>8717438691183</barcode>
     <price>5.90</price>
@@ -246,6 +351,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-forte-plus-met-p-5-p</handle>
+    <title>B12 Forte Plus met P-5-P</title>
+    <vendor>Vitakruid</vendor>
     <sku>91008</sku>
     <barcode>8717438691008</barcode>
     <price>23.90</price>
@@ -253,6 +361,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>dpp-iv-ultimate</handle>
+    <title>DPP-IV Ultimate</title>
+    <vendor>Vitakruid</vendor>
     <sku>90681</sku>
     <barcode>8717438690681</barcode>
     <price>36.90</price>
@@ -260,6 +371,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>dpp-iv-ultimate</handle>
+    <title>DPP-IV Ultimate</title>
+    <vendor>Vitakruid</vendor>
     <sku>90698</sku>
     <barcode>8717438690698</barcode>
     <price>69.90</price>
@@ -267,6 +381,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-5000-mcg-methylcobalamine</handle>
+    <title>B12 5000 mcg Methylcobalamine</title>
+    <vendor>Vitakruid</vendor>
     <sku>90964</sku>
     <barcode>8717438690964</barcode>
     <price>17.90</price>
@@ -274,6 +391,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>gebufferde-vitamine-c</handle>
+    <title>Gebufferde Vitamine C®</title>
+    <vendor>Vitakruid</vendor>
     <sku>93668</sku>
     <barcode>8717438693668</barcode>
     <price>9.90</price>
@@ -281,6 +401,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>gebufferde-vitamine-c</handle>
+    <title>Gebufferde Vitamine C®</title>
+    <vendor>Vitakruid</vendor>
     <sku>9005</sku>
     <barcode>8717438690056</barcode>
     <price>26.90</price>
@@ -288,6 +411,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>gebufferde-vitamine-c</handle>
+    <title>Gebufferde Vitamine C®</title>
+    <vendor>Vitakruid</vendor>
     <sku>9004</sku>
     <barcode>8717438690049</barcode>
     <price>49.90</price>
@@ -295,6 +421,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>glutazyme</handle>
+    <title>Glutazyme®</title>
+    <vendor>Vitakruid</vendor>
     <sku>90636</sku>
     <barcode>8717438690636</barcode>
     <price>34.90</price>
@@ -302,6 +431,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>glutazyme</handle>
+    <title>Glutazyme®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92166</sku>
     <barcode>8717438692166</barcode>
     <price>68.90</price>
@@ -309,6 +441,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-k2</handle>
+    <title>Vitamine D3 &amp; K2</title>
+    <vendor>Vitakruid</vendor>
     <sku>91206</sku>
     <barcode>8717438691206</barcode>
     <price>23.90</price>
@@ -316,6 +451,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-k2</handle>
+    <title>Vitamine D3 &amp; K2</title>
+    <vendor>Vitakruid</vendor>
     <sku>91664</sku>
     <barcode>8717438691664</barcode>
     <price>64.90</price>
@@ -323,6 +461,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-25-mcg-1000-ie</handle>
+    <title>Vitamine D3 - 25 mcg / 1000 IE</title>
+    <vendor>Vitakruid</vendor>
     <sku>9052</sku>
     <barcode>8717438690520</barcode>
     <price>16.90</price>
@@ -330,6 +471,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-5-mcg-200-ie</handle>
+    <title>Vitamine D3 - 5 mcg / 200 IE</title>
+    <vendor>Vitakruid</vendor>
     <sku>9013</sku>
     <barcode>8717438690131</barcode>
     <price>19.90</price>
@@ -337,6 +481,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>psyllium-glucomannan</handle>
+    <title>Psyllium &amp; Glucomannan</title>
+    <vendor>Vitakruid</vendor>
     <sku>90629</sku>
     <barcode>8717438690629</barcode>
     <price>35.90</price>
@@ -344,6 +491,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>d-mannose-500</handle>
+    <title>D-Mannose 500</title>
+    <vendor>Vitakruid</vendor>
     <sku>9040</sku>
     <barcode>8717438690407</barcode>
     <price>34.90</price>
@@ -351,6 +501,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-malaat-met-p-5-p</handle>
+    <title>Magnesium Malaat met P-5-P</title>
+    <vendor>Vitakruid</vendor>
     <sku>91046</sku>
     <barcode>8717438691046</barcode>
     <price>24.90</price>
@@ -358,6 +511,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>q10-ubiquinol-100-mg</handle>
+    <title>Q10 Ubiquinol 100 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91169</sku>
     <barcode>8717438691169</barcode>
     <price>48.90</price>
@@ -365,6 +521,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>q10-ubiquinol-100-mg</handle>
+    <title>Q10 Ubiquinol 100 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>92548</sku>
     <barcode>8717438692548</barcode>
     <price>72.90</price>
@@ -372,6 +531,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>s-acetyl-l-glutathion</handle>
+    <title>S-Acetyl-L-Glutathion</title>
+    <vendor>Vitakruid</vendor>
     <sku>90858</sku>
     <barcode>8717438690858</barcode>
     <price>27.90</price>
@@ -379,6 +541,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>s-acetyl-l-glutathion</handle>
+    <title>S-Acetyl-L-Glutathion</title>
+    <vendor>Vitakruid</vendor>
     <sku>90865</sku>
     <barcode>8717438690865</barcode>
     <price>79.90</price>
@@ -386,6 +551,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>curcuma-c3-2x</handle>
+    <title>Curcuma C3-2X</title>
+    <vendor>Vitakruid</vendor>
     <sku>92777</sku>
     <barcode>8717438692777</barcode>
     <price>22.90</price>
@@ -393,6 +561,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>curcuma-c3-2x</handle>
+    <title>Curcuma C3-2X</title>
+    <vendor>Vitakruid</vendor>
     <sku>90612</sku>
     <barcode>8717438690612</barcode>
     <price>44.90</price>
@@ -400,6 +571,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>curcuma-c3-2x</handle>
+    <title>Curcuma C3-2X</title>
+    <vendor>Vitakruid</vendor>
     <sku>91428</sku>
     <barcode>8717438691428</barcode>
     <price>84.90</price>
@@ -407,6 +581,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-tauraat-met-p-5-p</handle>
+    <title>Magnesium Tauraat met P-5-P®</title>
+    <vendor>Vitakruid</vendor>
     <sku>93651</sku>
     <barcode>8717438693651</barcode>
     <price>9.90</price>
@@ -414,6 +591,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-tauraat-met-p-5-p</handle>
+    <title>Magnesium Tauraat met P-5-P®</title>
+    <vendor>Vitakruid</vendor>
     <sku>9006</sku>
     <barcode>8717438690063</barcode>
     <price>25.90</price>
@@ -421,6 +601,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-tauraat-met-p-5-p</handle>
+    <title>Magnesium Tauraat met P-5-P®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91442</sku>
     <barcode>8717438691442</barcode>
     <price>49.90</price>
@@ -428,6 +611,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>kaardebol-tinctuur</handle>
+    <title>Kaardebol tinctuur</title>
+    <vendor>Vitakruid</vendor>
     <sku>90735</sku>
     <barcode>8717438690735</barcode>
     <price>21.90</price>
@@ -435,6 +621,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>kaardebol-tinctuur</handle>
+    <title>Kaardebol tinctuur</title>
+    <vendor>Vitakruid</vendor>
     <sku>90742</sku>
     <barcode>8717438690742</barcode>
     <price>39.90</price>
@@ -442,6 +631,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>mineralen-complex</handle>
+    <title>Mineralen Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>91015</sku>
     <barcode>8717438691015</barcode>
     <price>26.90</price>
@@ -449,6 +641,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>mariadistel-complex-tinctuur</handle>
+    <title>Mariadistel Complex tinctuur</title>
+    <vendor>Vitakruid</vendor>
     <sku>90827</sku>
     <barcode>8717438690827</barcode>
     <price>14.90</price>
@@ -456,6 +651,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>zink-methionine-koper</handle>
+    <title>Zink-Methionine &amp; Koper</title>
+    <vendor>Vitakruid</vendor>
     <sku>90759</sku>
     <barcode>8717438690759</barcode>
     <price>16.90</price>
@@ -463,6 +661,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>para-dtx</handle>
+    <title>PARA-DTX</title>
+    <vendor>Vitakruid</vendor>
     <sku>90957</sku>
     <barcode>8717438690957</barcode>
     <price>21.90</price>
@@ -470,6 +671,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>l-glutamine-complex</handle>
+    <title>L-Glutamine Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>90841</sku>
     <barcode>8717438690841</barcode>
     <price>32.90</price>
@@ -477,6 +681,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>l-tyrosine-500-mg</handle>
+    <title>L-Tyrosine 500 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91053</sku>
     <barcode>8717438691053</barcode>
     <price>16.90</price>
@@ -484,6 +691,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>atrimove-glucosamine-complex-capsules</handle>
+    <title>Atrimove® Glucosamine complex capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>9016</sku>
     <barcode>8717438690230</barcode>
     <price>64.90</price>
@@ -491,6 +701,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>glucosamine-1200</handle>
+    <title>Glucosamine 1200</title>
+    <vendor>Vitakruid</vendor>
     <sku>9009</sku>
     <barcode>8717438690094</barcode>
     <price>20.90</price>
@@ -498,6 +711,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-forte-1000</handle>
+    <title>Visolie Forte 1000</title>
+    <vendor>Vitakruid</vendor>
     <sku>9007</sku>
     <barcode>8717438690070</barcode>
     <price>26.90</price>
@@ -505,6 +721,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-forte-1000</handle>
+    <title>Visolie Forte 1000</title>
+    <vendor>Vitakruid</vendor>
     <sku>91596</sku>
     <barcode>8717438691596</barcode>
     <price>49.90</price>
@@ -512,6 +731,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-omega-3-1250-tg-algenolie</handle>
+    <title>Vegan Omega-3 1250 TG algenolie</title>
+    <vendor>Vitakruid</vendor>
     <sku>91282</sku>
     <barcode>8717438691282</barcode>
     <price>29.90</price>
@@ -519,6 +741,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>q10-ubiquinol-50-mg-omega-3-450-tg</handle>
+    <title>Q10 Ubiquinol 50 mg &amp; Omega-3 450 TG</title>
+    <vendor>Vitakruid</vendor>
     <sku>91121</sku>
     <barcode>8717438691121</barcode>
     <price>49.90</price>
@@ -526,6 +751,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>rhodiola-extract-500-mg-3-rosavin</handle>
+    <title>Rhodiola extract 500 mg 3% Rosavin</title>
+    <vendor>Vitakruid</vendor>
     <sku>91138</sku>
     <barcode>8717438691138</barcode>
     <price>29.90</price>
@@ -533,6 +761,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ribes-nigrum-tinctuur</handle>
+    <title>Ribes Nigrum tinctuur</title>
+    <vendor>Vitakruid</vendor>
     <sku>90766</sku>
     <barcode>8717438690766</barcode>
     <price>8.90</price>
@@ -540,6 +771,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ribes-nigrum-tinctuur</handle>
+    <title>Ribes Nigrum tinctuur</title>
+    <vendor>Vitakruid</vendor>
     <sku>91688</sku>
     <barcode>8717438691688</barcode>
     <price>16.90</price>
@@ -547,6 +781,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-mama-tabletten</handle>
+    <title>Multi Dag &amp; Nacht® Mama Tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>90803</sku>
     <barcode>8717438690803</barcode>
     <price>29.90</price>
@@ -554,6 +791,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-mama-tabletten</handle>
+    <title>Multi Dag &amp; Nacht® Mama Tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>90810</sku>
     <barcode>8717438690810</barcode>
     <price>79.90</price>
@@ -561,6 +801,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-vrouw</handle>
+    <title>Multi Nacht Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>91084</sku>
     <barcode>8717438691084</barcode>
     <price>16.90</price>
@@ -568,6 +811,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-vrouw</handle>
+    <title>Multi Nacht Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>91091</sku>
     <barcode>8717438691091</barcode>
     <price>42.90</price>
@@ -575,6 +821,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-mama-tabletten</handle>
+    <title>Multi Nacht Mama Tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>90780</sku>
     <barcode>8717438690780</barcode>
     <price>16.90</price>
@@ -582,6 +831,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-mama-tabletten</handle>
+    <title>Multi Nacht Mama Tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>90797</sku>
     <barcode>8717438690797</barcode>
     <price>42.90</price>
@@ -589,6 +841,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-vrouw</handle>
+    <title>Multi Dag &amp; Nacht® Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>91107</sku>
     <barcode>8717438691107</barcode>
     <price>29.90</price>
@@ -596,6 +851,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-vrouw</handle>
+    <title>Multi Dag &amp; Nacht® Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>91114</sku>
     <barcode>8717438691114</barcode>
     <price>79.90</price>
@@ -603,6 +861,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-junior</handle>
+    <title>Multi Nacht Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>91268</sku>
     <barcode>8717438691268</barcode>
     <price>24.90</price>
@@ -610,6 +871,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-hd</handle>
+    <title>Multi Nacht HD</title>
+    <vendor>Vitakruid</vendor>
     <sku>90544</sku>
     <barcode>8717438690544</barcode>
     <price>15.90</price>
@@ -617,6 +881,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-hd</handle>
+    <title>Multi Nacht HD</title>
+    <vendor>Vitakruid</vendor>
     <sku>90568</sku>
     <barcode>8717438690568</barcode>
     <price>40.90</price>
@@ -624,6 +891,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-junior</handle>
+    <title>Multi Dag Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>91251</sku>
     <barcode>8717438691251</barcode>
     <price>29.90</price>
@@ -631,6 +901,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-hd</handle>
+    <title>Multi Dag HD</title>
+    <vendor>Vitakruid</vendor>
     <sku>90537</sku>
     <barcode>8717438690537</barcode>
     <price>15.90</price>
@@ -638,6 +911,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-hd</handle>
+    <title>Multi Dag HD</title>
+    <vendor>Vitakruid</vendor>
     <sku>90551</sku>
     <barcode>8717438690551</barcode>
     <price>39.90</price>
@@ -645,6 +921,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-mama-tabletten</handle>
+    <title>Multi Dag Mama Tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>90834</sku>
     <barcode>8717438690834</barcode>
     <price>16.90</price>
@@ -652,6 +931,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-mama-tabletten</handle>
+    <title>Multi Dag Mama Tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>90773</sku>
     <barcode>8717438690773</barcode>
     <price>42.90</price>
@@ -659,6 +941,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-vrouw</handle>
+    <title>Multi Dag Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>91060</sku>
     <barcode>8717438691060</barcode>
     <price>16.90</price>
@@ -666,6 +951,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-vrouw</handle>
+    <title>Multi Dag Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>91077</sku>
     <barcode>8717438691077</barcode>
     <price>42.90</price>
@@ -673,6 +961,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-junior</handle>
+    <title>Multi Dag &amp; Nacht® Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>91275</sku>
     <barcode>8717438691275</barcode>
     <price>49.90</price>
@@ -680,6 +971,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ijzer-bisglycinaat-complex</handle>
+    <title>IJzer Bisglycinaat Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>91312</sku>
     <barcode>8717438691312</barcode>
     <price>19.90</price>
@@ -687,6 +981,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-1000-mcg-methylcobalamine</handle>
+    <title>B12 1000 mcg Methylcobalamine</title>
+    <vendor>Vitakruid</vendor>
     <sku>91336</sku>
     <barcode>8717438691336</barcode>
     <price>16.90</price>
@@ -694,6 +991,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b12-1000-mcg-methylcobalamine</handle>
+    <title>B12 1000 mcg Methylcobalamine</title>
+    <vendor>Vitakruid</vendor>
     <sku>92760</sku>
     <barcode>8717438692760</barcode>
     <price>29.90</price>
@@ -701,6 +1001,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-75-mcg-3000-ie</handle>
+    <title>Vitamine D3 - 75 mcg  / 3000 IE</title>
+    <vendor>Vitakruid</vendor>
     <sku>91343</sku>
     <barcode>8717438691343</barcode>
     <price>18.90</price>
@@ -708,6 +1011,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-150-bisglycinaat</handle>
+    <title>Magnesium 150 Bisglycinaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91350</sku>
     <barcode>8717438691350</barcode>
     <price>29.90</price>
@@ -715,6 +1021,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-150-bisglycinaat</handle>
+    <title>Magnesium 150 Bisglycinaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91367</sku>
     <barcode>8717438691367</barcode>
     <price>58.90</price>
@@ -722,6 +1031,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-200-citraat</handle>
+    <title>Magnesium 200 Citraat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91633</sku>
     <barcode>8717438691633</barcode>
     <price>19.90</price>
@@ -729,6 +1041,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-200-complex</handle>
+    <title>Magnesium 200 Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93637</sku>
     <barcode>8717438693637</barcode>
     <price>9.90</price>
@@ -736,6 +1051,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-200-complex</handle>
+    <title>Magnesium 200 Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>91626</sku>
     <barcode>8717438691626</barcode>
     <price>25.90</price>
@@ -743,6 +1061,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-200-complex</handle>
+    <title>Magnesium 200 Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92012</sku>
     <barcode>8717438692012</barcode>
     <price>49.90</price>
@@ -750,6 +1071,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>nac-600-mg-n-acetyl-l-cysteine</handle>
+    <title>NAC 600 mg N-Acetyl-L-Cysteïne</title>
+    <vendor>Vitakruid</vendor>
     <sku>91374</sku>
     <barcode>8717438691374</barcode>
     <price>19.90</price>
@@ -757,6 +1081,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>nac-600-mg-n-acetyl-l-cysteine</handle>
+    <title>NAC 600 mg N-Acetyl-L-Cysteïne</title>
+    <vendor>Vitakruid</vendor>
     <sku>92029</sku>
     <barcode>8717438692029</barcode>
     <price>28.90</price>
@@ -764,6 +1091,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>msm-1000-mg-met-vitamine-c</handle>
+    <title>MSM 1000 mg met vitamine C</title>
+    <vendor>Vitakruid</vendor>
     <sku>91329</sku>
     <barcode>8717438691329</barcode>
     <price>19.90</price>
@@ -771,6 +1101,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>mucuna-pruriens</handle>
+    <title>Mucuna pruriens</title>
+    <vendor>Vitakruid</vendor>
     <sku>91381</sku>
     <barcode>8717438691381</barcode>
     <price>19.90</price>
@@ -778,6 +1111,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>l-lysine-1000-mg</handle>
+    <title>L-Lysine 1000 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91602</sku>
     <barcode>8717438691602</barcode>
     <price>19.90</price>
@@ -785,6 +1121,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-k2-100-mcg</handle>
+    <title>Vitamine K2 100 mcg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91398</sku>
     <barcode>8717438691398</barcode>
     <price>19.90</price>
@@ -792,6 +1131,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-man</handle>
+    <title>Multi Dag &amp; Nacht® Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>91503</sku>
     <barcode>8717438691503</barcode>
     <price>29.90</price>
@@ -799,6 +1141,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-man</handle>
+    <title>Multi Dag &amp; Nacht® Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>91510</sku>
     <barcode>8717438691510</barcode>
     <price>79.90</price>
@@ -806,6 +1151,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-man</handle>
+    <title>Multi Nacht Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>91541</sku>
     <barcode>8717438691541</barcode>
     <price>16.90</price>
@@ -813,6 +1161,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-man</handle>
+    <title>Multi Nacht Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>91558</sku>
     <barcode>8717438691558</barcode>
     <price>42.90</price>
@@ -820,6 +1171,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-man</handle>
+    <title>Multi Dag Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>91527</sku>
     <barcode>8717438691527</barcode>
     <price>16.90</price>
@@ -827,6 +1181,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-man</handle>
+    <title>Multi Dag Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>91534</sku>
     <barcode>8717438691534</barcode>
     <price>42.90</price>
@@ -834,6 +1191,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>prostaatformule</handle>
+    <title>Prostaatformule</title>
+    <vendor>Vitakruid</vendor>
     <sku>91466</sku>
     <barcode>8717438691466</barcode>
     <price>39.90</price>
@@ -841,6 +1201,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>acetyl-l-carnitine-500-mg</handle>
+    <title>Acetyl-L-Carnitine 500 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91565</sku>
     <barcode>8717438691565</barcode>
     <price>34.90</price>
@@ -848,6 +1211,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-c-poeder-calcium-magnesiumascorbaat</handle>
+    <title>Vitamine C poeder Calcium- &amp; Magnesiumascorbaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91497</sku>
     <barcode>8717438691497</barcode>
     <price>25.90</price>
@@ -855,6 +1221,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-c-1000-mg</handle>
+    <title>Vitamine C 1000 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91473</sku>
     <barcode>8717438691473</barcode>
     <price>17.90</price>
@@ -862,6 +1231,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-c-1000-mg</handle>
+    <title>Vitamine C 1000 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91480</sku>
     <barcode>8717438691480</barcode>
     <price>29.90</price>
@@ -869,6 +1241,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>resveratrol-200-mg-met-bioperine-r</handle>
+    <title>Resveratrol 200 mg met Bioperine®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91657</sku>
     <barcode/>
     <price>39.90</price>
@@ -876,6 +1251,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>actief-foliumzuur-400-mcg</handle>
+    <title>Actief Foliumzuur 400 mcg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91589</sku>
     <barcode>8717438691589</barcode>
     <price>14.90</price>
@@ -883,6 +1261,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ester-c-r-1000-mg</handle>
+    <title>Ester-C® 1000 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91640</sku>
     <barcode>8717438691640</barcode>
     <price>32.90</price>
@@ -890,6 +1271,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>b-complex-actief</handle>
+    <title>B-Complex Actief</title>
+    <vendor>Vitakruid</vendor>
     <sku>91572</sku>
     <barcode>8717438691572</barcode>
     <price>34.90</price>
@@ -897,6 +1281,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>weerstand-duo</handle>
+    <title>Weerstand Duo</title>
+    <vendor>Vitakruid</vendor>
     <sku>weerstand</sku>
     <barcode/>
     <price>47.66</price>
@@ -904,6 +1291,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>overgang-bundel</handle>
+    <title>Overgang Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>overgang</sku>
     <barcode/>
     <price>94.48</price>
@@ -911,6 +1301,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-bundel</handle>
+    <title>Vegan Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>vegan</sku>
     <barcode/>
     <price>98.16</price>
@@ -918,6 +1311,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>lever-detox-bundel</handle>
+    <title>Lever Detox Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>lever</sku>
     <barcode/>
     <price>80.68</price>
@@ -925,6 +1321,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>zwangerschap-bundel-basis</handle>
+    <title>Zwangerschap Bundel Basis</title>
+    <vendor>Vitakruid</vendor>
     <sku>zwangerschap</sku>
     <barcode/>
     <price>42.14</price>
@@ -932,6 +1331,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>geheugen-bundel</handle>
+    <title>Geheugen Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>geheugen</sku>
     <barcode/>
     <price>129.44</price>
@@ -939,6 +1341,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>prostaat-vruchtbaarheid-en-seksualiteit-bundel</handle>
+    <title>Prostaat, Vruchtbaarheid en Seksualiteit Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>prostaat</sku>
     <barcode/>
     <price>85.28</price>
@@ -946,6 +1351,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>spijsvertering-bundel</handle>
+    <title>Spijsvertering Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>spijsvertering</sku>
     <barcode/>
     <price>114.72</price>
@@ -953,6 +1361,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>huid-bundel</handle>
+    <title>Huid Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>huid</sku>
     <barcode/>
     <price>87.12</price>
@@ -960,6 +1371,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>bloedsuiker-en-gewicht-bundel</handle>
+    <title>Bloedsuiker en Gewicht Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>bloedsuiker</sku>
     <barcode/>
     <price>73.32</price>
@@ -967,6 +1381,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>quercetine-250-met-phytosome-technologie</handle>
+    <title>Quercetine 250 met Phytosome®-technologie</title>
+    <vendor>Vitakruid</vendor>
     <sku>91671</sku>
     <barcode>8717438691671</barcode>
     <price>28.90</price>
@@ -974,6 +1391,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>botten-gewrichten-bundel</handle>
+    <title>Botten &amp; Gewrichten Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>botten</sku>
     <barcode/>
     <price>115.64</price>
@@ -981,6 +1401,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-druppels</handle>
+    <title>Vitamine D3 druppels</title>
+    <vendor>Vitakruid</vendor>
     <sku>91756</sku>
     <barcode>8717438691756</barcode>
     <price>15.90</price>
@@ -988,6 +1411,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-druppels-vegan</handle>
+    <title>Vitamine D3 druppels Vegan</title>
+    <vendor>Vitakruid</vendor>
     <sku>91749</sku>
     <barcode/>
     <price>19.90</price>
@@ -995,6 +1421,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>berberine-500-rebersa-r</handle>
+    <title>Berberine 500 Rebersa®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91718</sku>
     <barcode>8717438691718</barcode>
     <price>34.90</price>
@@ -1002,6 +1431,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>berberine-500-rebersa-r</handle>
+    <title>Berberine 500 Rebersa®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92142</sku>
     <barcode>8717438692142</barcode>
     <price>51.90</price>
@@ -1009,6 +1441,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-150-malaat</handle>
+    <title>Magnesium 150 Malaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>93644</sku>
     <barcode>8717438693644</barcode>
     <price>9.90</price>
@@ -1016,6 +1451,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-150-malaat</handle>
+    <title>Magnesium 150 Malaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>91695</sku>
     <barcode>8717438691695</barcode>
     <price>25.90</price>
@@ -1023,6 +1461,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-150-malaat</handle>
+    <title>Magnesium 150 Malaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>92081</sku>
     <barcode>8717438692081</barcode>
     <price>49.90</price>
@@ -1030,6 +1471,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>groene-thee-bioperine-r</handle>
+    <title>Groene Thee &amp; Bioperine®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91725</sku>
     <barcode>8717438691725</barcode>
     <price>16.90</price>
@@ -1037,6 +1481,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-vegan-25-mcg-1000-ie</handle>
+    <title>Vitamine D3 Vegan - 25 mcg / 1000 IE</title>
+    <vendor>Vitakruid</vendor>
     <sku>91732</sku>
     <barcode>8717438691732</barcode>
     <price>17.90</price>
@@ -1044,6 +1491,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>luxe-shopper-eco</handle>
+    <title>Luxe shopper (eco)</title>
+    <vendor>Vitakruid</vendor>
     <sku>746</sku>
     <barcode/>
     <price>6.90</price>
@@ -1051,6 +1501,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>relaxcomplex</handle>
+    <title>RelaxComplex®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92791</sku>
     <barcode>8717438692791</barcode>
     <price>12.90</price>
@@ -1058,6 +1511,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>relaxcomplex</handle>
+    <title>RelaxComplex®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91763</sku>
     <barcode>8717438691763</barcode>
     <price>29.90</price>
@@ -1065,6 +1521,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>relaxcomplex</handle>
+    <title>RelaxComplex®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92173</sku>
     <barcode>8717438692173</barcode>
     <price>58.90</price>
@@ -1072,6 +1531,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitakruid-yos-bottle</handle>
+    <title>Vitakruid YOS Bottle</title>
+    <vendor>Vitakruid</vendor>
     <sku>91701</sku>
     <barcode>8717438691701</barcode>
     <price>14.90</price>
@@ -1079,6 +1541,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitex-agnus-castus-200-mg-monnikspeper</handle>
+    <title>Vitex Agnus Castus 200 mg Monnikspeper</title>
+    <vendor>Vitakruid</vendor>
     <sku>91770</sku>
     <barcode>8717438691770</barcode>
     <price>19.90</price>
@@ -1086,6 +1551,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-basis</handle>
+    <title>Multi Basis</title>
+    <vendor>Vitakruid</vendor>
     <sku>91855</sku>
     <barcode>8717438691855</barcode>
     <price>9.90</price>
@@ -1093,6 +1561,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-basis</handle>
+    <title>Multi Basis</title>
+    <vendor>Vitakruid</vendor>
     <sku>91862</sku>
     <barcode>8717438691862</barcode>
     <price>28.90</price>
@@ -1100,6 +1571,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>borage-olie-1500-mg-gla-300-mg</handle>
+    <title>Borage Olie 1500 mg GLA 300 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91794</sku>
     <barcode>8717438691794</barcode>
     <price>44.90</price>
@@ -1107,6 +1581,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1400-tg-met-d3</handle>
+    <title>Visolie 1400 TG® met D3</title>
+    <vendor>Vitakruid</vendor>
     <sku>91848</sku>
     <barcode>8717438691848</barcode>
     <price>41.90</price>
@@ -1114,6 +1591,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1400-tg-met-d3</handle>
+    <title>Visolie 1400 TG® met D3</title>
+    <vendor>Vitakruid</vendor>
     <sku>92807</sku>
     <barcode>8717438692807</barcode>
     <price>22.90</price>
@@ -1121,6 +1601,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1400-tg-met-d3</handle>
+    <title>Visolie 1400 TG® met D3</title>
+    <vendor>Vitakruid</vendor>
     <sku>92203</sku>
     <barcode>8717438692203</barcode>
     <price>59.90</price>
@@ -1128,6 +1611,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>femme</handle>
+    <title>Femme</title>
+    <vendor>Vitakruid</vendor>
     <sku>91831</sku>
     <barcode>8717438691831</barcode>
     <price>34.90</price>
@@ -1135,6 +1621,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>femme</handle>
+    <title>Femme</title>
+    <vendor>Vitakruid</vendor>
     <sku>92159</sku>
     <barcode>8717438692159</barcode>
     <price>51.90</price>
@@ -1142,6 +1631,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-k-d-baby</handle>
+    <title>Vitamine K &amp; D Baby</title>
+    <vendor>Vitakruid</vendor>
     <sku>91800</sku>
     <barcode>8717438691800</barcode>
     <price>29.90</price>
@@ -1149,6 +1641,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>saffraan-bioperine</handle>
+    <title>Saffraan &amp; Bioperine®</title>
+    <vendor>Vitakruid</vendor>
     <sku>91893</sku>
     <barcode>8717438691893</barcode>
     <price>29.90</price>
@@ -1156,6 +1651,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>dim-builder</handle>
+    <title>DIM Builder</title>
+    <vendor>Vitakruid</vendor>
     <sku>91886</sku>
     <barcode>8717438691886</barcode>
     <price>49.90</price>
@@ -1163,6 +1661,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>calcium-400-d3-uit-rode-alg</handle>
+    <title>Calcium 400 &amp; D3 uit Rode Alg</title>
+    <vendor>Vitakruid</vendor>
     <sku>91923</sku>
     <barcode>8717438691923</barcode>
     <price>24.90</price>
@@ -1170,6 +1671,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-omega-3-1000-tg</handle>
+    <title>Vegan Omega-3 1000 TG</title>
+    <vendor>Vitakruid</vendor>
     <sku>91916</sku>
     <barcode>8717438691916</barcode>
     <price>41.90</price>
@@ -1177,6 +1681,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-omega-3-1000-tg</handle>
+    <title>Vegan Omega-3 1000 TG</title>
+    <vendor>Vitakruid</vendor>
     <sku>92197</sku>
     <barcode>8717438692197</barcode>
     <price>59.90</price>
@@ -1184,6 +1691,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-poeder</handle>
+    <title>Collageen Solugel® poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>91909</sku>
     <barcode>8717438691909</barcode>
     <price>22.90</price>
@@ -1191,6 +1701,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-poeder</handle>
+    <title>Collageen Solugel® poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>93811</sku>
     <barcode>8717438693811</barcode>
     <price>22.90</price>
@@ -1198,6 +1711,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-poeder</handle>
+    <title>Collageen Solugel® poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>92692</sku>
     <barcode>8717438692692</barcode>
     <price>22.90</price>
@@ -1205,6 +1721,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-poeder</handle>
+    <title>Collageen Solugel® poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>93040</sku>
     <barcode>8717438693040</barcode>
     <price>22.90</price>
@@ -1212,6 +1731,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>hormoonsupport-vrouw-bundel</handle>
+    <title>Hormoonsupport Vrouw Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>hormoonsupport</sku>
     <barcode/>
     <price>100.92</price>
@@ -1219,6 +1741,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>basis-bundel-man</handle>
+    <title>Basis Bundel Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>basis</sku>
     <barcode/>
     <price>76.08</price>
@@ -1226,6 +1751,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>basis-bundel-vrouw</handle>
+    <title>Basis Bundel Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>basis</sku>
     <barcode/>
     <price>76.08</price>
@@ -1233,6 +1761,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>baby-k</handle>
+    <title>Baby K</title>
+    <vendor>Vitakruid</vendor>
     <sku>91824</sku>
     <barcode>8717438691824</barcode>
     <price>17.90</price>
@@ -1240,6 +1771,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>baby-d</handle>
+    <title>Baby D</title>
+    <vendor>Vitakruid</vendor>
     <sku>91817</sku>
     <barcode>8717438691817</barcode>
     <price>12.90</price>
@@ -1247,6 +1781,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>jodium-druppels</handle>
+    <title>Jodium druppels</title>
+    <vendor>Vitakruid</vendor>
     <sku>91978</sku>
     <barcode>8717438691978</barcode>
     <price>14.90</price>
@@ -1254,6 +1791,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>cbd-olie-5-full-spectrum</handle>
+    <title>CBD Olie 5% Full spectrum</title>
+    <vendor>Vitakruid</vendor>
     <sku>91954</sku>
     <barcode>8717438691954</barcode>
     <price>29.90</price>
@@ -1261,6 +1801,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>cbd-olie-10-full-spectrum</handle>
+    <title>CBD Olie 10% Full spectrum</title>
+    <vendor>Vitakruid</vendor>
     <sku>91961</sku>
     <barcode>8717438691961</barcode>
     <price>59.90</price>
@@ -1268,6 +1811,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>mct-olie</handle>
+    <title>MCT Olie C8</title>
+    <vendor>Vitakruid</vendor>
     <sku>91985</sku>
     <barcode>8717438691985</barcode>
     <price>25.90</price>
@@ -1275,6 +1821,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>hyaluronzuur-150</handle>
+    <title>Hyaluronzuur 150</title>
+    <vendor>Vitakruid</vendor>
     <sku>92005</sku>
     <barcode>8717438692005</barcode>
     <price>29.90</price>
@@ -1282,6 +1831,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>lactase-optiferm-3000-fcc</handle>
+    <title>Lactase OptiFerm® 3.000 FCC</title>
+    <vendor>Vitakruid</vendor>
     <sku>91930</sku>
     <barcode>8717438691930</barcode>
     <price>24.90</price>
@@ -1289,6 +1841,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-a-4000-ie-vegan</handle>
+    <title>Vitamine A 4000 IE Vegan</title>
+    <vendor>Vitakruid</vendor>
     <sku>92036</sku>
     <barcode>8717438692036</barcode>
     <price>14.90</price>
@@ -1296,6 +1851,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>lactoferrine-150-mg</handle>
+    <title>Lactoferrine 150 mg</title>
+    <vendor>Vitakruid</vendor>
     <sku>92043</sku>
     <barcode>8717438691053</barcode>
     <price>48.90</price>
@@ -1303,6 +1861,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1200-tg-vloeibaar</handle>
+    <title>Visolie 1200 TG® Vloeibaar</title>
+    <vendor>Vitakruid</vendor>
     <sku>92067</sku>
     <barcode>8717438692067</barcode>
     <price>29.90</price>
@@ -1310,6 +1871,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-basis-vegan-poeder</handle>
+    <title>Multi Basis vegan poeder</title>
+    <vendor>Vitakruid</vendor>
     <sku>91947</sku>
     <barcode>8717438691947</barcode>
     <price>29.90</price>
@@ -1317,6 +1881,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-junior</handle>
+    <title>Symflora® Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>92098</sku>
     <barcode>8717438692098</barcode>
     <price>34.90</price>
@@ -1324,6 +1891,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-baby</handle>
+    <title>Symflora® Baby</title>
+    <vendor>Vitakruid</vendor>
     <sku>92104</sku>
     <barcode>8717438692104</barcode>
     <price>29.90</price>
@@ -1331,6 +1901,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-baby</handle>
+    <title>Symflora® Baby</title>
+    <vendor>Vitakruid</vendor>
     <sku>92876</sku>
     <barcode>8717438692876</barcode>
     <price>57.90</price>
@@ -1338,6 +1911,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>viscollageen</handle>
+    <title>Viscollageen</title>
+    <vendor>Vitakruid</vendor>
     <sku>92050</sku>
     <barcode>8717438692050</barcode>
     <price>23.90</price>
@@ -1345,6 +1921,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>homme</handle>
+    <title>Homme</title>
+    <vendor>Vitakruid</vendor>
     <sku>92111</sku>
     <barcode>8717438692111</barcode>
     <price>49.90</price>
@@ -1352,6 +1931,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>homme</handle>
+    <title>Homme</title>
+    <vendor>Vitakruid</vendor>
     <sku>92555</sku>
     <barcode>8717438692555</barcode>
     <price>73.90</price>
@@ -1359,6 +1941,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ochtend-boost-bundel</handle>
+    <title>Ochtend Boost Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>beauty</sku>
     <barcode/>
     <price>69.64</price>
@@ -1366,6 +1951,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-e</handle>
+    <title>Vitamine E Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92135</sku>
     <barcode>8717438692135</barcode>
     <price>39.90</price>
@@ -1373,6 +1961,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>astaxanthine</handle>
+    <title>Astaxanthine</title>
+    <vendor>Vitakruid</vendor>
     <sku>92227</sku>
     <barcode>8717438692227</barcode>
     <price>24.90</price>
@@ -1380,6 +1971,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-collageen-builder</handle>
+    <title>Vegan Collageen Builder</title>
+    <vendor>Vitakruid</vendor>
     <sku>92234</sku>
     <barcode>8717438692234</barcode>
     <price>29.90</price>
@@ -1387,6 +1981,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-original-capsules</handle>
+    <title>Symflora® Original capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>92128</sku>
     <barcode>8717438692128</barcode>
     <price>49.90</price>
@@ -1394,6 +1991,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>beautycomplex</handle>
+    <title>BeautyComplex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92272</sku>
     <barcode>8717438692272</barcode>
     <price>29.90</price>
@@ -1401,6 +2001,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>biotine-2500</handle>
+    <title>Biotine 2500</title>
+    <vendor>Vitakruid</vendor>
     <sku>92265</sku>
     <barcode>8717438692265</barcode>
     <price>19.90</price>
@@ -1408,6 +2011,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-junior</handle>
+    <title>Magnesium Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>92258</sku>
     <barcode>8717438692258</barcode>
     <price>19.90</price>
@@ -1415,6 +2021,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>rvs-shakebeker</handle>
+    <title>RVS Shakebeker</title>
+    <vendor>Vitakruid</vendor>
     <sku>92241</sku>
     <barcode>8717438692241</barcode>
     <price>19.90</price>
@@ -1422,6 +2031,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-man-50</handle>
+    <title>Multi Dag &amp; Nacht® Man 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92289</sku>
     <barcode>8717438692289</barcode>
     <price>29.90</price>
@@ -1429,6 +2041,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-man-50</handle>
+    <title>Multi Dag &amp; Nacht® Man 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92296</sku>
     <barcode>8717438692296</barcode>
     <price>79.90</price>
@@ -1436,6 +2051,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-vrouw-50</handle>
+    <title>Multi Dag &amp; Nacht® Vrouw 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92401</sku>
     <barcode>8717438692401</barcode>
     <price>29.90</price>
@@ -1443,6 +2061,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-vrouw-50</handle>
+    <title>Multi Dag &amp; Nacht® Vrouw 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92418</sku>
     <barcode>8717438692418</barcode>
     <price>79.90</price>
@@ -1450,6 +2071,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-man-sport</handle>
+    <title>Multi Dag &amp; Nacht® Man Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92340</sku>
     <barcode>8717438692340</barcode>
     <price>29.90</price>
@@ -1457,6 +2081,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-man-sport</handle>
+    <title>Multi Dag &amp; Nacht® Man Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92357</sku>
     <barcode>8717438692357</barcode>
     <price>79.90</price>
@@ -1464,6 +2091,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-vrouw-sport</handle>
+    <title>Multi Dag &amp; Nacht® Vrouw Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92463</sku>
     <barcode>8717438692463</barcode>
     <price>29.90</price>
@@ -1471,6 +2101,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-vrouw-sport</handle>
+    <title>Multi Dag &amp; Nacht® Vrouw Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92470</sku>
     <barcode>8717438692470</barcode>
     <price>79.90</price>
@@ -1478,6 +2111,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>intestina</handle>
+    <title>Intestina</title>
+    <vendor>Vitakruid</vendor>
     <sku>92074</sku>
     <barcode>8717438692074</barcode>
     <price>39.90</price>
@@ -1485,6 +2121,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>slaapcomplex</handle>
+    <title>SlaapComplex®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92524</sku>
     <barcode>8717438692524</barcode>
     <price>39.90</price>
@@ -1492,6 +2131,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>goede-start-baby-bundel</handle>
+    <title>Goede Start Baby Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>goede</sku>
     <barcode/>
     <price>77.92</price>
@@ -1499,6 +2141,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>atrimove-glucosamine-complex-tabletten</handle>
+    <title>Atrimove® Glucosamine Complex tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>92531</sku>
     <barcode>8717438692531</barcode>
     <price>39.90</price>
@@ -1506,6 +2151,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>beauty-essentials-bundel</handle>
+    <title>Beauty Essentials Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>beauty</sku>
     <barcode/>
     <price>73.32</price>
@@ -1513,6 +2161,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1400-tg-sport</handle>
+    <title>Visolie 1400 TG® Sport met D3</title>
+    <vendor>Vitakruid</vendor>
     <sku>92562</sku>
     <barcode>8717438692562</barcode>
     <price>54.90</price>
@@ -1520,6 +2171,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-man-50</handle>
+    <title>Multi Dag Man 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92302</sku>
     <barcode>8717438692302</barcode>
     <price>16.90</price>
@@ -1527,6 +2181,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-man-50</handle>
+    <title>Multi Dag Man 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92319</sku>
     <barcode>8717438692319</barcode>
     <price>42.90</price>
@@ -1534,6 +2191,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-man-50</handle>
+    <title>Multi Nacht Man 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92326</sku>
     <barcode>8717438692326</barcode>
     <price>16.90</price>
@@ -1541,6 +2201,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-man-50</handle>
+    <title>Multi Nacht Man 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92333</sku>
     <barcode>8717438692333</barcode>
     <price>42.90</price>
@@ -1548,6 +2211,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-vrouw-50</handle>
+    <title>Multi Dag Vrouw 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92425</sku>
     <barcode>8717438692425</barcode>
     <price>16.90</price>
@@ -1555,6 +2221,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-vrouw-50</handle>
+    <title>Multi Dag Vrouw 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92432</sku>
     <barcode>8717438692432</barcode>
     <price>42.90</price>
@@ -1562,6 +2231,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-vrouw-50</handle>
+    <title>Multi Nacht Vrouw 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92449</sku>
     <barcode>8717438692449</barcode>
     <price>16.90</price>
@@ -1569,6 +2241,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-vrouw-50</handle>
+    <title>Multi Nacht Vrouw 50+</title>
+    <vendor>Vitakruid</vendor>
     <sku>92456</sku>
     <barcode>8717438692456</barcode>
     <price>42.90</price>
@@ -1576,6 +2251,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-femme</handle>
+    <title>Symflora® Femme</title>
+    <vendor>Vitakruid</vendor>
     <sku>92593</sku>
     <barcode>8717438692593</barcode>
     <price>49.90</price>
@@ -1583,6 +2261,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>postpartum-mama</handle>
+    <title>Postpartum Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>92616</sku>
     <barcode>8717438692616</barcode>
     <price>44.90</price>
@@ -1590,6 +2271,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-man-sport</handle>
+    <title>Multi Dag Man Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92364</sku>
     <barcode>8717438692364</barcode>
     <price>16.90</price>
@@ -1597,6 +2281,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-man-sport</handle>
+    <title>Multi Dag Man Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92371</sku>
     <barcode>8717438692371</barcode>
     <price>42.90</price>
@@ -1604,6 +2291,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-vrouw-sport</handle>
+    <title>Multi Dag Vrouw Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92487</sku>
     <barcode>8717438692487</barcode>
     <price>16.90</price>
@@ -1611,6 +2301,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-vrouw-sport</handle>
+    <title>Multi Dag Vrouw Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92494</sku>
     <barcode>8717438692494</barcode>
     <price>42.90</price>
@@ -1618,6 +2311,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-vrouw-sport</handle>
+    <title>Multi Nacht Vrouw Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92500</sku>
     <barcode>8717438692500</barcode>
     <price>16.90</price>
@@ -1625,6 +2321,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-vrouw-sport</handle>
+    <title>Multi Nacht Vrouw Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92517</sku>
     <barcode>8717438692517</barcode>
     <price>42.90</price>
@@ -1632,6 +2331,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-man-sport</handle>
+    <title>Multi Nacht Man Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92388</sku>
     <barcode>8717438692388</barcode>
     <price>16.90</price>
@@ -1639,6 +2341,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-man-sport</handle>
+    <title>Multi Nacht Man Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>92395</sku>
     <barcode>8717438692395</barcode>
     <price>42.90</price>
@@ -1646,6 +2351,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>beaute-collageen-complex</handle>
+    <title>Beauté® Collageen Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92661</sku>
     <barcode>8717438692661</barcode>
     <price>29.90</price>
@@ -1653,6 +2361,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>beaute-collageen-complex</handle>
+    <title>Beauté® Collageen Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93620</sku>
     <barcode>8717438693620</barcode>
     <price>29.90</price>
@@ -1660,6 +2371,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>creatine-monohydraat</handle>
+    <title>Creatine Monohydraat</title>
+    <vendor>Vitakruid</vendor>
     <sku>92647</sku>
     <barcode>8717438692647</barcode>
     <price>19.90</price>
@@ -1667,6 +2381,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-proteine</handle>
+    <title>Vegan Protein Fava Bean &amp; Soy Isolate</title>
+    <vendor>Vitakruid</vendor>
     <sku>92654</sku>
     <barcode>8717438692654</barcode>
     <price>39.90</price>
@@ -1674,6 +2391,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-proteine</handle>
+    <title>Vegan Protein Fava Bean &amp; Soy Isolate</title>
+    <vendor>Vitakruid</vendor>
     <sku>93705</sku>
     <barcode>8717438693705</barcode>
     <price>39.90</price>
@@ -1681,6 +2401,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>choline-complex</handle>
+    <title>Choline Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92708</sku>
     <barcode>8717438692708</barcode>
     <price>39.90</price>
@@ -1688,6 +2411,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-tabletten</handle>
+    <title>Collageen Solugel® tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>92715</sku>
     <barcode>8717438692715</barcode>
     <price>29.90</price>
@@ -1695,6 +2421,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>clear-whey-isolate</handle>
+    <title>Clear Whey Isolate</title>
+    <vendor>Vitakruid</vendor>
     <sku>92739</sku>
     <barcode>8717438692739</barcode>
     <price>44.90</price>
@@ -1702,6 +2431,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>clear-whey-isolate</handle>
+    <title>Clear Whey Isolate</title>
+    <vendor>Vitakruid</vendor>
     <sku>92920</sku>
     <barcode>8717438692920</barcode>
     <price>44.90</price>
@@ -1709,6 +2441,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>silsolutions</handle>
+    <title>SilSolutions®</title>
+    <vendor>Vitakruid</vendor>
     <sku>9014</sku>
     <barcode>8717438690148</barcode>
     <price>26.90</price>
@@ -1716,6 +2451,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>silsolutions</handle>
+    <title>SilSolutions®</title>
+    <vendor>Vitakruid</vendor>
     <sku>9012</sku>
     <barcode>8717438690124</barcode>
     <price>44.90</price>
@@ -1723,6 +2461,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>silsolutions</handle>
+    <title>SilSolutions®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92678</sku>
     <barcode>8717438692678</barcode>
     <price>26.90</price>
@@ -1730,6 +2471,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>silsolutions</handle>
+    <title>SilSolutions®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92685</sku>
     <barcode>8717438692685</barcode>
     <price>44.90</price>
@@ -1737,6 +2481,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>silsolutions</handle>
+    <title>SilSolutions®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92814</sku>
     <barcode>8717438692814</barcode>
     <price>26.90</price>
@@ -1744,6 +2491,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>silsolutions</handle>
+    <title>SilSolutions®</title>
+    <vendor>Vitakruid</vendor>
     <sku>92821</sku>
     <barcode>8717438692821</barcode>
     <price>44.90</price>
@@ -1751,6 +2501,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>gaba-capsules</handle>
+    <title>GABA Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>92838</sku>
     <barcode>8717438692838</barcode>
     <price>19.90</price>
@@ -1758,6 +2511,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-complex</handle>
+    <title>Magnesium Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92845</sku>
     <barcode>8717438692845</barcode>
     <price>19.90</price>
@@ -1765,6 +2521,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>pillendoosje-7-dagen</handle>
+    <title>Pillendoosje - 7 dagen</title>
+    <vendor>Vitakruid</vendor>
     <sku>92623</sku>
     <barcode>8717438692623</barcode>
     <price>9.90</price>
@@ -1772,6 +2531,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>whey-protein</handle>
+    <title>Whey Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>92746</sku>
     <barcode>8717438692746</barcode>
     <price>34.90</price>
@@ -1779,6 +2541,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>whey-protein</handle>
+    <title>Whey Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>92906</sku>
     <barcode>8717438692906</barcode>
     <price>34.90</price>
@@ -1786,6 +2551,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>whey-protein</handle>
+    <title>Whey Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>93439</sku>
     <barcode>8717438693439</barcode>
     <price>19.90</price>
@@ -1793,6 +2561,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>whey-protein</handle>
+    <title>Whey Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>93422</sku>
     <barcode>8717438693422</barcode>
     <price>19.90</price>
@@ -1800,6 +2571,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>sport-shakebeker</handle>
+    <title>Sport Shakebeker</title>
+    <vendor>Vitakruid</vendor>
     <sku>92890</sku>
     <barcode>8717438692890</barcode>
     <price>6.90</price>
@@ -1807,6 +2581,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-l-threonaat</handle>
+    <title>Magnesium L-Threonaat</title>
+    <vendor>Vitakruid</vendor>
     <sku>92937</sku>
     <barcode>8717438692937</barcode>
     <price>49.90</price>
@@ -1814,6 +2591,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-whey-protein</handle>
+    <title>Elite Whey Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>92883</sku>
     <barcode>8717438692883</barcode>
     <price>49.90</price>
@@ -1821,6 +2601,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-whey-protein</handle>
+    <title>Elite Whey Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>92913</sku>
     <barcode>8717438692913</barcode>
     <price>49.90</price>
@@ -1828,6 +2611,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>cordyceps-cpa3</handle>
+    <title>Cordyceps CPA³</title>
+    <vendor>Vitakruid</vendor>
     <sku>92968</sku>
     <barcode>8717438692968</barcode>
     <price>34.90</price>
@@ -1835,6 +2621,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>energiecomplex</handle>
+    <title>EnergieComplex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92944</sku>
     <barcode>8717438692944</barcode>
     <price>34.90</price>
@@ -1842,6 +2631,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-creatine-complex</handle>
+    <title>Elite Creatine Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>92951</sku>
     <barcode>8717438692951</barcode>
     <price>34.90</price>
@@ -1849,6 +2641,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-creatine-complex</handle>
+    <title>Elite Creatine Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93385</sku>
     <barcode>8717438693385</barcode>
     <price>34.90</price>
@@ -1856,6 +2651,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>echinacea2</handle>
+    <title>Echinacea² purpurea-angustifolia</title>
+    <vendor>Vitakruid</vendor>
     <sku>92975</sku>
     <barcode>8717438692975</barcode>
     <price>29.90</price>
@@ -1863,6 +2661,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>bcaa-4-1-1</handle>
+    <title>BCAA 4:1:1</title>
+    <vendor>Vitakruid</vendor>
     <sku>92982</sku>
     <barcode>8717438692982</barcode>
     <price>34.90</price>
@@ -1870,6 +2671,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-post-workout-man</handle>
+    <title>Elite Post Workout Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>92999</sku>
     <barcode>8717438692999</barcode>
     <price>39.90</price>
@@ -1877,6 +2681,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-post-workout-vrouw</handle>
+    <title>Elite Post Workout Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>93002</sku>
     <barcode>8717438693002</barcode>
     <price>39.90</price>
@@ -1884,6 +2691,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>shilajit-500-primavie</handle>
+    <title>Shilajit 500 PrimaVie®</title>
+    <vendor>Vitakruid</vendor>
     <sku>93361</sku>
     <barcode>8717438693361</barcode>
     <price>39.90</price>
@@ -1891,6 +2701,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>beauty-whey-concentrate</handle>
+    <title>Beauty Whey Vanille</title>
+    <vendor>Vitakruid</vendor>
     <sku>93354</sku>
     <barcode>8717438693354</barcode>
     <price>34.90</price>
@@ -1898,6 +2711,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>creatine-monohydraat-tabletten</handle>
+    <title>Creatine Monohydraat tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>93392</sku>
     <barcode>8717438693392</barcode>
     <price>19.90</price>
@@ -1905,6 +2721,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sportlegging</handle>
+    <title>Elite Sportlegging</title>
+    <vendor>Vitakruid</vendor>
     <sku>93309</sku>
     <barcode/>
     <price>49.90</price>
@@ -1912,6 +2731,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sportlegging</handle>
+    <title>Elite Sportlegging</title>
+    <vendor>Vitakruid</vendor>
     <sku>93316</sku>
     <barcode/>
     <price>49.90</price>
@@ -1919,6 +2741,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sportlegging</handle>
+    <title>Elite Sportlegging</title>
+    <vendor>Vitakruid</vendor>
     <sku>93323</sku>
     <barcode/>
     <price>49.90</price>
@@ -1926,6 +2751,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sportlegging</handle>
+    <title>Elite Sportlegging</title>
+    <vendor>Vitakruid</vendor>
     <sku>93330</sku>
     <barcode/>
     <price>49.90</price>
@@ -1933,6 +2761,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-bh</handle>
+    <title>Elite Sport BH</title>
+    <vendor>Vitakruid</vendor>
     <sku>93262</sku>
     <barcode/>
     <price>24.90</price>
@@ -1940,6 +2771,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-bh</handle>
+    <title>Elite Sport BH</title>
+    <vendor>Vitakruid</vendor>
     <sku>93279</sku>
     <barcode/>
     <price>24.90</price>
@@ -1947,6 +2781,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-bh</handle>
+    <title>Elite Sport BH</title>
+    <vendor>Vitakruid</vendor>
     <sku>93286</sku>
     <barcode/>
     <price>24.90</price>
@@ -1954,6 +2791,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-bh</handle>
+    <title>Elite Sport BH</title>
+    <vendor>Vitakruid</vendor>
     <sku>93293</sku>
     <barcode/>
     <price>24.90</price>
@@ -1961,6 +2801,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-short-man</handle>
+    <title>Elite Sport Short</title>
+    <vendor>Vitakruid</vendor>
     <sku>93217</sku>
     <barcode/>
     <price>35.90</price>
@@ -1968,6 +2811,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-short-man</handle>
+    <title>Elite Sport Short</title>
+    <vendor>Vitakruid</vendor>
     <sku>93224</sku>
     <barcode/>
     <price>35.90</price>
@@ -1975,6 +2821,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-short-man</handle>
+    <title>Elite Sport Short</title>
+    <vendor>Vitakruid</vendor>
     <sku>93231</sku>
     <barcode/>
     <price>35.90</price>
@@ -1982,6 +2831,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-short-man</handle>
+    <title>Elite Sport Short</title>
+    <vendor>Vitakruid</vendor>
     <sku>93248</sku>
     <barcode/>
     <price>35.90</price>
@@ -1989,6 +2841,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-short-man</handle>
+    <title>Elite Sport Short</title>
+    <vendor>Vitakruid</vendor>
     <sku>93255</sku>
     <barcode/>
     <price>35.90</price>
@@ -1996,6 +2851,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-shirt-man</handle>
+    <title>Elite Sport Shirt</title>
+    <vendor>Vitakruid</vendor>
     <sku>93163</sku>
     <barcode/>
     <price>29.90</price>
@@ -2003,6 +2861,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-shirt-man</handle>
+    <title>Elite Sport Shirt</title>
+    <vendor>Vitakruid</vendor>
     <sku>93170</sku>
     <barcode/>
     <price>29.90</price>
@@ -2010,6 +2871,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-shirt-man</handle>
+    <title>Elite Sport Shirt</title>
+    <vendor>Vitakruid</vendor>
     <sku>93187</sku>
     <barcode/>
     <price>29.90</price>
@@ -2017,6 +2881,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-shirt-man</handle>
+    <title>Elite Sport Shirt</title>
+    <vendor>Vitakruid</vendor>
     <sku>93194</sku>
     <barcode/>
     <price>29.90</price>
@@ -2024,6 +2891,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-sport-shirt-man</handle>
+    <title>Elite Sport Shirt</title>
+    <vendor>Vitakruid</vendor>
     <sku>93200</sku>
     <barcode/>
     <price>29.90</price>
@@ -2031,6 +2901,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93088</sku>
     <barcode/>
     <price>34.90</price>
@@ -2038,6 +2911,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93095</sku>
     <barcode/>
     <price>34.90</price>
@@ -2045,6 +2921,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93101</sku>
     <barcode/>
     <price>34.90</price>
@@ -2052,6 +2931,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93118</sku>
     <barcode/>
     <price>34.90</price>
@@ -2059,6 +2941,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93125</sku>
     <barcode/>
     <price>34.90</price>
@@ -2066,6 +2951,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93132</sku>
     <barcode/>
     <price>34.90</price>
@@ -2073,6 +2961,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93149</sku>
     <barcode/>
     <price>34.90</price>
@@ -2080,6 +2971,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93156</sku>
     <barcode/>
     <price>34.90</price>
@@ -2087,6 +2981,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93064</sku>
     <barcode/>
     <price>34.90</price>
@@ -2094,6 +2991,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-oversized-t-shirt-unisex</handle>
+    <title>Elite Oversized T-Shirt (unisex)</title>
+    <vendor>Vitakruid</vendor>
     <sku>93071</sku>
     <barcode/>
     <price>34.90</price>
@@ -2101,6 +3001,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-pre-workout-man</handle>
+    <title>Elite Pre Workout Man</title>
+    <vendor>Vitakruid</vendor>
     <sku>93019</sku>
     <barcode>8717438693019</barcode>
     <price>39.90</price>
@@ -2108,6 +3011,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-pre-workout-vrouw</handle>
+    <title>Elite Pre Workout Vrouw</title>
+    <vendor>Vitakruid</vendor>
     <sku>93026</sku>
     <barcode>8717438693026</barcode>
     <price>39.90</price>
@@ -2115,6 +3021,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-sachets</handle>
+    <title>Collageen Solugel® sachets</title>
+    <vendor>Vitakruid</vendor>
     <sku>93378</sku>
     <barcode>8717438693378</barcode>
     <price>29.90</price>
@@ -2122,6 +3031,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>collageen-solugel-matcha</handle>
+    <title>Collageen Solugel® Matcha</title>
+    <vendor>Vitakruid</vendor>
     <sku>93460</sku>
     <barcode>8717438693460</barcode>
     <price>34.90</price>
@@ -2129,6 +3041,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>elite-elektrolyten</handle>
+    <title>Elite Elektrolyten</title>
+    <vendor>Vitakruid</vendor>
     <sku>93033</sku>
     <barcode>8717438693033</barcode>
     <price>24.90</price>
@@ -2136,6 +3051,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>lions-mane</handle>
+    <title>Lion's Mane³</title>
+    <vendor>Vitakruid</vendor>
     <sku>93453</sku>
     <barcode>8717438693453</barcode>
     <price>34.90</price>
@@ -2143,6 +3061,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>matcha</handle>
+    <title>Matcha</title>
+    <vendor>Vitakruid</vendor>
     <sku>93477</sku>
     <barcode>8717438693477</barcode>
     <price>44.90</price>
@@ -2150,6 +3071,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>d-ribose</handle>
+    <title>D-Ribose</title>
+    <vendor>Vitakruid</vendor>
     <sku>93484</sku>
     <barcode>8717438693484</barcode>
     <price>34.90</price>
@@ -2157,6 +3081,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1800-tg-mama</handle>
+    <title>Visolie 1800 TG® Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>93675</sku>
     <barcode>8717438693675</barcode>
     <price>15.90</price>
@@ -2164,6 +3091,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1800-tg-mama</handle>
+    <title>Visolie 1800 TG® Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>93514</sku>
     <barcode>8717438693514</barcode>
     <price>44.90</price>
@@ -2171,6 +3101,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-sport</handle>
+    <title>Magnesium Sport</title>
+    <vendor>Vitakruid</vendor>
     <sku>93521</sku>
     <barcode>8717438693521</barcode>
     <price>25.90</price>
@@ -2178,6 +3111,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-150-tauraat</handle>
+    <title>Magnesium 150 Tauraat</title>
+    <vendor>Vitakruid</vendor>
     <sku>93538</sku>
     <barcode>8717438693538</barcode>
     <price>29.90</price>
@@ -2185,6 +3121,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-elite-5-complex</handle>
+    <title>Magnesium Elite⁵ Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93545</sku>
     <barcode>8717438693545</barcode>
     <price>29.90</price>
@@ -2192,6 +3131,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>samplepakket-mama</handle>
+    <title>Samplepakket Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>93446</sku>
     <barcode>8717438693446</barcode>
     <price>7.90</price>
@@ -2199,6 +3141,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>guarboonvezels</handle>
+    <title>Guarboonvezels</title>
+    <vendor>Vitakruid</vendor>
     <sku>93552</sku>
     <barcode>8717438693552</barcode>
     <price>44.90</price>
@@ -2206,6 +3151,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>maca-complex</handle>
+    <title>Maca³ Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93590</sku>
     <barcode>8717438693590</barcode>
     <price>29.90</price>
@@ -2213,6 +3161,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>marine-fytoplankton</handle>
+    <title>Marine Fytoplankton</title>
+    <vendor>Vitakruid</vendor>
     <sku>93576</sku>
     <barcode>8717438693576</barcode>
     <price>34.90</price>
@@ -2220,6 +3171,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-k2-softgels</handle>
+    <title>Vitamine D3 &amp; K2 softgels</title>
+    <vendor>Vitakruid</vendor>
     <sku>93606</sku>
     <barcode>8717438693606</barcode>
     <price>24.90</price>
@@ -2227,6 +3181,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vitamine-d3-k2-tabletten</handle>
+    <title>Vitamine D3 &amp; K2 tabletten</title>
+    <vendor>Vitakruid</vendor>
     <sku>93613</sku>
     <barcode>8717438693613</barcode>
     <price>19.90</price>
@@ -2234,6 +3191,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>vegan-clear-protein</handle>
+    <title>Vegan Clear Protein</title>
+    <vendor>Vitakruid</vendor>
     <sku>93491</sku>
     <barcode>8717438693491</barcode>
     <price>44.90</price>
@@ -2241,6 +3201,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>rvs-waterfles</handle>
+    <title>Waterfles</title>
+    <vendor>Vitakruid</vendor>
     <sku>93507</sku>
     <barcode/>
     <price>24.90</price>
@@ -2248,6 +3211,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>magnesium-elite-6-complex</handle>
+    <title>Magnesium Elite⁶ Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93699</sku>
     <barcode>8717438693699</barcode>
     <price>34.90</price>
@@ -2255,6 +3221,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>visolie-1100-tg-junior</handle>
+    <title>Visolie 1100 TG® Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>93569</sku>
     <barcode>8717438693569</barcode>
     <price>22.90</price>
@@ -2262,6 +3231,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>reishi-duo-extract</handle>
+    <title>Reishi³ Duo extract</title>
+    <vendor>Vitakruid</vendor>
     <sku>93804</sku>
     <barcode>8717438693804</barcode>
     <price>34.90</price>
@@ -2269,6 +3241,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>femme-vruchtbaarheid-support</handle>
+    <title>Femme Vruchtbaarheid Support</title>
+    <vendor>Vitakruid</vendor>
     <sku>93835</sku>
     <barcode>8717438693835</barcode>
     <price>34.90</price>
@@ -2276,6 +3251,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>myo-inositol-complex</handle>
+    <title>Myo-Inositol Complex</title>
+    <vendor>Vitakruid</vendor>
     <sku>93842</sku>
     <barcode>8717438693842</barcode>
     <price>29.90</price>
@@ -2283,6 +3261,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>symflora-mama</handle>
+    <title>Symflora® Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>93828</sku>
     <barcode>8717438693828</barcode>
     <price>39.90</price>
@@ -2290,6 +3271,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>clean-vegan-protein-bar</handle>
+    <title>Clean Vegan Protein Bar</title>
+    <vendor>Vitakruid</vendor>
     <sku>93712</sku>
     <barcode>8717438693712</barcode>
     <price>2.90</price>
@@ -2297,6 +3281,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>clean-vegan-protein-bar</handle>
+    <title>Clean Vegan Protein Bar</title>
+    <vendor>Vitakruid</vendor>
     <sku>93729</sku>
     <barcode>8717438693729</barcode>
     <price>34.50</price>
@@ -2304,6 +3291,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-mama-capsules</handle>
+    <title>Multi Dag &amp; Nacht® Mama Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>93736</sku>
     <barcode>8717438693736</barcode>
     <price>34.90</price>
@@ -2311,6 +3301,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-nacht-mama-capsules</handle>
+    <title>Multi Dag &amp; Nacht® Mama Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>93743</sku>
     <barcode>8717438693743</barcode>
     <price>89.90</price>
@@ -2318,6 +3311,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-100-ri</handle>
+    <title>Multi 100% RI</title>
+    <vendor>Vitakruid</vendor>
     <sku>93873</sku>
     <barcode>8717438693873</barcode>
     <price>28.90</price>
@@ -2325,6 +3321,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>ijzer-bisglycinaat-mama</handle>
+    <title>IJzer Bisglycinaat Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>93866</sku>
     <barcode>8717438693866</barcode>
     <price>22.90</price>
@@ -2332,6 +3331,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-mama-capsules</handle>
+    <title>Multi Dag Mama Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>93750</sku>
     <barcode>8717438693750</barcode>
     <price>19.90</price>
@@ -2339,6 +3341,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-dag-mama-capsules</handle>
+    <title>Multi Dag Mama Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>93767</sku>
     <barcode>8717438693767</barcode>
     <price>49.90</price>
@@ -2346,6 +3351,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-mama-capsules</handle>
+    <title>Multi Nacht Mama Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>93774</sku>
     <barcode>8717438693774</barcode>
     <price>19.90</price>
@@ -2353,6 +3361,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-nacht-mama-capsules</handle>
+    <title>Multi Nacht Mama Capsules</title>
+    <vendor>Vitakruid</vendor>
     <sku>93781</sku>
     <barcode>8717438693774</barcode>
     <price>49.90</price>
@@ -2360,6 +3371,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>calcium-1000-mama</handle>
+    <title>Calcium 1000 Mama</title>
+    <vendor>Vitakruid</vendor>
     <sku>93880</sku>
     <barcode>8717438693880</barcode>
     <price>29.90</price>
@@ -2367,6 +3381,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>multi-one-a-day-junior</handle>
+    <title>Multi One-a-Day Junior</title>
+    <vendor>Vitakruid</vendor>
     <sku>93897</sku>
     <barcode>8717438693897</barcode>
     <price>29.90</price>
@@ -2374,6 +3391,9 @@
     <quantity/>
   </product>
   <product>
+    <handle>zwangerschap-bundel</handle>
+    <title>Zwangerschap Bundel</title>
+    <vendor>Vitakruid</vendor>
     <sku>zwangerschap</sku>
     <barcode/>
     <price>69.64</price>
