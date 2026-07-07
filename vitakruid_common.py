@@ -31,7 +31,8 @@ REQUEST_DELAY = 0.5
 # zowel de add- als de update-feed ze overslaat.
 EXCLUDE_SLUG = re.compile(
     r"(whey|proteine|protein|isolate|creatine|pre-workout|bcaa|gainer|"
-    r"t-shirt|shirt|legging|sport-bh|sport-short|hoodie|bidon|shaker)",
+    r"t-shirt|shirt|legging|sport-bh|sport-short|hoodie|"
+    r"bidon|shaker|beker|shopper|bottle|waterfles|drinkfles|pillendoosje)",
     re.I,
 )
 
