@@ -17,13 +17,19 @@ import vitakruid_common as vc
 OUTPUT_FILE = "vitakruid_add_feed.xml"
 
 
-def build_description_html(p):
-    """Rijke beschrijving (al HTML) + samenstelling (actieve stof) + doseervorm."""
+def build_description_html(p, v):
+    """
+    Rijke beschrijving (al HTML) + samenstelling MÉT doseringen/%RI (per variant,
+    valt terug op de kale namen) + inname-dosering + doseervorm.
+    """
     parts = []
     if p.get("description_html"):
         parts.append(p["description_html"])
-    if p.get("active_ingredient"):
-        parts.append(f"<p><strong>Samenstelling:</strong> {escape(p['active_ingredient'])}</p>")
+    samenstelling = v.get("samenstelling") or p.get("active_ingredient")
+    if samenstelling:
+        parts.append(f"<p><strong>Samenstelling:</strong> {escape(samenstelling)}</p>")
+    if v.get("dosering"):
+        parts.append(f"<p><strong>Dosering:</strong> {escape(v['dosering'])}</p>")
     if p.get("dosage_form"):
         parts.append(f"<p><strong>Doseervorm:</strong> {escape(p['dosage_form'])}</p>")
     return "\n".join(parts)
@@ -32,7 +38,6 @@ def build_description_html(p):
 def build_xml(products):
     root = ET.Element("products")
     for p in products:
-        desc = build_description_html(p)
         # afbeeldingen: product-afbeeldingen gedeeld over de varianten
         base_images = p.get("images", [])
         for v in p["variants"]:
@@ -53,8 +58,9 @@ def build_xml(products):
             add("option1_name", "Inhoud")
             add("option1", v.get("label", ""))
             add("zindex", v.get("zindex", ""))
-            add("description", desc)
-            add("active_ingredient", p.get("active_ingredient", ""))
+            add("description", build_description_html(p, v))
+            add("samenstelling", v.get("samenstelling") or p.get("active_ingredient", ""))
+            add("dosering", v.get("dosering", ""))
             add("dosage_form", p.get("dosage_form", ""))
 
             # afbeeldingen: variant-afbeelding eerst, dan de productfoto's

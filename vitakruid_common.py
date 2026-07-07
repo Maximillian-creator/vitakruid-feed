@@ -189,7 +189,13 @@ def parse_variant(session, code):
     pm = re.search(r"€\s*([\d.]+,\d{2})", clean_text(price_html))
     price = float(pm.group(1).replace(".", "").replace(",", ".")) if pm else None
     img = (re.search(r'src="([^"]+)"', j.get("figure_template") or "") or [None, ""])[1]
-    return {"code": code, "sku": sku, "ean": ean, "zindex": zindex, "price": price, "image": img}
+    # Volledige samenstelling MÉT doseringen/%RI + inname-instructies (per variant)
+    samenstelling = clean_text(j.get("variant_ingredient_table_template", ""))
+    dosering = clean_text(j.get("variant_dosage_table_template", ""))
+    return {
+        "code": code, "sku": sku, "ean": ean, "zindex": zindex, "price": price,
+        "image": img, "samenstelling": samenstelling, "dosering": dosering,
+    }
 
 
 def scrape_products(session, slugs):
