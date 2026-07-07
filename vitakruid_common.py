@@ -26,6 +26,15 @@ import requests
 BASE = "https://www.vitakruid.nl"
 REQUEST_DELAY = 0.5
 
+# Kleding + sportvoeding uit de Vitakruid-catalogus die niet in een
+# supplementenwinkel thuishoren. Gefilterd op slug-niveau (woordtokens), zodat
+# zowel de add- als de update-feed ze overslaat.
+EXCLUDE_SLUG = re.compile(
+    r"(whey|proteine|protein|isolate|creatine|pre-workout|bcaa|gainer|"
+    r"t-shirt|shirt|legging|sport-bh|sport-short|hoodie|bidon|shaker)",
+    re.I,
+)
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; GoodForYouFeedBot/1.0; +https://goodforyouonline.nl)",
     "Accept-Language": "nl-NL,nl;q=0.9",
@@ -79,7 +88,7 @@ def iter_product_slugs():
     seen = set()
     for loc in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", r.text):
         m = re.match(rf"{re.escape(BASE)}/products/([^/?#]+)/?$", loc.strip())
-        if m and m.group(1) not in seen:
+        if m and m.group(1) not in seen and not EXCLUDE_SLUG.search(m.group(1)):
             seen.add(m.group(1))
             slugs.append(m.group(1))
     return slugs
