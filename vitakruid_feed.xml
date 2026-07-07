@@ -2371,36 +2371,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>creatine-monohydraat</handle>
-    <title>Creatine Monohydraat</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92647</sku>
-    <barcode>8717438692647</barcode>
-    <price>19.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>vegan-proteine</handle>
-    <title>Vegan Protein Fava Bean &amp; Soy Isolate</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92654</sku>
-    <barcode>8717438692654</barcode>
-    <price>39.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>vegan-proteine</handle>
-    <title>Vegan Protein Fava Bean &amp; Soy Isolate</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93705</sku>
-    <barcode>8717438693705</barcode>
-    <price>39.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>choline-complex</handle>
     <title>Choline Complex</title>
     <vendor>Vitakruid</vendor>
@@ -2417,26 +2387,6 @@
     <sku>92715</sku>
     <barcode>8717438692715</barcode>
     <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>clear-whey-isolate</handle>
-    <title>Clear Whey Isolate</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92739</sku>
-    <barcode>8717438692739</barcode>
-    <price>44.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>clear-whey-isolate</handle>
-    <title>Clear Whey Isolate</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92920</sku>
-    <barcode>8717438692920</barcode>
-    <price>44.90</price>
     <available>true</available>
     <quantity/>
   </product>
@@ -2531,46 +2481,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>whey-protein</handle>
-    <title>Whey Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92746</sku>
-    <barcode>8717438692746</barcode>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>whey-protein</handle>
-    <title>Whey Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92906</sku>
-    <barcode>8717438692906</barcode>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>whey-protein</handle>
-    <title>Whey Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93439</sku>
-    <barcode>8717438693439</barcode>
-    <price>19.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>whey-protein</handle>
-    <title>Whey Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93422</sku>
-    <barcode>8717438693422</barcode>
-    <price>19.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>sport-shakebeker</handle>
     <title>Sport Shakebeker</title>
     <vendor>Vitakruid</vendor>
@@ -2586,26 +2496,6 @@
     <vendor>Vitakruid</vendor>
     <sku>92937</sku>
     <barcode>8717438692937</barcode>
-    <price>49.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-whey-protein</handle>
-    <title>Elite Whey Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92883</sku>
-    <barcode>8717438692883</barcode>
-    <price>49.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-whey-protein</handle>
-    <title>Elite Whey Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92913</sku>
-    <barcode>8717438692913</barcode>
     <price>49.90</price>
     <available>true</available>
     <quantity/>
@@ -2631,42 +2521,12 @@
     <quantity/>
   </product>
   <product>
-    <handle>elite-creatine-complex</handle>
-    <title>Elite Creatine Complex</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92951</sku>
-    <barcode>8717438692951</barcode>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-creatine-complex</handle>
-    <title>Elite Creatine Complex</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93385</sku>
-    <barcode>8717438693385</barcode>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>echinacea2</handle>
     <title>Echinacea² purpurea-angustifolia</title>
     <vendor>Vitakruid</vendor>
     <sku>92975</sku>
     <barcode>8717438692975</barcode>
     <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>bcaa-4-1-1</handle>
-    <title>BCAA 4:1:1</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92982</sku>
-    <barcode>8717438692982</barcode>
-    <price>34.90</price>
     <available>true</available>
     <quantity/>
   </product>
@@ -2696,326 +2556,6 @@
     <vendor>Vitakruid</vendor>
     <sku>93361</sku>
     <barcode>8717438693361</barcode>
-    <price>39.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>beauty-whey-concentrate</handle>
-    <title>Beauty Whey Vanille</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93354</sku>
-    <barcode>8717438693354</barcode>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>creatine-monohydraat-tabletten</handle>
-    <title>Creatine Monohydraat tabletten</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93392</sku>
-    <barcode>8717438693392</barcode>
-    <price>19.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sportlegging</handle>
-    <title>Elite Sportlegging</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93309</sku>
-    <barcode/>
-    <price>49.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sportlegging</handle>
-    <title>Elite Sportlegging</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93316</sku>
-    <barcode/>
-    <price>49.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sportlegging</handle>
-    <title>Elite Sportlegging</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93323</sku>
-    <barcode/>
-    <price>49.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sportlegging</handle>
-    <title>Elite Sportlegging</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93330</sku>
-    <barcode/>
-    <price>49.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-bh</handle>
-    <title>Elite Sport BH</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93262</sku>
-    <barcode/>
-    <price>24.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-bh</handle>
-    <title>Elite Sport BH</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93279</sku>
-    <barcode/>
-    <price>24.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-bh</handle>
-    <title>Elite Sport BH</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93286</sku>
-    <barcode/>
-    <price>24.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-bh</handle>
-    <title>Elite Sport BH</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93293</sku>
-    <barcode/>
-    <price>24.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-short-man</handle>
-    <title>Elite Sport Short</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93217</sku>
-    <barcode/>
-    <price>35.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-short-man</handle>
-    <title>Elite Sport Short</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93224</sku>
-    <barcode/>
-    <price>35.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-short-man</handle>
-    <title>Elite Sport Short</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93231</sku>
-    <barcode/>
-    <price>35.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-short-man</handle>
-    <title>Elite Sport Short</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93248</sku>
-    <barcode/>
-    <price>35.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-short-man</handle>
-    <title>Elite Sport Short</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93255</sku>
-    <barcode/>
-    <price>35.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-shirt-man</handle>
-    <title>Elite Sport Shirt</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93163</sku>
-    <barcode/>
-    <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-shirt-man</handle>
-    <title>Elite Sport Shirt</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93170</sku>
-    <barcode/>
-    <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-shirt-man</handle>
-    <title>Elite Sport Shirt</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93187</sku>
-    <barcode/>
-    <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-shirt-man</handle>
-    <title>Elite Sport Shirt</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93194</sku>
-    <barcode/>
-    <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-sport-shirt-man</handle>
-    <title>Elite Sport Shirt</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93200</sku>
-    <barcode/>
-    <price>29.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93088</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93095</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93101</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93118</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93125</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93132</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93149</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93156</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93064</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-oversized-t-shirt-unisex</handle>
-    <title>Elite Oversized T-Shirt (unisex)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93071</sku>
-    <barcode/>
-    <price>34.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-pre-workout-man</handle>
-    <title>Elite Pre Workout Man</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93019</sku>
-    <barcode>8717438693019</barcode>
-    <price>39.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>elite-pre-workout-vrouw</handle>
-    <title>Elite Pre Workout Vrouw</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93026</sku>
-    <barcode>8717438693026</barcode>
     <price>39.90</price>
     <available>true</available>
     <quantity/>
@@ -3191,16 +2731,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>vegan-clear-protein</handle>
-    <title>Vegan Clear Protein</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93491</sku>
-    <barcode>8717438693491</barcode>
-    <price>44.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>rvs-waterfles</handle>
     <title>Waterfles</title>
     <vendor>Vitakruid</vendor>
@@ -3267,26 +2797,6 @@
     <sku>93828</sku>
     <barcode>8717438693828</barcode>
     <price>39.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>clean-vegan-protein-bar</handle>
-    <title>Clean Vegan Protein Bar</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93712</sku>
-    <barcode>8717438693712</barcode>
-    <price>2.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>clean-vegan-protein-bar</handle>
-    <title>Clean Vegan Protein Bar</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93729</sku>
-    <barcode>8717438693729</barcode>
-    <price>34.50</price>
     <available>true</available>
     <quantity/>
   </product>
