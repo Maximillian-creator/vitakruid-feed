@@ -1491,16 +1491,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>luxe-shopper-eco</handle>
-    <title>Luxe shopper (eco)</title>
-    <vendor>Vitakruid</vendor>
-    <sku>746</sku>
-    <barcode/>
-    <price>6.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>relaxcomplex</handle>
     <title>RelaxComplex®</title>
     <vendor>Vitakruid</vendor>
@@ -1527,16 +1517,6 @@
     <sku>92173</sku>
     <barcode>8717438692173</barcode>
     <price>58.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>vitakruid-yos-bottle</handle>
-    <title>Vitakruid YOS Bottle</title>
-    <vendor>Vitakruid</vendor>
-    <sku>91701</sku>
-    <barcode>8717438691701</barcode>
-    <price>14.90</price>
     <available>true</available>
     <quantity/>
   </product>
@@ -2021,16 +2001,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>rvs-shakebeker</handle>
-    <title>RVS Shakebeker</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92241</sku>
-    <barcode>8717438692241</barcode>
-    <price>19.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>multi-dag-nacht-man-50</handle>
     <title>Multi Dag &amp; Nacht® Man 50+</title>
     <vendor>Vitakruid</vendor>
@@ -2471,26 +2441,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>pillendoosje-7-dagen</handle>
-    <title>Pillendoosje - 7 dagen</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92623</sku>
-    <barcode>8717438692623</barcode>
-    <price>9.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>sport-shakebeker</handle>
-    <title>Sport Shakebeker</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92890</sku>
-    <barcode>8717438692890</barcode>
-    <price>6.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>magnesium-l-threonaat</handle>
     <title>Magnesium L-Threonaat</title>
     <vendor>Vitakruid</vendor>
@@ -2727,16 +2677,6 @@
     <sku>93613</sku>
     <barcode>8717438693613</barcode>
     <price>19.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
-    <handle>rvs-waterfles</handle>
-    <title>Waterfles</title>
-    <vendor>Vitakruid</vendor>
-    <sku>93507</sku>
-    <barcode/>
-    <price>24.90</price>
     <available>true</available>
     <quantity/>
   </product>
