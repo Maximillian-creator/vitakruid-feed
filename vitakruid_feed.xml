@@ -2184,9 +2184,9 @@
     <handle>multi-dag-vrouw-50</handle>
     <title>Multi Dag Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
-    <sku>92425</sku>
-    <barcode>8717438692425</barcode>
-    <price>16.90</price>
+    <sku>92432</sku>
+    <barcode>8717438692432</barcode>
+    <price>42.90</price>
     <available>true</available>
     <quantity/>
   </product>
@@ -2194,9 +2194,9 @@
     <handle>multi-dag-vrouw-50</handle>
     <title>Multi Dag Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
-    <sku>92432</sku>
-    <barcode>8717438692432</barcode>
-    <price>42.90</price>
+    <sku>92425</sku>
+    <barcode>8717438692425</barcode>
+    <price>16.90</price>
     <available>true</available>
     <quantity/>
   </product>
