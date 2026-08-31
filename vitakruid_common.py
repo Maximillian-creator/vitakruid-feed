@@ -57,7 +57,14 @@ def make_session():
     return s
 
 
-def fetch(session, url, retries=3, allow_404=False, ajax=False):
+def fetch(session, url, retries=3, allow_404=False, ajax=False, verplicht=False):
+    """GET met retry. Bij 404 (en allow_404) -> None zonder herhalen.
+
+    `verplicht=True`: een pagina die na alle pogingen niet komt is een FOUT, geen
+    stilzwijgend None. Stock Sync archiveert alles wat niet in de feed staat, dus
+    een stil overgeslagen product verdwijnt uit de winkel. Een echte 404 blijft
+    None: dat is "bestaat niet", geen storing.
+    """
     hdr = {"X-Requested-With": "XMLHttpRequest"} if ajax else {}
     for attempt in range(retries):
         try:
@@ -74,6 +81,12 @@ def fetch(session, url, retries=3, allow_404=False, ajax=False):
                 time.sleep((attempt + 1) * 15)
             else:
                 print(f"    ❌ Mislukt: {url} ({e})")
+                if verplicht:
+                    raise RuntimeError(
+                        f"{url} kwam na {retries} pogingen niet binnen ({e}). "
+                        "De run stopt: een halve feed wegschrijven laat Stock Sync "
+                        "de rest archiveren."
+                    )
                 return None
 
 
@@ -82,9 +95,9 @@ def fetch(session, url, retries=3, allow_404=False, ajax=False):
 # --------------------------------------------------------------------------- #
 def iter_product_slugs():
     session = make_session()
-    r = fetch(session, f"{BASE}/sitemap.xml")
-    if not r:
-        return []
+    # Verplicht: gaf dit vroeger [] terug, dan volgde er een LEGE feed. Dat is op
+    # 13-07, 21-08 en 28-08-2026 gebeurd.
+    r = fetch(session, f"{BASE}/sitemap.xml", verplicht=True)
     slugs = []
     seen = set()
     for loc in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", r.text):
@@ -201,7 +214,8 @@ def parse_base(html):
 
 def parse_variant(session, code):
     """Per variant: SKU, EAN, Z-index, prijs (retail incl. BTW), afbeelding."""
-    r = fetch(session, f"{BASE}/get-variant-b2c/{code}", allow_404=True, ajax=True)
+    r = fetch(session, f"{BASE}/get-variant-b2c/{code}", allow_404=True, ajax=True,
+              verplicht=True)
     if not r:
         return None
     try:
@@ -230,7 +244,7 @@ def scrape_products(session, slugs):
     total = len(slugs)
     skipped = 0
     for i, slug in enumerate(slugs, 1):
-        r = fetch(session, f"{BASE}/products/{slug}", allow_404=True)
+        r = fetch(session, f"{BASE}/products/{slug}", allow_404=True, verplicht=True)
         if not r:
             continue
         base = parse_base(r.text)
