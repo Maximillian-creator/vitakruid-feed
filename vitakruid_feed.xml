@@ -1101,16 +1101,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>mucuna-pruriens</handle>
-    <title>L-Tyrosine 500 mg</title>
-    <vendor>Vitakruid</vendor>
-    <sku>91053</sku>
-    <barcode>8717438691053</barcode>
-    <price>16.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>l-lysine-1000-mg</handle>
     <title>L-Lysine 1000 mg</title>
     <vendor>Vitakruid</vendor>
