@@ -281,16 +281,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>ostavit</handle>
-    <title>Ostavit</title>
-    <vendor>Vitakruid</vendor>
-    <sku>92722</sku>
-    <barcode>8717438692722</barcode>
-    <price>24.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>b12-combi-10-000-met-folaat</handle>
     <title>B12 Combi 10.000® met folaat</title>
     <vendor>Vitakruid</vendor>
