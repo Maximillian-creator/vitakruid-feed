@@ -15,6 +15,17 @@ from html import escape
 import vitakruid_common as vc
 
 OUTPUT_FILE = "vitakruid_add_feed.xml"
+HANDLE_VOORVOEGSEL = "vitakruid-"
+
+
+def winkel_handle(slug):
+    """Webadres in onze winkel: altijd met 'vitakruid-' ervoor (zoals de Kala-feed 'kala-health-').
+
+    Zonder voorvoegsel botsten 8 adressen met producten van andere merken (gemeten 05-10-2026),
+    o.a. l-lysine-1000-mg en vitamine-c-1000-mg (Solgar) en acetyl-l-carnitine-500-mg (NOW).
+    Stock Sync groepeert de add-feed op handle en hing bij de import van 07-07 Vitakruid-potjes
+    als extra maat onder die Solgar- en NOW-producten."""
+    return slug if slug.startswith(HANDLE_VOORVOEGSEL) else HANDLE_VOORVOEGSEL + slug
 
 
 def build_description_html(p, v):
@@ -47,7 +58,7 @@ def build_xml(products):
                 el = ET.SubElement(item, tag)
                 el.text = "" if value is None else str(value)
 
-            add("handle", p["slug"])
+            add("handle", winkel_handle(p["slug"]))
             add("title", p["title"])
             add("vendor", p["brand"])
             add("sku", v["sku"])

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
-    <handle>5-htp-100mg</handle>
+    <handle>vitakruid-5-htp-100mg</handle>
     <title>5-HTP 100mg</title>
     <vendor>Vitakruid</vendor>
     <sku>90988</sku>
@@ -30,7 +30,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/67/ec/52770fb511f6047a63e17c368239.png,https://www.vitakruid.nl/media/cache/product_og_image/67/ec/52770fb511f6047a63e17c368239.png</image_links>
   </product>
   <product>
-    <handle>5-htp-100mg</handle>
+    <handle>vitakruid-5-htp-100mg</handle>
     <title>5-HTP 100mg</title>
     <vendor>Vitakruid</vendor>
     <sku>92753</sku>
@@ -59,7 +59,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/81/d4/ebb3bd78afba7dd9d5ab59820374.png,https://www.vitakruid.nl/media/cache/product_og_image/67/ec/52770fb511f6047a63e17c368239.png</image_links>
   </product>
   <product>
-    <handle>ashwagandha-ksm-66-bioperine</handle>
+    <handle>vitakruid-ashwagandha-ksm-66-bioperine</handle>
     <title>Ashwagandha KSM-66® &amp; Bioperine®</title>
     <vendor>Vitakruid</vendor>
     <sku>91992</sku>
@@ -88,7 +88,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/02/a2/07af895054ba02d6c1e136ea9273.png,https://www.vitakruid.nl/media/cache/product_og_image/a6/f0/7a2da3763686410267a4b1088e62.png</image_links>
   </product>
   <product>
-    <handle>ashwagandha-ksm-66-bioperine</handle>
+    <handle>vitakruid-ashwagandha-ksm-66-bioperine</handle>
     <title>Ashwagandha KSM-66® &amp; Bioperine®</title>
     <vendor>Vitakruid</vendor>
     <sku>91305</sku>
@@ -117,7 +117,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a6/f0/7a2da3763686410267a4b1088e62.png,https://www.vitakruid.nl/media/cache/product_og_image/a6/f0/7a2da3763686410267a4b1088e62.png</image_links>
   </product>
   <product>
-    <handle>gaba-plus</handle>
+    <handle>vitakruid-gaba-plus</handle>
     <title>GABA Plus</title>
     <vendor>Vitakruid</vendor>
     <sku>9059</sku>
@@ -146,7 +146,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/5a/21/17f2aa0f2384b797180f118bd0c4.png,https://www.vitakruid.nl/media/cache/product_og_image/5a/21/17f2aa0f2384b797180f118bd0c4.png</image_links>
   </product>
   <product>
-    <handle>gaba-plus</handle>
+    <handle>vitakruid-gaba-plus</handle>
     <title>GABA Plus</title>
     <vendor>Vitakruid</vendor>
     <sku>91787</sku>
@@ -175,7 +175,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/28/66/b7ba76dc356ae5a2923c51682d19.png,https://www.vitakruid.nl/media/cache/product_og_image/5a/21/17f2aa0f2384b797180f118bd0c4.png</image_links>
   </product>
   <product>
-    <handle>saffraan-l-theanine</handle>
+    <handle>vitakruid-saffraan-l-theanine</handle>
     <title>Saffraan &amp; L-Theanine</title>
     <vendor>Vitakruid</vendor>
     <sku>91220</sku>
@@ -204,7 +204,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3e/00/95b103353aa8d97307c53bbf6493.png,https://www.vitakruid.nl/media/cache/product_og_image/8d/5a/26b440876b40bdb6b87792c972e7.png</image_links>
   </product>
   <product>
-    <handle>saffraan-l-theanine</handle>
+    <handle>vitakruid-saffraan-l-theanine</handle>
     <title>Saffraan &amp; L-Theanine</title>
     <vendor>Vitakruid</vendor>
     <sku>92180</sku>
@@ -233,7 +233,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8d/5a/26b440876b40bdb6b87792c972e7.png,https://www.vitakruid.nl/media/cache/product_og_image/8d/5a/26b440876b40bdb6b87792c972e7.png</image_links>
   </product>
   <product>
-    <handle>atrimove-glucosamine-complex-poeder</handle>
+    <handle>vitakruid-atrimove-glucosamine-complex-poeder</handle>
     <title>Atrimove® Glucosamine Complex poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>9000</sku>
@@ -262,7 +262,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/00/61/e32f938770483c4df043671e6ecb.png,https://www.vitakruid.nl/media/cache/product_og_image/00/61/e32f938770483c4df043671e6ecb.png</image_links>
   </product>
   <product>
-    <handle>atrimove-glucosamine-complex-poeder</handle>
+    <handle>vitakruid-atrimove-glucosamine-complex-poeder</handle>
     <title>Atrimove® Glucosamine Complex poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>9048</sku>
@@ -291,7 +291,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/00/61/e32f938770483c4df043671e6ecb.png,https://www.vitakruid.nl/media/cache/product_og_image/00/61/e32f938770483c4df043671e6ecb.png</image_links>
   </product>
   <product>
-    <handle>glucosil-glucosamine-gel</handle>
+    <handle>vitakruid-glucosil-glucosamine-gel</handle>
     <title>GlucoSil Glucosamine Gel</title>
     <vendor>Vitakruid</vendor>
     <sku>9017</sku>
@@ -320,7 +320,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/99/da/a4f0b424ffd66691fd80805257a2.png,https://www.vitakruid.nl/media/cache/product_og_image/99/da/a4f0b424ffd66691fd80805257a2.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-hd</handle>
+    <handle>vitakruid-multi-dag-nacht-hd</handle>
     <title>Multi Dag &amp; Nacht® HD</title>
     <vendor>Vitakruid</vendor>
     <sku>90575</sku>
@@ -349,7 +349,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/19/b1/6084ea75f29362f6d681bdd67b34.png,https://www.vitakruid.nl/media/cache/product_og_image/19/b1/6084ea75f29362f6d681bdd67b34.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-hd</handle>
+    <handle>vitakruid-multi-dag-nacht-hd</handle>
     <title>Multi Dag &amp; Nacht® HD</title>
     <vendor>Vitakruid</vendor>
     <sku>90582</sku>
@@ -378,7 +378,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0c/a5/a7b88610409d80bb7bb6d9646d0b.png,https://www.vitakruid.nl/media/cache/product_og_image/19/b1/6084ea75f29362f6d681bdd67b34.png</image_links>
   </product>
   <product>
-    <handle>b-complex-actief-zonder-b6</handle>
+    <handle>vitakruid-b-complex-actief-zonder-b6</handle>
     <title>B-Complex Actief zonder B6</title>
     <vendor>Vitakruid</vendor>
     <sku>91299</sku>
@@ -407,7 +407,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/dd/8f/f5f479c7f5592b135146ab674312.png,https://www.vitakruid.nl/media/cache/product_og_image/dd/8f/f5f479c7f5592b135146ab674312.png</image_links>
   </product>
   <product>
-    <handle>pea-puur-400</handle>
+    <handle>vitakruid-pea-puur-400</handle>
     <title>PEA Puur 400</title>
     <vendor>Vitakruid</vendor>
     <sku>91176</sku>
@@ -436,7 +436,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0e/c9/2295accdaf42dac0d34d1f37d911.png,https://www.vitakruid.nl/media/cache/product_og_image/0e/c9/2295accdaf42dac0d34d1f37d911.png</image_links>
   </product>
   <product>
-    <handle>super-greens</handle>
+    <handle>vitakruid-super-greens</handle>
     <title>Super Greens</title>
     <vendor>Vitakruid</vendor>
     <sku>9015</sku>
@@ -465,7 +465,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/85/2c/90656e9a9eacb2fcd9f50d5689a5.png,https://www.vitakruid.nl/media/cache/product_og_image/85/2c/90656e9a9eacb2fcd9f50d5689a5.png</image_links>
   </product>
   <product>
-    <handle>super-greens</handle>
+    <handle>vitakruid-super-greens</handle>
     <title>Super Greens</title>
     <vendor>Vitakruid</vendor>
     <sku>9051</sku>
@@ -494,7 +494,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0c/f1/fec4d4ce12af7eb80e4bf66218a4.png,https://www.vitakruid.nl/media/cache/product_og_image/85/2c/90656e9a9eacb2fcd9f50d5689a5.png</image_links>
   </product>
   <product>
-    <handle>super-greens</handle>
+    <handle>vitakruid-super-greens</handle>
     <title>Super Greens</title>
     <vendor>Vitakruid</vendor>
     <sku>93583</sku>
@@ -523,7 +523,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f5/86/786d4a6efd3dff51bed36144f933.png,https://www.vitakruid.nl/media/cache/product_og_image/85/2c/90656e9a9eacb2fcd9f50d5689a5.png</image_links>
   </product>
   <product>
-    <handle>symflora-original</handle>
+    <handle>vitakruid-symflora-original</handle>
     <title>Symflora® Original</title>
     <vendor>Vitakruid</vendor>
     <sku>90674</sku>
@@ -552,7 +552,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c0/79/a37326d46f7a0b9852fc6b51f84c.png,https://www.vitakruid.nl/media/cache/product_og_image/c0/79/a37326d46f7a0b9852fc6b51f84c.png</image_links>
   </product>
   <product>
-    <handle>symflora-original</handle>
+    <handle>vitakruid-symflora-original</handle>
     <title>Symflora® Original</title>
     <vendor>Vitakruid</vendor>
     <sku>91459</sku>
@@ -581,7 +581,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/de/5a/23e91630ebed765e8c69a49f4b9a.png,https://www.vitakruid.nl/media/cache/product_og_image/c0/79/a37326d46f7a0b9852fc6b51f84c.png</image_links>
   </product>
   <product>
-    <handle>feminosan</handle>
+    <handle>vitakruid-feminosan</handle>
     <title>Feminosan®</title>
     <vendor>Vitakruid</vendor>
     <sku>9003</sku>
@@ -610,7 +610,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/aa/79/563ff77f3fe1bd96810709793cf2.png,https://www.vitakruid.nl/media/cache/product_og_image/aa/79/563ff77f3fe1bd96810709793cf2.png</image_links>
   </product>
   <product>
-    <handle>feminosan</handle>
+    <handle>vitakruid-feminosan</handle>
     <title>Feminosan®</title>
     <vendor>Vitakruid</vendor>
     <sku>91435</sku>
@@ -639,7 +639,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c7/1e/86388c4cc21d2e5bdfc68d372bb3.png,https://www.vitakruid.nl/media/cache/product_og_image/aa/79/563ff77f3fe1bd96810709793cf2.png</image_links>
   </product>
   <product>
-    <handle>glycodin</handle>
+    <handle>vitakruid-glycodin</handle>
     <title>Glycodin®</title>
     <vendor>Vitakruid</vendor>
     <sku>90605</sku>
@@ -668,7 +668,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9b/43/68e72f4ca90d13560beb11196218.png,https://www.vitakruid.nl/media/cache/product_og_image/9b/43/68e72f4ca90d13560beb11196218.png</image_links>
   </product>
   <product>
-    <handle>groenlipmossel-extract-ovomet</handle>
+    <handle>vitakruid-groenlipmossel-extract-ovomet</handle>
     <title>Groenlipmossel extract &amp; Ovomet</title>
     <vendor>Vitakruid</vendor>
     <sku>91213</sku>
@@ -697,7 +697,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/50/f7/371ab311c8886822c9bce16a3306.png,https://www.vitakruid.nl/media/cache/product_og_image/50/f7/371ab311c8886822c9bce16a3306.png</image_links>
   </product>
   <product>
-    <handle>vitamine-b3-niacinamide-500-mg</handle>
+    <handle>vitakruid-vitamine-b3-niacinamide-500-mg</handle>
     <title>Vitamine B3 Niacinamide 500 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91039</sku>
@@ -726,7 +726,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a7/72/2ee7df1f70b611cba0ce3f623f7f.png,https://www.vitakruid.nl/media/cache/product_og_image/a7/72/2ee7df1f70b611cba0ce3f623f7f.png</image_links>
   </product>
   <product>
-    <handle>osta-k2-d3-algae</handle>
+    <handle>vitakruid-osta-k2-d3-algae</handle>
     <title>Osta K2 &amp; D3 Algae</title>
     <vendor>Vitakruid</vendor>
     <sku>90704</sku>
@@ -755,7 +755,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/00/ec/1dac935812f081d2ded7336bd76b.png,https://www.vitakruid.nl/media/cache/product_og_image/00/ec/1dac935812f081d2ded7336bd76b.png</image_links>
   </product>
   <product>
-    <handle>b12-5000-mcg-adenosylcobalamine</handle>
+    <handle>vitakruid-b12-5000-mcg-adenosylcobalamine</handle>
     <title>B12 5000 mcg Adenosylcobalamine</title>
     <vendor>Vitakruid</vendor>
     <sku>90971</sku>
@@ -784,7 +784,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/be/f2/9d83e8c8031b9aaa90a45a02966f.png,https://www.vitakruid.nl/media/cache/product_og_image/be/f2/9d83e8c8031b9aaa90a45a02966f.png</image_links>
   </product>
   <product>
-    <handle>ostamax</handle>
+    <handle>vitakruid-ostamax</handle>
     <title>Ostamax</title>
     <vendor>Vitakruid</vendor>
     <sku>9002</sku>
@@ -813,7 +813,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/35/8a/b85f7c1c5838dbe03f9421702b11.png,https://www.vitakruid.nl/media/cache/product_og_image/35/8a/b85f7c1c5838dbe03f9421702b11.png</image_links>
   </product>
   <product>
-    <handle>ostavit</handle>
+    <handle>vitakruid-ostavit</handle>
     <title>Ostavit</title>
     <vendor>Vitakruid</vendor>
     <sku>92722</sku>
@@ -842,7 +842,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/33/4e/b0c3c19ce6d32b647de2cf480ff7.png,https://www.vitakruid.nl/media/cache/product_og_image/33/4e/b0c3c19ce6d32b647de2cf480ff7.png</image_links>
   </product>
   <product>
-    <handle>b12-combi-10-000-met-folaat</handle>
+    <handle>vitakruid-b12-combi-10-000-met-folaat</handle>
     <title>B12 Combi 10.000® met folaat</title>
     <vendor>Vitakruid</vendor>
     <sku>91190</sku>
@@ -871,7 +871,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/87/f1/e531112d0711f689ab4aac1f4825.png,https://www.vitakruid.nl/media/cache/product_og_image/87/f1/e531112d0711f689ab4aac1f4825.png</image_links>
   </product>
   <product>
-    <handle>b12-combi-10-000-met-folaat</handle>
+    <handle>vitakruid-b12-combi-10-000-met-folaat</handle>
     <title>B12 Combi 10.000® met folaat</title>
     <vendor>Vitakruid</vendor>
     <sku>91404</sku>
@@ -900,7 +900,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8b/23/61480a3cf96eca3812a5c64c7d61.png,https://www.vitakruid.nl/media/cache/product_og_image/87/f1/e531112d0711f689ab4aac1f4825.png</image_links>
   </product>
   <product>
-    <handle>betaine-hcl-650-mg</handle>
+    <handle>vitakruid-betaine-hcl-650-mg</handle>
     <title>Betaïne HCL 650 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91152</sku>
@@ -929,7 +929,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a2/62/29959dcd0a2c8a8213226b70c288.png,https://www.vitakruid.nl/media/cache/product_og_image/a2/62/29959dcd0a2c8a8213226b70c288.png</image_links>
   </product>
   <product>
-    <handle>b12-combi-6000-met-folaat-en-p-5-p</handle>
+    <handle>vitakruid-b12-combi-6000-met-folaat-en-p-5-p</handle>
     <title>B12 Combi 6000® met folaat en P-5-P</title>
     <vendor>Vitakruid</vendor>
     <sku>90995</sku>
@@ -958,7 +958,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8e/c6/f41a8836011eda073dbeba74309a.png,https://www.vitakruid.nl/media/cache/product_og_image/8e/c6/f41a8836011eda073dbeba74309a.png</image_links>
   </product>
   <product>
-    <handle>b12-combi-6000-met-folaat-en-p-5-p</handle>
+    <handle>vitakruid-b12-combi-6000-met-folaat-en-p-5-p</handle>
     <title>B12 Combi 6000® met folaat en P-5-P</title>
     <vendor>Vitakruid</vendor>
     <sku>91411</sku>
@@ -987,7 +987,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a6/19/0003a7b70dd67605faabda248848.png,https://www.vitakruid.nl/media/cache/product_og_image/8e/c6/f41a8836011eda073dbeba74309a.png</image_links>
   </product>
   <product>
-    <handle>betaine-hcl-testkit</handle>
+    <handle>vitakruid-betaine-hcl-testkit</handle>
     <title>Betaïne HCL Testkit</title>
     <vendor>Vitakruid</vendor>
     <sku>91183</sku>
@@ -1016,7 +1016,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/99/4b/80d0b8eeb2a78d905da818cebc95.png,https://www.vitakruid.nl/media/cache/product_og_image/99/4b/80d0b8eeb2a78d905da818cebc95.png</image_links>
   </product>
   <product>
-    <handle>b12-forte-plus-met-p-5-p</handle>
+    <handle>vitakruid-b12-forte-plus-met-p-5-p</handle>
     <title>B12 Forte Plus met P-5-P</title>
     <vendor>Vitakruid</vendor>
     <sku>91008</sku>
@@ -1045,7 +1045,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/66/2f/f0ef1212bf26fb6fa68b476c8614.png,https://www.vitakruid.nl/media/cache/product_og_image/66/2f/f0ef1212bf26fb6fa68b476c8614.png</image_links>
   </product>
   <product>
-    <handle>dpp-iv-ultimate</handle>
+    <handle>vitakruid-dpp-iv-ultimate</handle>
     <title>DPP-IV Ultimate</title>
     <vendor>Vitakruid</vendor>
     <sku>90681</sku>
@@ -1074,7 +1074,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c4/87/13159e09dd394e1cf17ba0a4fb74.png,https://www.vitakruid.nl/media/cache/product_og_image/c4/87/13159e09dd394e1cf17ba0a4fb74.png</image_links>
   </product>
   <product>
-    <handle>dpp-iv-ultimate</handle>
+    <handle>vitakruid-dpp-iv-ultimate</handle>
     <title>DPP-IV Ultimate</title>
     <vendor>Vitakruid</vendor>
     <sku>90698</sku>
@@ -1103,7 +1103,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4d/75/8d97029db2a3c955cea11e5e9e62.png,https://www.vitakruid.nl/media/cache/product_og_image/c4/87/13159e09dd394e1cf17ba0a4fb74.png</image_links>
   </product>
   <product>
-    <handle>b12-5000-mcg-methylcobalamine</handle>
+    <handle>vitakruid-b12-5000-mcg-methylcobalamine</handle>
     <title>B12 5000 mcg Methylcobalamine</title>
     <vendor>Vitakruid</vendor>
     <sku>90964</sku>
@@ -1131,7 +1131,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1a/a1/7fe9a6aee744d69787356e2fa2c1.png,https://www.vitakruid.nl/media/cache/product_og_image/1a/a1/7fe9a6aee744d69787356e2fa2c1.png</image_links>
   </product>
   <product>
-    <handle>gebufferde-vitamine-c</handle>
+    <handle>vitakruid-gebufferde-vitamine-c</handle>
     <title>Gebufferde Vitamine C®</title>
     <vendor>Vitakruid</vendor>
     <sku>93668</sku>
@@ -1160,7 +1160,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/29/fc/04d5b5f886972c6c86ed06505763.png,https://www.vitakruid.nl/media/cache/product_og_image/63/fb/5769f57e9b3f235d8ce7d2b80d8a.png</image_links>
   </product>
   <product>
-    <handle>gebufferde-vitamine-c</handle>
+    <handle>vitakruid-gebufferde-vitamine-c</handle>
     <title>Gebufferde Vitamine C®</title>
     <vendor>Vitakruid</vendor>
     <sku>9005</sku>
@@ -1189,7 +1189,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/63/fb/5769f57e9b3f235d8ce7d2b80d8a.png,https://www.vitakruid.nl/media/cache/product_og_image/63/fb/5769f57e9b3f235d8ce7d2b80d8a.png</image_links>
   </product>
   <product>
-    <handle>gebufferde-vitamine-c</handle>
+    <handle>vitakruid-gebufferde-vitamine-c</handle>
     <title>Gebufferde Vitamine C®</title>
     <vendor>Vitakruid</vendor>
     <sku>9004</sku>
@@ -1218,7 +1218,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/bf/1a/1bfa14b0c7d84f5a42f03f8b9bb2.png,https://www.vitakruid.nl/media/cache/product_og_image/63/fb/5769f57e9b3f235d8ce7d2b80d8a.png</image_links>
   </product>
   <product>
-    <handle>glutazyme</handle>
+    <handle>vitakruid-glutazyme</handle>
     <title>Glutazyme®</title>
     <vendor>Vitakruid</vendor>
     <sku>90636</sku>
@@ -1247,7 +1247,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/62/2d/35c67e4c54a78b3f4cb6aff85ce5.png,https://www.vitakruid.nl/media/cache/product_og_image/62/2d/35c67e4c54a78b3f4cb6aff85ce5.png</image_links>
   </product>
   <product>
-    <handle>glutazyme</handle>
+    <handle>vitakruid-glutazyme</handle>
     <title>Glutazyme®</title>
     <vendor>Vitakruid</vendor>
     <sku>92166</sku>
@@ -1276,7 +1276,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9a/8a/02a20351131fb3d6321dc5d18422.png,https://www.vitakruid.nl/media/cache/product_og_image/62/2d/35c67e4c54a78b3f4cb6aff85ce5.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-k2</handle>
+    <handle>vitakruid-vitamine-d3-k2</handle>
     <title>Vitamine D3 &amp; K2</title>
     <vendor>Vitakruid</vendor>
     <sku>91206</sku>
@@ -1305,7 +1305,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6e/0c/426c97de4f882c7ec77cf4a1244c.png,https://www.vitakruid.nl/media/cache/product_og_image/6e/0c/426c97de4f882c7ec77cf4a1244c.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-k2</handle>
+    <handle>vitakruid-vitamine-d3-k2</handle>
     <title>Vitamine D3 &amp; K2</title>
     <vendor>Vitakruid</vendor>
     <sku>91664</sku>
@@ -1334,7 +1334,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0f/03/f2e763961b1eb23c467f05389dc4.png,https://www.vitakruid.nl/media/cache/product_og_image/6e/0c/426c97de4f882c7ec77cf4a1244c.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-25-mcg-1000-ie</handle>
+    <handle>vitakruid-vitamine-d3-25-mcg-1000-ie</handle>
     <title>Vitamine D3 - 25 mcg / 1000 IE</title>
     <vendor>Vitakruid</vendor>
     <sku>9052</sku>
@@ -1363,7 +1363,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f3/1f/75ca9a958c677b8752b8cd69806d.png,https://www.vitakruid.nl/media/cache/product_og_image/f3/1f/75ca9a958c677b8752b8cd69806d.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-5-mcg-200-ie</handle>
+    <handle>vitakruid-vitamine-d3-5-mcg-200-ie</handle>
     <title>Vitamine D3 - 5 mcg / 200 IE</title>
     <vendor>Vitakruid</vendor>
     <sku>9013</sku>
@@ -1392,7 +1392,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7d/7e/e120b7e748dd3302fb834e186912.png,https://www.vitakruid.nl/media/cache/product_og_image/7d/7e/e120b7e748dd3302fb834e186912.png</image_links>
   </product>
   <product>
-    <handle>psyllium-glucomannan</handle>
+    <handle>vitakruid-psyllium-glucomannan</handle>
     <title>Psyllium &amp; Glucomannan</title>
     <vendor>Vitakruid</vendor>
     <sku>90629</sku>
@@ -1421,7 +1421,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6f/fc/e820cb4d9d528f5115d791281e79.png,https://www.vitakruid.nl/media/cache/product_og_image/6f/fc/e820cb4d9d528f5115d791281e79.png</image_links>
   </product>
   <product>
-    <handle>d-mannose-500</handle>
+    <handle>vitakruid-d-mannose-500</handle>
     <title>D-Mannose 500</title>
     <vendor>Vitakruid</vendor>
     <sku>9040</sku>
@@ -1450,7 +1450,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/29/b0/d2a759d6d024127cf267794ebf52.png,https://www.vitakruid.nl/media/cache/product_og_image/29/b0/d2a759d6d024127cf267794ebf52.png</image_links>
   </product>
   <product>
-    <handle>magnesium-malaat-met-p-5-p</handle>
+    <handle>vitakruid-magnesium-malaat-met-p-5-p</handle>
     <title>Magnesium Malaat met P-5-P</title>
     <vendor>Vitakruid</vendor>
     <sku>91046</sku>
@@ -1479,7 +1479,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/bc/28/d0f1c3159dba7a72d562523632c9.png,https://www.vitakruid.nl/media/cache/product_og_image/bc/28/d0f1c3159dba7a72d562523632c9.png</image_links>
   </product>
   <product>
-    <handle>q10-ubiquinol-100-mg</handle>
+    <handle>vitakruid-q10-ubiquinol-100-mg</handle>
     <title>Q10 Ubiquinol 100 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91169</sku>
@@ -1508,7 +1508,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/15/4d/d9e2721ba788094a25ebd8ec3596.png,https://www.vitakruid.nl/media/cache/product_og_image/15/4d/d9e2721ba788094a25ebd8ec3596.png</image_links>
   </product>
   <product>
-    <handle>q10-ubiquinol-100-mg</handle>
+    <handle>vitakruid-q10-ubiquinol-100-mg</handle>
     <title>Q10 Ubiquinol 100 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>92548</sku>
@@ -1537,7 +1537,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/e5/61/e31dc893901d7c5ce0f6a4e2d3e8.png,https://www.vitakruid.nl/media/cache/product_og_image/15/4d/d9e2721ba788094a25ebd8ec3596.png</image_links>
   </product>
   <product>
-    <handle>s-acetyl-l-glutathion</handle>
+    <handle>vitakruid-s-acetyl-l-glutathion</handle>
     <title>S-Acetyl-L-Glutathion</title>
     <vendor>Vitakruid</vendor>
     <sku>90858</sku>
@@ -1566,7 +1566,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3c/d5/c3ea5e422f85a7742b76aaee321d.png,https://www.vitakruid.nl/media/cache/product_og_image/3c/d5/c3ea5e422f85a7742b76aaee321d.png</image_links>
   </product>
   <product>
-    <handle>s-acetyl-l-glutathion</handle>
+    <handle>vitakruid-s-acetyl-l-glutathion</handle>
     <title>S-Acetyl-L-Glutathion</title>
     <vendor>Vitakruid</vendor>
     <sku>90865</sku>
@@ -1595,7 +1595,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4e/06/c27abc189819fe261954ee28396b.png,https://www.vitakruid.nl/media/cache/product_og_image/3c/d5/c3ea5e422f85a7742b76aaee321d.png</image_links>
   </product>
   <product>
-    <handle>curcuma-c3-2x</handle>
+    <handle>vitakruid-curcuma-c3-2x</handle>
     <title>Curcuma C3-2X</title>
     <vendor>Vitakruid</vendor>
     <sku>92777</sku>
@@ -1624,7 +1624,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a3/58/2d4bf1eb51ba4c3242954d10d548.png,https://www.vitakruid.nl/media/cache/product_og_image/d7/98/d11bcef370abd65152872ea09df8.png</image_links>
   </product>
   <product>
-    <handle>curcuma-c3-2x</handle>
+    <handle>vitakruid-curcuma-c3-2x</handle>
     <title>Curcuma C3-2X</title>
     <vendor>Vitakruid</vendor>
     <sku>90612</sku>
@@ -1653,7 +1653,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b6/a9/9eed71000a1485453ed6b1542289.png,https://www.vitakruid.nl/media/cache/product_og_image/d7/98/d11bcef370abd65152872ea09df8.png</image_links>
   </product>
   <product>
-    <handle>curcuma-c3-2x</handle>
+    <handle>vitakruid-curcuma-c3-2x</handle>
     <title>Curcuma C3-2X</title>
     <vendor>Vitakruid</vendor>
     <sku>91428</sku>
@@ -1682,7 +1682,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/d7/98/d11bcef370abd65152872ea09df8.png,https://www.vitakruid.nl/media/cache/product_og_image/d7/98/d11bcef370abd65152872ea09df8.png</image_links>
   </product>
   <product>
-    <handle>magnesium-tauraat-met-p-5-p</handle>
+    <handle>vitakruid-magnesium-tauraat-met-p-5-p</handle>
     <title>Magnesium Tauraat met P-5-P®</title>
     <vendor>Vitakruid</vendor>
     <sku>93651</sku>
@@ -1711,7 +1711,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f8/87/5476bd4faebb7de79a3d6632ca66.png,https://www.vitakruid.nl/media/cache/product_og_image/a4/33/2517bbf920a83600484b7b0e778c.png</image_links>
   </product>
   <product>
-    <handle>magnesium-tauraat-met-p-5-p</handle>
+    <handle>vitakruid-magnesium-tauraat-met-p-5-p</handle>
     <title>Magnesium Tauraat met P-5-P®</title>
     <vendor>Vitakruid</vendor>
     <sku>9006</sku>
@@ -1740,7 +1740,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a4/33/2517bbf920a83600484b7b0e778c.png,https://www.vitakruid.nl/media/cache/product_og_image/a4/33/2517bbf920a83600484b7b0e778c.png</image_links>
   </product>
   <product>
-    <handle>magnesium-tauraat-met-p-5-p</handle>
+    <handle>vitakruid-magnesium-tauraat-met-p-5-p</handle>
     <title>Magnesium Tauraat met P-5-P®</title>
     <vendor>Vitakruid</vendor>
     <sku>91442</sku>
@@ -1769,7 +1769,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/16/de/707b15f3c99632179e9d8a21fd18.png,https://www.vitakruid.nl/media/cache/product_og_image/a4/33/2517bbf920a83600484b7b0e778c.png</image_links>
   </product>
   <product>
-    <handle>kaardebol-tinctuur</handle>
+    <handle>vitakruid-kaardebol-tinctuur</handle>
     <title>Kaardebol tinctuur</title>
     <vendor>Vitakruid</vendor>
     <sku>90735</sku>
@@ -1798,7 +1798,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/34/e1/912c76e30f9266c4774a0ae4828e.png,https://www.vitakruid.nl/media/cache/product_og_image/34/e1/912c76e30f9266c4774a0ae4828e.png</image_links>
   </product>
   <product>
-    <handle>kaardebol-tinctuur</handle>
+    <handle>vitakruid-kaardebol-tinctuur</handle>
     <title>Kaardebol tinctuur</title>
     <vendor>Vitakruid</vendor>
     <sku>90742</sku>
@@ -1827,7 +1827,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9a/25/d391da3eb164e06145f9a39d86c2.png,https://www.vitakruid.nl/media/cache/product_og_image/34/e1/912c76e30f9266c4774a0ae4828e.png</image_links>
   </product>
   <product>
-    <handle>mineralen-complex</handle>
+    <handle>vitakruid-mineralen-complex</handle>
     <title>Mineralen Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>91015</sku>
@@ -1856,7 +1856,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7d/f4/23f6980223dd0c77be1b7ce505f5.png,https://www.vitakruid.nl/media/cache/product_og_image/7d/f4/23f6980223dd0c77be1b7ce505f5.png</image_links>
   </product>
   <product>
-    <handle>mariadistel-complex-tinctuur</handle>
+    <handle>vitakruid-mariadistel-complex-tinctuur</handle>
     <title>Mariadistel Complex tinctuur</title>
     <vendor>Vitakruid</vendor>
     <sku>90827</sku>
@@ -1885,7 +1885,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/38/3a/d70469f4b346790136d674d42528.png,https://www.vitakruid.nl/media/cache/product_og_image/38/3a/d70469f4b346790136d674d42528.png</image_links>
   </product>
   <product>
-    <handle>zink-methionine-koper</handle>
+    <handle>vitakruid-zink-methionine-koper</handle>
     <title>Zink-Methionine &amp; Koper</title>
     <vendor>Vitakruid</vendor>
     <sku>90759</sku>
@@ -1914,7 +1914,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/22/16/d88fc09b9d4b9a930a32b54fecd2.png,https://www.vitakruid.nl/media/cache/product_og_image/22/16/d88fc09b9d4b9a930a32b54fecd2.png</image_links>
   </product>
   <product>
-    <handle>para-dtx</handle>
+    <handle>vitakruid-para-dtx</handle>
     <title>PARA-DTX</title>
     <vendor>Vitakruid</vendor>
     <sku>90957</sku>
@@ -1943,7 +1943,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c9/89/d11b64ba1ebb05d52f758087367e.png,https://www.vitakruid.nl/media/cache/product_og_image/c9/89/d11b64ba1ebb05d52f758087367e.png</image_links>
   </product>
   <product>
-    <handle>l-glutamine-complex</handle>
+    <handle>vitakruid-l-glutamine-complex</handle>
     <title>L-Glutamine Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>90841</sku>
@@ -1972,7 +1972,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/bc/a5/23fb809a93f4e5120b14dca3e66e.png,https://www.vitakruid.nl/media/cache/product_og_image/bc/a5/23fb809a93f4e5120b14dca3e66e.png</image_links>
   </product>
   <product>
-    <handle>l-tyrosine-500-mg</handle>
+    <handle>vitakruid-l-tyrosine-500-mg</handle>
     <title>L-Tyrosine 500 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91053</sku>
@@ -2001,7 +2001,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8f/d6/ecafc501c6771d219904dde05fd1.png,https://www.vitakruid.nl/media/cache/product_og_image/8f/d6/ecafc501c6771d219904dde05fd1.png</image_links>
   </product>
   <product>
-    <handle>atrimove-glucosamine-complex-capsules</handle>
+    <handle>vitakruid-atrimove-glucosamine-complex-capsules</handle>
     <title>Atrimove® Glucosamine complex capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>9016</sku>
@@ -2030,7 +2030,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/52/30/45e12ef7b7c37d2113c13e7dac8c.png,https://www.vitakruid.nl/media/cache/product_og_image/52/30/45e12ef7b7c37d2113c13e7dac8c.png</image_links>
   </product>
   <product>
-    <handle>glucosamine-1200</handle>
+    <handle>vitakruid-glucosamine-1200</handle>
     <title>Glucosamine 1200</title>
     <vendor>Vitakruid</vendor>
     <sku>9009</sku>
@@ -2059,7 +2059,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/68/ab/15db55f67dc2664b9ef9e8eb3299.png,https://www.vitakruid.nl/media/cache/product_og_image/68/ab/15db55f67dc2664b9ef9e8eb3299.png</image_links>
   </product>
   <product>
-    <handle>visolie-forte-1000</handle>
+    <handle>vitakruid-visolie-forte-1000</handle>
     <title>Visolie Forte 1000</title>
     <vendor>Vitakruid</vendor>
     <sku>9007</sku>
@@ -2088,7 +2088,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/64/ab/bc05e0e1c0e8a3f8920a27014cd5.png,https://www.vitakruid.nl/media/cache/product_og_image/64/ab/bc05e0e1c0e8a3f8920a27014cd5.png</image_links>
   </product>
   <product>
-    <handle>visolie-forte-1000</handle>
+    <handle>vitakruid-visolie-forte-1000</handle>
     <title>Visolie Forte 1000</title>
     <vendor>Vitakruid</vendor>
     <sku>91596</sku>
@@ -2117,7 +2117,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/64/8e/c06697bfa8e6ff5b092f4cf916e1.png,https://www.vitakruid.nl/media/cache/product_og_image/64/ab/bc05e0e1c0e8a3f8920a27014cd5.png</image_links>
   </product>
   <product>
-    <handle>vegan-omega-3-1250-tg-algenolie</handle>
+    <handle>vitakruid-vegan-omega-3-1250-tg-algenolie</handle>
     <title>Vegan Omega-3 1250 TG algenolie</title>
     <vendor>Vitakruid</vendor>
     <sku>91282</sku>
@@ -2146,7 +2146,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/30/99/32699622e657035b531697d260d2.png,https://www.vitakruid.nl/media/cache/product_og_image/30/99/32699622e657035b531697d260d2.png</image_links>
   </product>
   <product>
-    <handle>q10-ubiquinol-50-mg-omega-3-450-tg</handle>
+    <handle>vitakruid-q10-ubiquinol-50-mg-omega-3-450-tg</handle>
     <title>Q10 Ubiquinol 50 mg &amp; Omega-3 450 TG</title>
     <vendor>Vitakruid</vendor>
     <sku>91121</sku>
@@ -2175,7 +2175,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/e6/47/1f68e6a5248b3ca454c3bbdc3e83.png,https://www.vitakruid.nl/media/cache/product_og_image/e6/47/1f68e6a5248b3ca454c3bbdc3e83.png</image_links>
   </product>
   <product>
-    <handle>rhodiola-extract-500-mg-3-rosavin</handle>
+    <handle>vitakruid-rhodiola-extract-500-mg-3-rosavin</handle>
     <title>Rhodiola extract 500 mg 3% Rosavin</title>
     <vendor>Vitakruid</vendor>
     <sku>91138</sku>
@@ -2204,7 +2204,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b9/e2/3f97e49e252db037276b050fa9b8.png,https://www.vitakruid.nl/media/cache/product_og_image/b9/e2/3f97e49e252db037276b050fa9b8.png</image_links>
   </product>
   <product>
-    <handle>ribes-nigrum-tinctuur</handle>
+    <handle>vitakruid-ribes-nigrum-tinctuur</handle>
     <title>Ribes Nigrum tinctuur</title>
     <vendor>Vitakruid</vendor>
     <sku>90766</sku>
@@ -2233,7 +2233,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/58/6f/c8818806eabb62f2455136464a2c.png,https://www.vitakruid.nl/media/cache/product_og_image/58/6f/c8818806eabb62f2455136464a2c.png</image_links>
   </product>
   <product>
-    <handle>ribes-nigrum-tinctuur</handle>
+    <handle>vitakruid-ribes-nigrum-tinctuur</handle>
     <title>Ribes Nigrum tinctuur</title>
     <vendor>Vitakruid</vendor>
     <sku>91688</sku>
@@ -2262,7 +2262,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8f/a7/f368a1ff5a565e0c7a1816cb5f0b.png,https://www.vitakruid.nl/media/cache/product_og_image/58/6f/c8818806eabb62f2455136464a2c.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-mama-tabletten</handle>
+    <handle>vitakruid-multi-dag-nacht-mama-tabletten</handle>
     <title>Multi Dag &amp; Nacht® Mama Tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>90803</sku>
@@ -2291,7 +2291,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7c/c2/e1d8b6d09a34a2d982a9a806ff39.png,https://www.vitakruid.nl/media/cache/product_og_image/98/d6/41cda885fa26c417382188812397.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-mama-tabletten</handle>
+    <handle>vitakruid-multi-dag-nacht-mama-tabletten</handle>
     <title>Multi Dag &amp; Nacht® Mama Tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>90810</sku>
@@ -2320,7 +2320,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/98/d6/41cda885fa26c417382188812397.png,https://www.vitakruid.nl/media/cache/product_og_image/98/d6/41cda885fa26c417382188812397.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-vrouw</handle>
+    <handle>vitakruid-multi-nacht-vrouw</handle>
     <title>Multi Nacht Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>91084</sku>
@@ -2349,7 +2349,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/25/44/ee1389a8a496883300d43fe1410a.png,https://www.vitakruid.nl/media/cache/product_og_image/d2/8b/9aa5ff047aea8ee7c4f586e8d3cc.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-vrouw</handle>
+    <handle>vitakruid-multi-nacht-vrouw</handle>
     <title>Multi Nacht Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>91091</sku>
@@ -2378,7 +2378,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/d2/8b/9aa5ff047aea8ee7c4f586e8d3cc.png,https://www.vitakruid.nl/media/cache/product_og_image/d2/8b/9aa5ff047aea8ee7c4f586e8d3cc.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-mama-tabletten</handle>
+    <handle>vitakruid-multi-nacht-mama-tabletten</handle>
     <title>Multi Nacht Mama Tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>90780</sku>
@@ -2407,7 +2407,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1b/6e/3e33b6138a6df6171d616e30949a.png,https://www.vitakruid.nl/media/cache/product_og_image/1b/6e/3e33b6138a6df6171d616e30949a.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-mama-tabletten</handle>
+    <handle>vitakruid-multi-nacht-mama-tabletten</handle>
     <title>Multi Nacht Mama Tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>90797</sku>
@@ -2436,7 +2436,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/35/bd/7784aec6b9cdbc4375d61b246078.png,https://www.vitakruid.nl/media/cache/product_og_image/1b/6e/3e33b6138a6df6171d616e30949a.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-vrouw</handle>
+    <handle>vitakruid-multi-dag-nacht-vrouw</handle>
     <title>Multi Dag &amp; Nacht® Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>91107</sku>
@@ -2465,7 +2465,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/97/b0/9235554310987e97d355f9c3f407.png,https://www.vitakruid.nl/media/cache/product_og_image/56/30/7c917bb206786b74226cf7d7f006.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-vrouw</handle>
+    <handle>vitakruid-multi-dag-nacht-vrouw</handle>
     <title>Multi Dag &amp; Nacht® Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>91114</sku>
@@ -2494,7 +2494,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/56/30/7c917bb206786b74226cf7d7f006.png,https://www.vitakruid.nl/media/cache/product_og_image/56/30/7c917bb206786b74226cf7d7f006.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-junior</handle>
+    <handle>vitakruid-multi-nacht-junior</handle>
     <title>Multi Nacht Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>91268</sku>
@@ -2523,7 +2523,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/5f/3c/57ee52324efb3b7cc1fae9f8f409.png,https://www.vitakruid.nl/media/cache/product_og_image/5f/3c/57ee52324efb3b7cc1fae9f8f409.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-hd</handle>
+    <handle>vitakruid-multi-nacht-hd</handle>
     <title>Multi Nacht HD</title>
     <vendor>Vitakruid</vendor>
     <sku>90544</sku>
@@ -2552,7 +2552,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/03/23/7ec928dd0ace6203e9d1e95d1963.png,https://www.vitakruid.nl/media/cache/product_og_image/03/23/7ec928dd0ace6203e9d1e95d1963.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-hd</handle>
+    <handle>vitakruid-multi-nacht-hd</handle>
     <title>Multi Nacht HD</title>
     <vendor>Vitakruid</vendor>
     <sku>90568</sku>
@@ -2581,7 +2581,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6f/ee/7a2b40ab37969e1097d77c4ab140.png,https://www.vitakruid.nl/media/cache/product_og_image/03/23/7ec928dd0ace6203e9d1e95d1963.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-junior</handle>
+    <handle>vitakruid-multi-dag-junior</handle>
     <title>Multi Dag Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>91251</sku>
@@ -2610,7 +2610,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ef/55/5727744082b4834e31bc11d192c0.png,https://www.vitakruid.nl/media/cache/product_og_image/ef/55/5727744082b4834e31bc11d192c0.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-hd</handle>
+    <handle>vitakruid-multi-dag-hd</handle>
     <title>Multi Dag HD</title>
     <vendor>Vitakruid</vendor>
     <sku>90537</sku>
@@ -2639,7 +2639,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a3/87/689c3b2bc67867ce1f5b6091f8a5.png,https://www.vitakruid.nl/media/cache/product_og_image/a3/87/689c3b2bc67867ce1f5b6091f8a5.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-hd</handle>
+    <handle>vitakruid-multi-dag-hd</handle>
     <title>Multi Dag HD</title>
     <vendor>Vitakruid</vendor>
     <sku>90551</sku>
@@ -2668,7 +2668,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/fa/ba/fb1dbaca8ce82fed4ffc2254b8f3.png,https://www.vitakruid.nl/media/cache/product_og_image/a3/87/689c3b2bc67867ce1f5b6091f8a5.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-mama-tabletten</handle>
+    <handle>vitakruid-multi-dag-mama-tabletten</handle>
     <title>Multi Dag Mama Tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>90834</sku>
@@ -2697,7 +2697,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/69/3f/30cdddd716e3ccc5f58d890c2d47.png,https://www.vitakruid.nl/media/cache/product_og_image/69/3f/30cdddd716e3ccc5f58d890c2d47.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-mama-tabletten</handle>
+    <handle>vitakruid-multi-dag-mama-tabletten</handle>
     <title>Multi Dag Mama Tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>90773</sku>
@@ -2726,7 +2726,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/27/1b/fd0b8baab777b582ecb2cdc9fb20.png,https://www.vitakruid.nl/media/cache/product_og_image/69/3f/30cdddd716e3ccc5f58d890c2d47.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-vrouw</handle>
+    <handle>vitakruid-multi-dag-vrouw</handle>
     <title>Multi Dag Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>91060</sku>
@@ -2755,7 +2755,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/d1/16/c65ee02f2280c9f459008407c86f.png,https://www.vitakruid.nl/media/cache/product_og_image/d1/16/c65ee02f2280c9f459008407c86f.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-vrouw</handle>
+    <handle>vitakruid-multi-dag-vrouw</handle>
     <title>Multi Dag Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>91077</sku>
@@ -2784,7 +2784,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3a/ef/f4f18d56a0e4dc75018f93fea523.png,https://www.vitakruid.nl/media/cache/product_og_image/d1/16/c65ee02f2280c9f459008407c86f.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-junior</handle>
+    <handle>vitakruid-multi-dag-nacht-junior</handle>
     <title>Multi Dag &amp; Nacht® Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>91275</sku>
@@ -2813,7 +2813,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/77/9d/98f4ee8f0f695fea96b83beb04c4.png,https://www.vitakruid.nl/media/cache/product_og_image/77/9d/98f4ee8f0f695fea96b83beb04c4.png</image_links>
   </product>
   <product>
-    <handle>ijzer-bisglycinaat-complex</handle>
+    <handle>vitakruid-ijzer-bisglycinaat-complex</handle>
     <title>IJzer Bisglycinaat Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>91312</sku>
@@ -2842,7 +2842,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/18/06/723df40d1d1e7a62e4645de6459b.png,https://www.vitakruid.nl/media/cache/product_og_image/18/06/723df40d1d1e7a62e4645de6459b.png</image_links>
   </product>
   <product>
-    <handle>b12-1000-mcg-methylcobalamine</handle>
+    <handle>vitakruid-b12-1000-mcg-methylcobalamine</handle>
     <title>B12 1000 mcg Methylcobalamine</title>
     <vendor>Vitakruid</vendor>
     <sku>91336</sku>
@@ -2871,7 +2871,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ee/6f/c0e549c1fededc22933f469bb122.png,https://www.vitakruid.nl/media/cache/product_og_image/ee/6f/c0e549c1fededc22933f469bb122.png</image_links>
   </product>
   <product>
-    <handle>b12-1000-mcg-methylcobalamine</handle>
+    <handle>vitakruid-b12-1000-mcg-methylcobalamine</handle>
     <title>B12 1000 mcg Methylcobalamine</title>
     <vendor>Vitakruid</vendor>
     <sku>92760</sku>
@@ -2900,7 +2900,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/73/38/70eb95370ac53bdf85b7a205af48.png,https://www.vitakruid.nl/media/cache/product_og_image/ee/6f/c0e549c1fededc22933f469bb122.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-75-mcg-3000-ie</handle>
+    <handle>vitakruid-vitamine-d3-75-mcg-3000-ie</handle>
     <title>Vitamine D3 - 75 mcg  / 3000 IE</title>
     <vendor>Vitakruid</vendor>
     <sku>91343</sku>
@@ -2929,7 +2929,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/cc/5c/417f0c09105660b26a0910900e09.png,https://www.vitakruid.nl/media/cache/product_og_image/cc/5c/417f0c09105660b26a0910900e09.png</image_links>
   </product>
   <product>
-    <handle>magnesium-150-bisglycinaat</handle>
+    <handle>vitakruid-magnesium-150-bisglycinaat</handle>
     <title>Magnesium 150 Bisglycinaat</title>
     <vendor>Vitakruid</vendor>
     <sku>91350</sku>
@@ -2958,7 +2958,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/63/12/2b9ae86d5a50ef953db9f7dd97b0.png,https://www.vitakruid.nl/media/cache/product_og_image/63/12/2b9ae86d5a50ef953db9f7dd97b0.png</image_links>
   </product>
   <product>
-    <handle>magnesium-150-bisglycinaat</handle>
+    <handle>vitakruid-magnesium-150-bisglycinaat</handle>
     <title>Magnesium 150 Bisglycinaat</title>
     <vendor>Vitakruid</vendor>
     <sku>91367</sku>
@@ -2987,7 +2987,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/37/62/d9fe2f2a42208b0cf24ee1f98e9c.png,https://www.vitakruid.nl/media/cache/product_og_image/63/12/2b9ae86d5a50ef953db9f7dd97b0.png</image_links>
   </product>
   <product>
-    <handle>magnesium-200-citraat</handle>
+    <handle>vitakruid-magnesium-200-citraat</handle>
     <title>Magnesium 200 Citraat</title>
     <vendor>Vitakruid</vendor>
     <sku>91633</sku>
@@ -3016,7 +3016,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c1/ba/b56f882a5b49273031e252c8f319.png,https://www.vitakruid.nl/media/cache/product_og_image/c1/ba/b56f882a5b49273031e252c8f319.png</image_links>
   </product>
   <product>
-    <handle>magnesium-200-complex</handle>
+    <handle>vitakruid-magnesium-200-complex</handle>
     <title>Magnesium 200 Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>93637</sku>
@@ -3045,7 +3045,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/5c/13/d7a5fb663a71f8f39946ef532d30.png,https://www.vitakruid.nl/media/cache/product_og_image/5c/13/d7a5fb663a71f8f39946ef532d30.png</image_links>
   </product>
   <product>
-    <handle>magnesium-200-complex</handle>
+    <handle>vitakruid-magnesium-200-complex</handle>
     <title>Magnesium 200 Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>91626</sku>
@@ -3074,7 +3074,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ef/2d/9eb58b5b7ab5e1577a4840a4ca60.png,https://www.vitakruid.nl/media/cache/product_og_image/5c/13/d7a5fb663a71f8f39946ef532d30.png</image_links>
   </product>
   <product>
-    <handle>magnesium-200-complex</handle>
+    <handle>vitakruid-magnesium-200-complex</handle>
     <title>Magnesium 200 Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>92012</sku>
@@ -3103,7 +3103,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ce/87/e83c04c1eec9719431cc8a51e938.png,https://www.vitakruid.nl/media/cache/product_og_image/5c/13/d7a5fb663a71f8f39946ef532d30.png</image_links>
   </product>
   <product>
-    <handle>nac-600-mg-n-acetyl-l-cysteine</handle>
+    <handle>vitakruid-nac-600-mg-n-acetyl-l-cysteine</handle>
     <title>NAC 600 mg N-Acetyl-L-Cysteïne</title>
     <vendor>Vitakruid</vendor>
     <sku>91374</sku>
@@ -3132,7 +3132,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c3/86/d902b8a2cd03fb6fb5471ef4d4d8.png,https://www.vitakruid.nl/media/cache/product_og_image/c3/86/d902b8a2cd03fb6fb5471ef4d4d8.png</image_links>
   </product>
   <product>
-    <handle>nac-600-mg-n-acetyl-l-cysteine</handle>
+    <handle>vitakruid-nac-600-mg-n-acetyl-l-cysteine</handle>
     <title>NAC 600 mg N-Acetyl-L-Cysteïne</title>
     <vendor>Vitakruid</vendor>
     <sku>92029</sku>
@@ -3161,7 +3161,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c7/e8/c27e2d430a7fbb7f7a119b0fde9b.png,https://www.vitakruid.nl/media/cache/product_og_image/c3/86/d902b8a2cd03fb6fb5471ef4d4d8.png</image_links>
   </product>
   <product>
-    <handle>msm-1000-mg-met-vitamine-c</handle>
+    <handle>vitakruid-msm-1000-mg-met-vitamine-c</handle>
     <title>MSM 1000 mg met vitamine C</title>
     <vendor>Vitakruid</vendor>
     <sku>91329</sku>
@@ -3190,7 +3190,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/18/8f/ec6f4fe9b7a5d23a0fbb89b2beb9.png,https://www.vitakruid.nl/media/cache/product_og_image/18/8f/ec6f4fe9b7a5d23a0fbb89b2beb9.png</image_links>
   </product>
   <product>
-    <handle>l-lysine-1000-mg</handle>
+    <handle>vitakruid-l-lysine-1000-mg</handle>
     <title>L-Lysine 1000 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91602</sku>
@@ -3219,7 +3219,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/97/da/5c41d0412470938985d1f3c3ff06.png,https://www.vitakruid.nl/media/cache/product_og_image/97/da/5c41d0412470938985d1f3c3ff06.png</image_links>
   </product>
   <product>
-    <handle>vitamine-k2-100-mcg</handle>
+    <handle>vitakruid-vitamine-k2-100-mcg</handle>
     <title>Vitamine K2 100 mcg</title>
     <vendor>Vitakruid</vendor>
     <sku>91398</sku>
@@ -3248,7 +3248,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/be/2e/89772af5151b27b901e76befd928.png,https://www.vitakruid.nl/media/cache/product_og_image/be/2e/89772af5151b27b901e76befd928.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-man</handle>
+    <handle>vitakruid-multi-dag-nacht-man</handle>
     <title>Multi Dag &amp; Nacht® Man</title>
     <vendor>Vitakruid</vendor>
     <sku>91503</sku>
@@ -3277,7 +3277,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/5b/94/465286948b27129106f2d68d790c.png,https://www.vitakruid.nl/media/cache/product_og_image/46/7f/987d90dc5d8bec13aac915bf560b.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-man</handle>
+    <handle>vitakruid-multi-dag-nacht-man</handle>
     <title>Multi Dag &amp; Nacht® Man</title>
     <vendor>Vitakruid</vendor>
     <sku>91510</sku>
@@ -3306,7 +3306,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/46/7f/987d90dc5d8bec13aac915bf560b.png,https://www.vitakruid.nl/media/cache/product_og_image/46/7f/987d90dc5d8bec13aac915bf560b.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-man</handle>
+    <handle>vitakruid-multi-nacht-man</handle>
     <title>Multi Nacht Man</title>
     <vendor>Vitakruid</vendor>
     <sku>91541</sku>
@@ -3335,7 +3335,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/08/d2/04f713e7f68d194379b769026e11.png,https://www.vitakruid.nl/media/cache/product_og_image/08/d2/04f713e7f68d194379b769026e11.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-man</handle>
+    <handle>vitakruid-multi-nacht-man</handle>
     <title>Multi Nacht Man</title>
     <vendor>Vitakruid</vendor>
     <sku>91558</sku>
@@ -3364,7 +3364,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/67/03/c51e6f637343eae5e17fcb3b6506.png,https://www.vitakruid.nl/media/cache/product_og_image/08/d2/04f713e7f68d194379b769026e11.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-man</handle>
+    <handle>vitakruid-multi-dag-man</handle>
     <title>Multi Dag Man</title>
     <vendor>Vitakruid</vendor>
     <sku>91527</sku>
@@ -3393,7 +3393,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6a/53/704789cfebebb527f419dd94626c.png,https://www.vitakruid.nl/media/cache/product_og_image/6a/53/704789cfebebb527f419dd94626c.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-man</handle>
+    <handle>vitakruid-multi-dag-man</handle>
     <title>Multi Dag Man</title>
     <vendor>Vitakruid</vendor>
     <sku>91534</sku>
@@ -3422,7 +3422,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a8/45/a2790041fe46c24a8bf80c58b681.png,https://www.vitakruid.nl/media/cache/product_og_image/6a/53/704789cfebebb527f419dd94626c.png</image_links>
   </product>
   <product>
-    <handle>prostaatformule</handle>
+    <handle>vitakruid-prostaatformule</handle>
     <title>Prostaatformule</title>
     <vendor>Vitakruid</vendor>
     <sku>91466</sku>
@@ -3450,7 +3450,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/05/14/2f0f0406571898dc8069290a274e.png,https://www.vitakruid.nl/media/cache/product_og_image/05/14/2f0f0406571898dc8069290a274e.png</image_links>
   </product>
   <product>
-    <handle>acetyl-l-carnitine-500-mg</handle>
+    <handle>vitakruid-acetyl-l-carnitine-500-mg</handle>
     <title>Acetyl-L-Carnitine 500 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91565</sku>
@@ -3479,7 +3479,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/86/ae/c6992415f00f82cddef61ced5f8b.png,https://www.vitakruid.nl/media/cache/product_og_image/86/ae/c6992415f00f82cddef61ced5f8b.png</image_links>
   </product>
   <product>
-    <handle>vitamine-c-poeder-calcium-magnesiumascorbaat</handle>
+    <handle>vitakruid-vitamine-c-poeder-calcium-magnesiumascorbaat</handle>
     <title>Vitamine C poeder Calcium- &amp; Magnesiumascorbaat</title>
     <vendor>Vitakruid</vendor>
     <sku>91497</sku>
@@ -3508,7 +3508,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9d/93/61fe540c19a057c3dcc0e90e683b.png,https://www.vitakruid.nl/media/cache/product_og_image/9d/93/61fe540c19a057c3dcc0e90e683b.png</image_links>
   </product>
   <product>
-    <handle>vitamine-c-1000-mg</handle>
+    <handle>vitakruid-vitamine-c-1000-mg</handle>
     <title>Vitamine C 1000 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91473</sku>
@@ -3537,7 +3537,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/5c/99/1b1cd3a84407beb0bb0be37e93c5.png,https://www.vitakruid.nl/media/cache/product_og_image/5c/99/1b1cd3a84407beb0bb0be37e93c5.png</image_links>
   </product>
   <product>
-    <handle>vitamine-c-1000-mg</handle>
+    <handle>vitakruid-vitamine-c-1000-mg</handle>
     <title>Vitamine C 1000 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91480</sku>
@@ -3566,7 +3566,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/42/cf/639d28bbfb83e5141062007bc3ee.png,https://www.vitakruid.nl/media/cache/product_og_image/5c/99/1b1cd3a84407beb0bb0be37e93c5.png</image_links>
   </product>
   <product>
-    <handle>resveratrol-200-mg-met-bioperine-r</handle>
+    <handle>vitakruid-resveratrol-200-mg-met-bioperine-r</handle>
     <title>Resveratrol 200 mg met Bioperine®</title>
     <vendor>Vitakruid</vendor>
     <sku>91657</sku>
@@ -3594,7 +3594,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/87/88/11f27cd909133b86033211388064.png,https://www.vitakruid.nl/media/cache/product_og_image/87/88/11f27cd909133b86033211388064.png</image_links>
   </product>
   <product>
-    <handle>actief-foliumzuur-400-mcg</handle>
+    <handle>vitakruid-actief-foliumzuur-400-mcg</handle>
     <title>Actief Foliumzuur 400 mcg</title>
     <vendor>Vitakruid</vendor>
     <sku>91589</sku>
@@ -3623,7 +3623,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/54/73/75dec4fd7fd29f5cb1d5e0c8189f.png,https://www.vitakruid.nl/media/cache/product_og_image/54/73/75dec4fd7fd29f5cb1d5e0c8189f.png</image_links>
   </product>
   <product>
-    <handle>ester-c-r-1000-mg</handle>
+    <handle>vitakruid-ester-c-r-1000-mg</handle>
     <title>Ester-C® 1000 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91640</sku>
@@ -3652,7 +3652,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f9/45/6ffa07e2ff689e2faa248438d6ed.png,https://www.vitakruid.nl/media/cache/product_og_image/f9/45/6ffa07e2ff689e2faa248438d6ed.png</image_links>
   </product>
   <product>
-    <handle>b-complex-actief</handle>
+    <handle>vitakruid-b-complex-actief</handle>
     <title>B-Complex Actief</title>
     <vendor>Vitakruid</vendor>
     <sku>91572</sku>
@@ -3681,7 +3681,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/27/bf/97622b0182b1205003554ccc8933.png,https://www.vitakruid.nl/media/cache/product_og_image/27/bf/97622b0182b1205003554ccc8933.png</image_links>
   </product>
   <product>
-    <handle>weerstand-duo</handle>
+    <handle>vitakruid-weerstand-duo</handle>
     <title>Weerstand Duo</title>
     <vendor>Vitakruid</vendor>
     <sku>weerstand</sku>
@@ -3709,7 +3709,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c7/1e/5a3e978b252b430a1a1f110c3378.png,https://www.vitakruid.nl/media/cache/product_og_image/c7/1e/5a3e978b252b430a1a1f110c3378.png</image_links>
   </product>
   <product>
-    <handle>overgang-bundel</handle>
+    <handle>vitakruid-overgang-bundel</handle>
     <title>Overgang Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>overgang</sku>
@@ -3737,7 +3737,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/20/9f/01eb4084ea6c7f8e84020d95a977.png,https://www.vitakruid.nl/media/cache/product_og_image/20/9f/01eb4084ea6c7f8e84020d95a977.png</image_links>
   </product>
   <product>
-    <handle>vegan-bundel</handle>
+    <handle>vitakruid-vegan-bundel</handle>
     <title>Vegan Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>vegan</sku>
@@ -3765,7 +3765,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/cc/a4/35663e92f688813e3158b070b369.png,https://www.vitakruid.nl/media/cache/product_og_image/cc/a4/35663e92f688813e3158b070b369.png</image_links>
   </product>
   <product>
-    <handle>lever-detox-bundel</handle>
+    <handle>vitakruid-lever-detox-bundel</handle>
     <title>Lever Detox Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>lever</sku>
@@ -3793,7 +3793,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/98/a6/b5e79e5da89f6afd62a7a17fef96.png,https://www.vitakruid.nl/media/cache/product_og_image/98/a6/b5e79e5da89f6afd62a7a17fef96.png</image_links>
   </product>
   <product>
-    <handle>zwangerschap-bundel-basis</handle>
+    <handle>vitakruid-zwangerschap-bundel-basis</handle>
     <title>Zwangerschap Bundel Basis</title>
     <vendor>Vitakruid</vendor>
     <sku>zwangerschap</sku>
@@ -3820,7 +3820,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/da/03/2dca085b55de55351240e758a423.png,https://www.vitakruid.nl/media/cache/product_og_image/da/03/2dca085b55de55351240e758a423.png</image_links>
   </product>
   <product>
-    <handle>geheugen-bundel</handle>
+    <handle>vitakruid-geheugen-bundel</handle>
     <title>Geheugen Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>geheugen</sku>
@@ -3848,7 +3848,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/d0/72/126d5038ff6383c3f36b04398616.png,https://www.vitakruid.nl/media/cache/product_og_image/d0/72/126d5038ff6383c3f36b04398616.png</image_links>
   </product>
   <product>
-    <handle>prostaat-vruchtbaarheid-en-seksualiteit-bundel</handle>
+    <handle>vitakruid-prostaat-vruchtbaarheid-en-seksualiteit-bundel</handle>
     <title>Prostaat, Vruchtbaarheid en Seksualiteit Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>prostaat</sku>
@@ -3876,7 +3876,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/49/e7/da1ac4ffbfc1dffef221a2d475f8.png,https://www.vitakruid.nl/media/cache/product_og_image/49/e7/da1ac4ffbfc1dffef221a2d475f8.png</image_links>
   </product>
   <product>
-    <handle>spijsvertering-bundel</handle>
+    <handle>vitakruid-spijsvertering-bundel</handle>
     <title>Spijsvertering Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>spijsvertering</sku>
@@ -3903,7 +3903,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/95/32/3522c757f9c69fdff66c8772cc20.png,https://www.vitakruid.nl/media/cache/product_og_image/95/32/3522c757f9c69fdff66c8772cc20.png</image_links>
   </product>
   <product>
-    <handle>huid-bundel</handle>
+    <handle>vitakruid-huid-bundel</handle>
     <title>Huid Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>huid</sku>
@@ -3931,7 +3931,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1a/44/81150ee1bcfcaf683b25f97095c0.png,https://www.vitakruid.nl/media/cache/product_og_image/1a/44/81150ee1bcfcaf683b25f97095c0.png</image_links>
   </product>
   <product>
-    <handle>bloedsuiker-en-gewicht-bundel</handle>
+    <handle>vitakruid-bloedsuiker-en-gewicht-bundel</handle>
     <title>Bloedsuiker en Gewicht Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>bloedsuiker</sku>
@@ -3959,7 +3959,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a6/f3/e14829e1910580c33a38c5535843.png,https://www.vitakruid.nl/media/cache/product_og_image/a6/f3/e14829e1910580c33a38c5535843.png</image_links>
   </product>
   <product>
-    <handle>quercetine-250-met-phytosome-technologie</handle>
+    <handle>vitakruid-quercetine-250-met-phytosome-technologie</handle>
     <title>Quercetine 250 met Phytosome®-technologie</title>
     <vendor>Vitakruid</vendor>
     <sku>91671</sku>
@@ -3988,7 +3988,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3b/6a/ee676c9a5a7449a1bfaedbfe3494.png,https://www.vitakruid.nl/media/cache/product_og_image/3b/6a/ee676c9a5a7449a1bfaedbfe3494.png</image_links>
   </product>
   <product>
-    <handle>botten-gewrichten-bundel</handle>
+    <handle>vitakruid-botten-gewrichten-bundel</handle>
     <title>Botten &amp; Gewrichten Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>botten</sku>
@@ -4016,7 +4016,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/fc/8f/fb48280e98e732a05e06d286ea87.png,https://www.vitakruid.nl/media/cache/product_og_image/fc/8f/fb48280e98e732a05e06d286ea87.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-druppels</handle>
+    <handle>vitakruid-vitamine-d3-druppels</handle>
     <title>Vitamine D3 druppels</title>
     <vendor>Vitakruid</vendor>
     <sku>91756</sku>
@@ -4045,7 +4045,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/2f/06/cae93eec739891429a12b2db242e.png,https://www.vitakruid.nl/media/cache/product_og_image/2f/06/cae93eec739891429a12b2db242e.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-druppels-vegan</handle>
+    <handle>vitakruid-vitamine-d3-druppels-vegan</handle>
     <title>Vitamine D3 druppels Vegan</title>
     <vendor>Vitakruid</vendor>
     <sku>91749</sku>
@@ -4074,7 +4074,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1b/e6/fdc27f2f8944ded77dce415f47e3.png,https://www.vitakruid.nl/media/cache/product_og_image/1b/e6/fdc27f2f8944ded77dce415f47e3.png</image_links>
   </product>
   <product>
-    <handle>berberine-500-rebersa-r</handle>
+    <handle>vitakruid-berberine-500-rebersa-r</handle>
     <title>Berberine 500 Rebersa®</title>
     <vendor>Vitakruid</vendor>
     <sku>91718</sku>
@@ -4103,7 +4103,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4a/59/ae26a837441aa307640bb0399219.png,https://www.vitakruid.nl/media/cache/product_og_image/4a/59/ae26a837441aa307640bb0399219.png</image_links>
   </product>
   <product>
-    <handle>berberine-500-rebersa-r</handle>
+    <handle>vitakruid-berberine-500-rebersa-r</handle>
     <title>Berberine 500 Rebersa®</title>
     <vendor>Vitakruid</vendor>
     <sku>92142</sku>
@@ -4132,7 +4132,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b3/96/9ed0c469f5168e0d16460fa7d160.png,https://www.vitakruid.nl/media/cache/product_og_image/4a/59/ae26a837441aa307640bb0399219.png</image_links>
   </product>
   <product>
-    <handle>magnesium-150-malaat</handle>
+    <handle>vitakruid-magnesium-150-malaat</handle>
     <title>Magnesium 150 Malaat</title>
     <vendor>Vitakruid</vendor>
     <sku>93644</sku>
@@ -4161,7 +4161,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/23/78/10af690785f1b176bef507967879.png,https://www.vitakruid.nl/media/cache/product_og_image/ff/80/9535a297cba2de67c35579dd9749.png</image_links>
   </product>
   <product>
-    <handle>magnesium-150-malaat</handle>
+    <handle>vitakruid-magnesium-150-malaat</handle>
     <title>Magnesium 150 Malaat</title>
     <vendor>Vitakruid</vendor>
     <sku>91695</sku>
@@ -4190,7 +4190,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ff/80/9535a297cba2de67c35579dd9749.png,https://www.vitakruid.nl/media/cache/product_og_image/ff/80/9535a297cba2de67c35579dd9749.png</image_links>
   </product>
   <product>
-    <handle>magnesium-150-malaat</handle>
+    <handle>vitakruid-magnesium-150-malaat</handle>
     <title>Magnesium 150 Malaat</title>
     <vendor>Vitakruid</vendor>
     <sku>92081</sku>
@@ -4219,7 +4219,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/83/dc/ab771b36b80fddf461e8795e1175.png,https://www.vitakruid.nl/media/cache/product_og_image/ff/80/9535a297cba2de67c35579dd9749.png</image_links>
   </product>
   <product>
-    <handle>groene-thee-bioperine-r</handle>
+    <handle>vitakruid-groene-thee-bioperine-r</handle>
     <title>Groene Thee &amp; Bioperine®</title>
     <vendor>Vitakruid</vendor>
     <sku>91725</sku>
@@ -4248,7 +4248,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/71/72/45c9fc3047a2644f44e782cbc2b3.png,https://www.vitakruid.nl/media/cache/product_og_image/71/72/45c9fc3047a2644f44e782cbc2b3.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-vegan-25-mcg-1000-ie</handle>
+    <handle>vitakruid-vitamine-d3-vegan-25-mcg-1000-ie</handle>
     <title>Vitamine D3 Vegan - 25 mcg / 1000 IE</title>
     <vendor>Vitakruid</vendor>
     <sku>91732</sku>
@@ -4276,7 +4276,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/22/2c/038fde72ebef5c618c1b356c1062.png,https://www.vitakruid.nl/media/cache/product_og_image/22/2c/038fde72ebef5c618c1b356c1062.png</image_links>
   </product>
   <product>
-    <handle>relaxcomplex</handle>
+    <handle>vitakruid-relaxcomplex</handle>
     <title>RelaxComplex®</title>
     <vendor>Vitakruid</vendor>
     <sku>92791</sku>
@@ -4305,7 +4305,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c8/3b/90a42cfd8b77c396ed3e9aa45c28.png,https://www.vitakruid.nl/media/cache/product_og_image/c8/3b/90a42cfd8b77c396ed3e9aa45c28.png</image_links>
   </product>
   <product>
-    <handle>relaxcomplex</handle>
+    <handle>vitakruid-relaxcomplex</handle>
     <title>RelaxComplex®</title>
     <vendor>Vitakruid</vendor>
     <sku>91763</sku>
@@ -4334,7 +4334,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/23/27/fc4b221c2c87118212790cb8e6e1.png,https://www.vitakruid.nl/media/cache/product_og_image/c8/3b/90a42cfd8b77c396ed3e9aa45c28.png</image_links>
   </product>
   <product>
-    <handle>relaxcomplex</handle>
+    <handle>vitakruid-relaxcomplex</handle>
     <title>RelaxComplex®</title>
     <vendor>Vitakruid</vendor>
     <sku>92173</sku>
@@ -4363,7 +4363,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/56/81/f8547d5b53478a2cf5510bb55443.png,https://www.vitakruid.nl/media/cache/product_og_image/c8/3b/90a42cfd8b77c396ed3e9aa45c28.png</image_links>
   </product>
   <product>
-    <handle>vitex-agnus-castus-200-mg-monnikspeper</handle>
+    <handle>vitakruid-vitex-agnus-castus-200-mg-monnikspeper</handle>
     <title>Vitex Agnus Castus 200 mg Monnikspeper</title>
     <vendor>Vitakruid</vendor>
     <sku>91770</sku>
@@ -4392,7 +4392,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1b/ae/28bdbbc0124b8e250882dddd87e5.png,https://www.vitakruid.nl/media/cache/product_og_image/1b/ae/28bdbbc0124b8e250882dddd87e5.png</image_links>
   </product>
   <product>
-    <handle>multi-basis</handle>
+    <handle>vitakruid-multi-basis</handle>
     <title>Multi Basis</title>
     <vendor>Vitakruid</vendor>
     <sku>91855</sku>
@@ -4421,7 +4421,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/63/c6/1a540e8be7e2453d1d7d2f8cb11a.png,https://www.vitakruid.nl/media/cache/product_og_image/63/c6/1a540e8be7e2453d1d7d2f8cb11a.png</image_links>
   </product>
   <product>
-    <handle>multi-basis</handle>
+    <handle>vitakruid-multi-basis</handle>
     <title>Multi Basis</title>
     <vendor>Vitakruid</vendor>
     <sku>91862</sku>
@@ -4450,7 +4450,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/22/42/7b458959274f49f4f1586a363e57.png,https://www.vitakruid.nl/media/cache/product_og_image/63/c6/1a540e8be7e2453d1d7d2f8cb11a.png</image_links>
   </product>
   <product>
-    <handle>borage-olie-1500-mg-gla-300-mg</handle>
+    <handle>vitakruid-borage-olie-1500-mg-gla-300-mg</handle>
     <title>Borage Olie 1500 mg GLA 300 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>91794</sku>
@@ -4479,7 +4479,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/35/4c/0da0dc3ef80213e403d7fd79c5ba.png,https://www.vitakruid.nl/media/cache/product_og_image/35/4c/0da0dc3ef80213e403d7fd79c5ba.png</image_links>
   </product>
   <product>
-    <handle>visolie-1400-tg-met-d3</handle>
+    <handle>vitakruid-visolie-1400-tg-met-d3</handle>
     <title>Visolie 1400 TG® met D3</title>
     <vendor>Vitakruid</vendor>
     <sku>92807</sku>
@@ -4508,7 +4508,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1d/06/833ae8d3c316b3c24f23c7f0cf5f.png,https://www.vitakruid.nl/media/cache/product_og_image/b2/f2/ea9b1a5fb68915d8b50bcc476723.png</image_links>
   </product>
   <product>
-    <handle>visolie-1400-tg-met-d3</handle>
+    <handle>vitakruid-visolie-1400-tg-met-d3</handle>
     <title>Visolie 1400 TG® met D3</title>
     <vendor>Vitakruid</vendor>
     <sku>91848</sku>
@@ -4537,7 +4537,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b2/f2/ea9b1a5fb68915d8b50bcc476723.png,https://www.vitakruid.nl/media/cache/product_og_image/b2/f2/ea9b1a5fb68915d8b50bcc476723.png</image_links>
   </product>
   <product>
-    <handle>visolie-1400-tg-met-d3</handle>
+    <handle>vitakruid-visolie-1400-tg-met-d3</handle>
     <title>Visolie 1400 TG® met D3</title>
     <vendor>Vitakruid</vendor>
     <sku>92203</sku>
@@ -4566,7 +4566,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/65/cb/0ba5d9d7d7276b877438bdf6533a.png,https://www.vitakruid.nl/media/cache/product_og_image/b2/f2/ea9b1a5fb68915d8b50bcc476723.png</image_links>
   </product>
   <product>
-    <handle>femme</handle>
+    <handle>vitakruid-femme</handle>
     <title>Femme</title>
     <vendor>Vitakruid</vendor>
     <sku>91831</sku>
@@ -4595,7 +4595,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/16/16/88b9b5796d4e790d6867c5fa63da.png,https://www.vitakruid.nl/media/cache/product_og_image/6a/44/210e9f2211e997ffb046929cd0c2.png</image_links>
   </product>
   <product>
-    <handle>femme</handle>
+    <handle>vitakruid-femme</handle>
     <title>Femme</title>
     <vendor>Vitakruid</vendor>
     <sku>92159</sku>
@@ -4624,7 +4624,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6a/44/210e9f2211e997ffb046929cd0c2.png,https://www.vitakruid.nl/media/cache/product_og_image/6a/44/210e9f2211e997ffb046929cd0c2.png</image_links>
   </product>
   <product>
-    <handle>vitamine-k-d-baby</handle>
+    <handle>vitakruid-vitamine-k-d-baby</handle>
     <title>Vitamine K &amp; D Baby</title>
     <vendor>Vitakruid</vendor>
     <sku>91800</sku>
@@ -4653,7 +4653,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/2b/d8/703129d4aec48d6cd20373a735ea.png,https://www.vitakruid.nl/media/cache/product_og_image/2b/d8/703129d4aec48d6cd20373a735ea.png</image_links>
   </product>
   <product>
-    <handle>saffraan-bioperine</handle>
+    <handle>vitakruid-saffraan-bioperine</handle>
     <title>Saffraan &amp; Bioperine®</title>
     <vendor>Vitakruid</vendor>
     <sku>91893</sku>
@@ -4682,7 +4682,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/51/b7/9ab881e156f2cb9e3439d63d1633.png,https://www.vitakruid.nl/media/cache/product_og_image/51/b7/9ab881e156f2cb9e3439d63d1633.png</image_links>
   </product>
   <product>
-    <handle>dim-builder</handle>
+    <handle>vitakruid-dim-builder</handle>
     <title>DIM Builder</title>
     <vendor>Vitakruid</vendor>
     <sku>91886</sku>
@@ -4711,7 +4711,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/1b/79/1d6ba541674bfc4561cd1bf6eccf.png,https://www.vitakruid.nl/media/cache/product_og_image/1b/79/1d6ba541674bfc4561cd1bf6eccf.png</image_links>
   </product>
   <product>
-    <handle>calcium-400-d3-uit-rode-alg</handle>
+    <handle>vitakruid-calcium-400-d3-uit-rode-alg</handle>
     <title>Calcium 400 &amp; D3 uit Rode Alg</title>
     <vendor>Vitakruid</vendor>
     <sku>91923</sku>
@@ -4740,7 +4740,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f7/53/3a74f5f5bf1b43929099a523f452.png,https://www.vitakruid.nl/media/cache/product_og_image/f7/53/3a74f5f5bf1b43929099a523f452.png</image_links>
   </product>
   <product>
-    <handle>vegan-omega-3-1000-tg</handle>
+    <handle>vitakruid-vegan-omega-3-1000-tg</handle>
     <title>Vegan Omega-3 1000 TG</title>
     <vendor>Vitakruid</vendor>
     <sku>91916</sku>
@@ -4769,7 +4769,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/48/70/96cdeaf091d6eea4f49560ce03c1.png,https://www.vitakruid.nl/media/cache/product_og_image/66/9f/068eae6dfdcbc1fb54d8bb907614.png</image_links>
   </product>
   <product>
-    <handle>vegan-omega-3-1000-tg</handle>
+    <handle>vitakruid-vegan-omega-3-1000-tg</handle>
     <title>Vegan Omega-3 1000 TG</title>
     <vendor>Vitakruid</vendor>
     <sku>92197</sku>
@@ -4798,7 +4798,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/66/9f/068eae6dfdcbc1fb54d8bb907614.png,https://www.vitakruid.nl/media/cache/product_og_image/66/9f/068eae6dfdcbc1fb54d8bb907614.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-poeder</handle>
+    <handle>vitakruid-collageen-solugel-poeder</handle>
     <title>Collageen Solugel® poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>91909</sku>
@@ -4827,7 +4827,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/56/94/69a40ab53ab5121e3dbd5593f42e.png,https://www.vitakruid.nl/media/cache/product_og_image/56/94/69a40ab53ab5121e3dbd5593f42e.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-poeder</handle>
+    <handle>vitakruid-collageen-solugel-poeder</handle>
     <title>Collageen Solugel® poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>93811</sku>
@@ -4856,7 +4856,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/36/08/a419bf552f2b30ec776ff43d36eb.png,https://www.vitakruid.nl/media/cache/product_og_image/56/94/69a40ab53ab5121e3dbd5593f42e.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-poeder</handle>
+    <handle>vitakruid-collageen-solugel-poeder</handle>
     <title>Collageen Solugel® poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>92692</sku>
@@ -4885,7 +4885,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0d/d8/23f571e42bda0fdeb0a937866faa.png,https://www.vitakruid.nl/media/cache/product_og_image/56/94/69a40ab53ab5121e3dbd5593f42e.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-poeder</handle>
+    <handle>vitakruid-collageen-solugel-poeder</handle>
     <title>Collageen Solugel® poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>93040</sku>
@@ -4914,7 +4914,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/74/08/d786526445bd61d26cb41ff3d95f.png,https://www.vitakruid.nl/media/cache/product_og_image/56/94/69a40ab53ab5121e3dbd5593f42e.png</image_links>
   </product>
   <product>
-    <handle>hormoonsupport-vrouw-bundel</handle>
+    <handle>vitakruid-hormoonsupport-vrouw-bundel</handle>
     <title>Hormoonsupport Vrouw Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>hormoonsupport</sku>
@@ -4941,7 +4941,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/07/6e/8ca22ea3a838d7398e062a10f2d0.png,https://www.vitakruid.nl/media/cache/product_og_image/07/6e/8ca22ea3a838d7398e062a10f2d0.png</image_links>
   </product>
   <product>
-    <handle>basis-bundel-man</handle>
+    <handle>vitakruid-basis-bundel-man</handle>
     <title>Basis Bundel Man</title>
     <vendor>Vitakruid</vendor>
     <sku>basis</sku>
@@ -4969,7 +4969,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/cd/08/3cd967ff409ab3634fb219e1ff36.png,https://www.vitakruid.nl/media/cache/product_og_image/cd/08/3cd967ff409ab3634fb219e1ff36.png</image_links>
   </product>
   <product>
-    <handle>basis-bundel-vrouw</handle>
+    <handle>vitakruid-basis-bundel-vrouw</handle>
     <title>Basis Bundel Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>basis</sku>
@@ -4997,7 +4997,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b6/42/42a6a74c3cc02fc3dbaf2b013466.png,https://www.vitakruid.nl/media/cache/product_og_image/b6/42/42a6a74c3cc02fc3dbaf2b013466.png</image_links>
   </product>
   <product>
-    <handle>baby-k</handle>
+    <handle>vitakruid-baby-k</handle>
     <title>Baby K</title>
     <vendor>Vitakruid</vendor>
     <sku>91824</sku>
@@ -5026,7 +5026,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9e/1e/3e8f3b95c75b09e3d73b25cf000d.png,https://www.vitakruid.nl/media/cache/product_og_image/9e/1e/3e8f3b95c75b09e3d73b25cf000d.png</image_links>
   </product>
   <product>
-    <handle>baby-d</handle>
+    <handle>vitakruid-baby-d</handle>
     <title>Baby D</title>
     <vendor>Vitakruid</vendor>
     <sku>91817</sku>
@@ -5055,7 +5055,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a9/47/0180c67f8b7e48996923b6030021.png,https://www.vitakruid.nl/media/cache/product_og_image/a9/47/0180c67f8b7e48996923b6030021.png</image_links>
   </product>
   <product>
-    <handle>jodium-druppels</handle>
+    <handle>vitakruid-jodium-druppels</handle>
     <title>Jodium druppels</title>
     <vendor>Vitakruid</vendor>
     <sku>91978</sku>
@@ -5084,7 +5084,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/cb/b4/54a2a1a5e20f7ddbc4c95cd2f118.png,https://www.vitakruid.nl/media/cache/product_og_image/cb/b4/54a2a1a5e20f7ddbc4c95cd2f118.png</image_links>
   </product>
   <product>
-    <handle>cbd-olie-5-full-spectrum</handle>
+    <handle>vitakruid-cbd-olie-5-full-spectrum</handle>
     <title>CBD Olie 5% Full spectrum</title>
     <vendor>Vitakruid</vendor>
     <sku>91954</sku>
@@ -5113,7 +5113,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0c/6c/41669dfb17e3ebe4c8fdff662016.png,https://www.vitakruid.nl/media/cache/product_og_image/0c/6c/41669dfb17e3ebe4c8fdff662016.png</image_links>
   </product>
   <product>
-    <handle>cbd-olie-10-full-spectrum</handle>
+    <handle>vitakruid-cbd-olie-10-full-spectrum</handle>
     <title>CBD Olie 10% Full spectrum</title>
     <vendor>Vitakruid</vendor>
     <sku>91961</sku>
@@ -5142,7 +5142,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0f/c8/c01a08bfeaaabd8510624f139565.png,https://www.vitakruid.nl/media/cache/product_og_image/0f/c8/c01a08bfeaaabd8510624f139565.png</image_links>
   </product>
   <product>
-    <handle>mct-olie</handle>
+    <handle>vitakruid-mct-olie</handle>
     <title>MCT Olie C8</title>
     <vendor>Vitakruid</vendor>
     <sku>91985</sku>
@@ -5171,7 +5171,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/63/1d/4d626b124176325168bda4f0f4c0.png,https://www.vitakruid.nl/media/cache/product_og_image/63/1d/4d626b124176325168bda4f0f4c0.png</image_links>
   </product>
   <product>
-    <handle>hyaluronzuur-150</handle>
+    <handle>vitakruid-hyaluronzuur-150</handle>
     <title>Hyaluronzuur 150</title>
     <vendor>Vitakruid</vendor>
     <sku>92005</sku>
@@ -5200,7 +5200,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/07/b0/98396e635968e028274d42278e7e.png,https://www.vitakruid.nl/media/cache/product_og_image/07/b0/98396e635968e028274d42278e7e.png</image_links>
   </product>
   <product>
-    <handle>lactase-optiferm-3000-fcc</handle>
+    <handle>vitakruid-lactase-optiferm-3000-fcc</handle>
     <title>Lactase OptiFerm® 3.000 FCC</title>
     <vendor>Vitakruid</vendor>
     <sku>91930</sku>
@@ -5229,7 +5229,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/95/65/cf586bc3ce05ca55305b0ba4dd12.png,https://www.vitakruid.nl/media/cache/product_og_image/95/65/cf586bc3ce05ca55305b0ba4dd12.png</image_links>
   </product>
   <product>
-    <handle>vitamine-a-4000-ie-vegan</handle>
+    <handle>vitakruid-vitamine-a-4000-ie-vegan</handle>
     <title>Vitamine A 4000 IE Vegan</title>
     <vendor>Vitakruid</vendor>
     <sku>92036</sku>
@@ -5258,7 +5258,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b0/f4/83ef6198dafd24d310cdf5f16408.png,https://www.vitakruid.nl/media/cache/product_og_image/b0/f4/83ef6198dafd24d310cdf5f16408.png</image_links>
   </product>
   <product>
-    <handle>lactoferrine-150-mg</handle>
+    <handle>vitakruid-lactoferrine-150-mg</handle>
     <title>Lactoferrine 150 mg</title>
     <vendor>Vitakruid</vendor>
     <sku>92043</sku>
@@ -5287,7 +5287,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/28/f4/5747ffc7a8ce586459e9ae253fb5.png,https://www.vitakruid.nl/media/cache/product_og_image/28/f4/5747ffc7a8ce586459e9ae253fb5.png</image_links>
   </product>
   <product>
-    <handle>visolie-1200-tg-vloeibaar</handle>
+    <handle>vitakruid-visolie-1200-tg-vloeibaar</handle>
     <title>Visolie 1200 TG® Vloeibaar</title>
     <vendor>Vitakruid</vendor>
     <sku>92067</sku>
@@ -5316,7 +5316,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/86/5c/12e5950f01a9f3d72035059768ec.png,https://www.vitakruid.nl/media/cache/product_og_image/86/5c/12e5950f01a9f3d72035059768ec.png</image_links>
   </product>
   <product>
-    <handle>multi-basis-vegan-poeder</handle>
+    <handle>vitakruid-multi-basis-vegan-poeder</handle>
     <title>Multi Basis vegan poeder</title>
     <vendor>Vitakruid</vendor>
     <sku>91947</sku>
@@ -5345,7 +5345,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8c/d2/51fb7e9ffbaa9e2818aebfbdd349.png,https://www.vitakruid.nl/media/cache/product_og_image/8c/d2/51fb7e9ffbaa9e2818aebfbdd349.png</image_links>
   </product>
   <product>
-    <handle>symflora-junior</handle>
+    <handle>vitakruid-symflora-junior</handle>
     <title>Symflora® Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>92098</sku>
@@ -5374,7 +5374,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ca/43/99312d022c8a1128c2836f2ef821.png,https://www.vitakruid.nl/media/cache/product_og_image/ca/43/99312d022c8a1128c2836f2ef821.png</image_links>
   </product>
   <product>
-    <handle>symflora-baby</handle>
+    <handle>vitakruid-symflora-baby</handle>
     <title>Symflora® Baby</title>
     <vendor>Vitakruid</vendor>
     <sku>92104</sku>
@@ -5403,7 +5403,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8f/e1/e9f3636aaca8124c63638fdc7e58.png,https://www.vitakruid.nl/media/cache/product_og_image/8f/e1/e9f3636aaca8124c63638fdc7e58.png</image_links>
   </product>
   <product>
-    <handle>symflora-baby</handle>
+    <handle>vitakruid-symflora-baby</handle>
     <title>Symflora® Baby</title>
     <vendor>Vitakruid</vendor>
     <sku>92876</sku>
@@ -5432,7 +5432,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6f/2d/ea5510f84cafff78f5d586f569ed.png,https://www.vitakruid.nl/media/cache/product_og_image/8f/e1/e9f3636aaca8124c63638fdc7e58.png</image_links>
   </product>
   <product>
-    <handle>viscollageen</handle>
+    <handle>vitakruid-viscollageen</handle>
     <title>Viscollageen</title>
     <vendor>Vitakruid</vendor>
     <sku>92050</sku>
@@ -5461,7 +5461,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f5/b5/f4442d2a39ca582aa061036e6508.png,https://www.vitakruid.nl/media/cache/product_og_image/f5/b5/f4442d2a39ca582aa061036e6508.png</image_links>
   </product>
   <product>
-    <handle>homme</handle>
+    <handle>vitakruid-homme</handle>
     <title>Homme</title>
     <vendor>Vitakruid</vendor>
     <sku>92111</sku>
@@ -5490,7 +5490,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/36/21/e17dbc7e992cf0330b610f0d37a5.png,https://www.vitakruid.nl/media/cache/product_og_image/36/21/e17dbc7e992cf0330b610f0d37a5.png</image_links>
   </product>
   <product>
-    <handle>homme</handle>
+    <handle>vitakruid-homme</handle>
     <title>Homme</title>
     <vendor>Vitakruid</vendor>
     <sku>92555</sku>
@@ -5519,7 +5519,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3c/2f/3475d096d48a93b05e71bdcde357.png,https://www.vitakruid.nl/media/cache/product_og_image/36/21/e17dbc7e992cf0330b610f0d37a5.png</image_links>
   </product>
   <product>
-    <handle>ochtend-boost-bundel</handle>
+    <handle>vitakruid-ochtend-boost-bundel</handle>
     <title>Ochtend Boost Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>beauty</sku>
@@ -5546,7 +5546,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/86/87/ed425d5c3899fc4626da15601096.png,https://www.vitakruid.nl/media/cache/product_og_image/86/87/ed425d5c3899fc4626da15601096.png</image_links>
   </product>
   <product>
-    <handle>vitamine-e</handle>
+    <handle>vitakruid-vitamine-e</handle>
     <title>Vitamine E Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>92135</sku>
@@ -5575,7 +5575,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/38/96/70f67f9b246b3c176f22bc74eb18.png,https://www.vitakruid.nl/media/cache/product_og_image/38/96/70f67f9b246b3c176f22bc74eb18.png</image_links>
   </product>
   <product>
-    <handle>astaxanthine</handle>
+    <handle>vitakruid-astaxanthine</handle>
     <title>Astaxanthine</title>
     <vendor>Vitakruid</vendor>
     <sku>92227</sku>
@@ -5604,7 +5604,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/0b/5e/4bfddaa8be0440e645818967dcd3.png,https://www.vitakruid.nl/media/cache/product_og_image/0b/5e/4bfddaa8be0440e645818967dcd3.png</image_links>
   </product>
   <product>
-    <handle>vegan-collageen-builder</handle>
+    <handle>vitakruid-vegan-collageen-builder</handle>
     <title>Vegan Collageen Builder</title>
     <vendor>Vitakruid</vendor>
     <sku>92234</sku>
@@ -5633,7 +5633,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6a/66/eb58d3f0e784dd8f6b3d0df86a7f.png,https://www.vitakruid.nl/media/cache/product_og_image/6a/66/eb58d3f0e784dd8f6b3d0df86a7f.png</image_links>
   </product>
   <product>
-    <handle>symflora-original-capsules</handle>
+    <handle>vitakruid-symflora-original-capsules</handle>
     <title>Symflora® Original capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>92128</sku>
@@ -5662,7 +5662,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/84/bc/6071d2238fea3e85f985326a405e.png,https://www.vitakruid.nl/media/cache/product_og_image/84/bc/6071d2238fea3e85f985326a405e.png</image_links>
   </product>
   <product>
-    <handle>beautycomplex</handle>
+    <handle>vitakruid-beautycomplex</handle>
     <title>BeautyComplex</title>
     <vendor>Vitakruid</vendor>
     <sku>92272</sku>
@@ -5691,7 +5691,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ca/51/eaf22a922f208f83e4b1f8f41fdf.png,https://www.vitakruid.nl/media/cache/product_og_image/ca/51/eaf22a922f208f83e4b1f8f41fdf.png</image_links>
   </product>
   <product>
-    <handle>biotine-2500</handle>
+    <handle>vitakruid-biotine-2500</handle>
     <title>Biotine 2500</title>
     <vendor>Vitakruid</vendor>
     <sku>92265</sku>
@@ -5720,7 +5720,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/23/46/9d9eae2c9bf412efac685a8be5c7.png,https://www.vitakruid.nl/media/cache/product_og_image/23/46/9d9eae2c9bf412efac685a8be5c7.png</image_links>
   </product>
   <product>
-    <handle>magnesium-junior</handle>
+    <handle>vitakruid-magnesium-junior</handle>
     <title>Magnesium Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>92258</sku>
@@ -5749,7 +5749,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/97/6d/759bbccb8b817efc97e3416552c0.png,https://www.vitakruid.nl/media/cache/product_og_image/97/6d/759bbccb8b817efc97e3416552c0.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-man-50</handle>
+    <handle>vitakruid-multi-dag-nacht-man-50</handle>
     <title>Multi Dag &amp; Nacht® Man 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92289</sku>
@@ -5778,7 +5778,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/08/2a/b6eef63e599d1b303d55b439dabb.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/d0/300e878943be37749e5a04d967b8.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-man-50</handle>
+    <handle>vitakruid-multi-dag-nacht-man-50</handle>
     <title>Multi Dag &amp; Nacht® Man 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92296</sku>
@@ -5807,7 +5807,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3c/76/d7afcc70eeb0a78c957c8799287a.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/d0/300e878943be37749e5a04d967b8.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-vrouw-50</handle>
+    <handle>vitakruid-multi-dag-nacht-vrouw-50</handle>
     <title>Multi Dag &amp; Nacht® Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92401</sku>
@@ -5836,7 +5836,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/bd/b9/3dafae9eeee78c497817401f587e.png,https://www.vitakruid.nl/media/cache/product_og_image/bd/b9/3dafae9eeee78c497817401f587e.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-vrouw-50</handle>
+    <handle>vitakruid-multi-dag-nacht-vrouw-50</handle>
     <title>Multi Dag &amp; Nacht® Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92418</sku>
@@ -5865,7 +5865,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7d/76/0c7006f981291b505fe1921d30ed.png,https://www.vitakruid.nl/media/cache/product_og_image/bd/b9/3dafae9eeee78c497817401f587e.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-man-sport</handle>
+    <handle>vitakruid-multi-dag-nacht-man-sport</handle>
     <title>Multi Dag &amp; Nacht® Man Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92340</sku>
@@ -5894,7 +5894,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/59/92/b62b20588b9d1c1c18fdfd5b14a5.png,https://www.vitakruid.nl/media/cache/product_og_image/59/92/b62b20588b9d1c1c18fdfd5b14a5.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-man-sport</handle>
+    <handle>vitakruid-multi-dag-nacht-man-sport</handle>
     <title>Multi Dag &amp; Nacht® Man Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92357</sku>
@@ -5923,7 +5923,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/10/84/6dee5e62285b32706b2e0bd61428.png,https://www.vitakruid.nl/media/cache/product_og_image/59/92/b62b20588b9d1c1c18fdfd5b14a5.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-vrouw-sport</handle>
+    <handle>vitakruid-multi-dag-nacht-vrouw-sport</handle>
     <title>Multi Dag &amp; Nacht® Vrouw Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92463</sku>
@@ -5952,7 +5952,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b7/e4/67d62b72fafde3ee735bc150524b.png,https://www.vitakruid.nl/media/cache/product_og_image/b7/e4/67d62b72fafde3ee735bc150524b.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-vrouw-sport</handle>
+    <handle>vitakruid-multi-dag-nacht-vrouw-sport</handle>
     <title>Multi Dag &amp; Nacht® Vrouw Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92470</sku>
@@ -5981,7 +5981,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/61/db/99a714f0d905e60c50526f728628.png,https://www.vitakruid.nl/media/cache/product_og_image/b7/e4/67d62b72fafde3ee735bc150524b.png</image_links>
   </product>
   <product>
-    <handle>intestina</handle>
+    <handle>vitakruid-intestina</handle>
     <title>Intestina</title>
     <vendor>Vitakruid</vendor>
     <sku>92074</sku>
@@ -6010,7 +6010,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b9/38/c3452e1aa84809699cf4ea28a29a.png,https://www.vitakruid.nl/media/cache/product_og_image/b9/38/c3452e1aa84809699cf4ea28a29a.png</image_links>
   </product>
   <product>
-    <handle>slaapcomplex</handle>
+    <handle>vitakruid-slaapcomplex</handle>
     <title>SlaapComplex®</title>
     <vendor>Vitakruid</vendor>
     <sku>92524</sku>
@@ -6039,7 +6039,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/83/4d/742257a4cfa30020b47cf24a75f4.png,https://www.vitakruid.nl/media/cache/product_og_image/83/4d/742257a4cfa30020b47cf24a75f4.png</image_links>
   </product>
   <product>
-    <handle>goede-start-baby-bundel</handle>
+    <handle>vitakruid-goede-start-baby-bundel</handle>
     <title>Goede Start Baby Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>goede</sku>
@@ -6066,7 +6066,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6d/9a/f1ef3a300e383e91a4fb5860db0b.png,https://www.vitakruid.nl/media/cache/product_og_image/6d/9a/f1ef3a300e383e91a4fb5860db0b.png</image_links>
   </product>
   <product>
-    <handle>atrimove-glucosamine-complex-tabletten</handle>
+    <handle>vitakruid-atrimove-glucosamine-complex-tabletten</handle>
     <title>Atrimove® Glucosamine Complex tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>92531</sku>
@@ -6095,7 +6095,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9c/b6/af73812abe29c09f8d726be31148.png,https://www.vitakruid.nl/media/cache/product_og_image/9c/b6/af73812abe29c09f8d726be31148.png</image_links>
   </product>
   <product>
-    <handle>beauty-essentials-bundel</handle>
+    <handle>vitakruid-beauty-essentials-bundel</handle>
     <title>Beauty Essentials Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>beauty</sku>
@@ -6122,7 +6122,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/39/a2/8d71cfb9eb3bfae08acbd966210f.png,https://www.vitakruid.nl/media/cache/product_og_image/39/a2/8d71cfb9eb3bfae08acbd966210f.png</image_links>
   </product>
   <product>
-    <handle>visolie-1400-tg-sport</handle>
+    <handle>vitakruid-visolie-1400-tg-sport</handle>
     <title>Visolie 1400 TG® Sport met D3</title>
     <vendor>Vitakruid</vendor>
     <sku>92562</sku>
@@ -6151,7 +6151,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/81/7f/c39fea8fb9e2425bedd99bfceacb.png,https://www.vitakruid.nl/media/cache/product_og_image/81/7f/c39fea8fb9e2425bedd99bfceacb.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-man-50</handle>
+    <handle>vitakruid-multi-dag-man-50</handle>
     <title>Multi Dag Man 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92302</sku>
@@ -6180,7 +6180,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/eb/8c/4492bb785720a2eccb4df2c142ce.png,https://www.vitakruid.nl/media/cache/product_og_image/eb/8c/4492bb785720a2eccb4df2c142ce.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-man-50</handle>
+    <handle>vitakruid-multi-dag-man-50</handle>
     <title>Multi Dag Man 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92319</sku>
@@ -6209,7 +6209,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7e/b8/7665554df5d2237f0634aa70a617.png,https://www.vitakruid.nl/media/cache/product_og_image/eb/8c/4492bb785720a2eccb4df2c142ce.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-man-50</handle>
+    <handle>vitakruid-multi-nacht-man-50</handle>
     <title>Multi Nacht Man 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92326</sku>
@@ -6238,7 +6238,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/de/b7/dd9fd7a070c41f7a1c1ecfbfc33a.png,https://www.vitakruid.nl/media/cache/product_og_image/de/b7/dd9fd7a070c41f7a1c1ecfbfc33a.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-man-50</handle>
+    <handle>vitakruid-multi-nacht-man-50</handle>
     <title>Multi Nacht Man 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92333</sku>
@@ -6267,7 +6267,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/66/28/43e92ddc610b2e8c3f13812102c2.png,https://www.vitakruid.nl/media/cache/product_og_image/de/b7/dd9fd7a070c41f7a1c1ecfbfc33a.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-vrouw-50</handle>
+    <handle>vitakruid-multi-dag-vrouw-50</handle>
     <title>Multi Dag Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92432</sku>
@@ -6295,7 +6295,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/92/b6/dd7e827b92fe27fdb1c4becd2b30.png,https://www.vitakruid.nl/media/cache/product_og_image/58/0c/4a00dfd17f0b1a749cb341b291df.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-vrouw-50</handle>
+    <handle>vitakruid-multi-dag-vrouw-50</handle>
     <title>Multi Dag Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92425</sku>
@@ -6323,7 +6323,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/58/0c/4a00dfd17f0b1a749cb341b291df.png,https://www.vitakruid.nl/media/cache/product_og_image/58/0c/4a00dfd17f0b1a749cb341b291df.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-vrouw-50</handle>
+    <handle>vitakruid-multi-nacht-vrouw-50</handle>
     <title>Multi Nacht Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92449</sku>
@@ -6352,7 +6352,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/77/e1/0203eb87785b10d1bac338492abd.png,https://www.vitakruid.nl/media/cache/product_og_image/77/e1/0203eb87785b10d1bac338492abd.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-vrouw-50</handle>
+    <handle>vitakruid-multi-nacht-vrouw-50</handle>
     <title>Multi Nacht Vrouw 50+</title>
     <vendor>Vitakruid</vendor>
     <sku>92456</sku>
@@ -6381,7 +6381,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7b/f8/58d9a1624bd14db30168dee5d9c6.png,https://www.vitakruid.nl/media/cache/product_og_image/77/e1/0203eb87785b10d1bac338492abd.png</image_links>
   </product>
   <product>
-    <handle>symflora-femme</handle>
+    <handle>vitakruid-symflora-femme</handle>
     <title>Symflora® Femme</title>
     <vendor>Vitakruid</vendor>
     <sku>92593</sku>
@@ -6410,7 +6410,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/25/42/b375d1bcb9d8cf41f0c5e1d48b42.png,https://www.vitakruid.nl/media/cache/product_og_image/25/42/b375d1bcb9d8cf41f0c5e1d48b42.png</image_links>
   </product>
   <product>
-    <handle>postpartum-mama</handle>
+    <handle>vitakruid-postpartum-mama</handle>
     <title>Postpartum Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>92616</sku>
@@ -6439,7 +6439,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b8/e1/04b757f58c6e4967fb414cf76a5a.png,https://www.vitakruid.nl/media/cache/product_og_image/b8/e1/04b757f58c6e4967fb414cf76a5a.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-man-sport</handle>
+    <handle>vitakruid-multi-dag-man-sport</handle>
     <title>Multi Dag Man Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92364</sku>
@@ -6468,7 +6468,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/d0/35/456285808deb6258cc14b5fff37d.png,https://www.vitakruid.nl/media/cache/product_og_image/d0/35/456285808deb6258cc14b5fff37d.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-man-sport</handle>
+    <handle>vitakruid-multi-dag-man-sport</handle>
     <title>Multi Dag Man Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92371</sku>
@@ -6497,7 +6497,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/2d/e9/3638506c1dfaa0232d7476a8ca82.png,https://www.vitakruid.nl/media/cache/product_og_image/d0/35/456285808deb6258cc14b5fff37d.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-vrouw-sport</handle>
+    <handle>vitakruid-multi-dag-vrouw-sport</handle>
     <title>Multi Dag Vrouw Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92487</sku>
@@ -6526,7 +6526,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/32/e1/59f8067dddd70782a771f068c8ac.png,https://www.vitakruid.nl/media/cache/product_og_image/32/e1/59f8067dddd70782a771f068c8ac.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-vrouw-sport</handle>
+    <handle>vitakruid-multi-dag-vrouw-sport</handle>
     <title>Multi Dag Vrouw Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92494</sku>
@@ -6555,7 +6555,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/02/76/6c4963e00718266c4ea5aa557993.png,https://www.vitakruid.nl/media/cache/product_og_image/32/e1/59f8067dddd70782a771f068c8ac.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-vrouw-sport</handle>
+    <handle>vitakruid-multi-nacht-vrouw-sport</handle>
     <title>Multi Nacht Vrouw Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92500</sku>
@@ -6584,7 +6584,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ce/4b/0496aa0228e76851cbd120e768b7.png,https://www.vitakruid.nl/media/cache/product_og_image/ce/4b/0496aa0228e76851cbd120e768b7.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-vrouw-sport</handle>
+    <handle>vitakruid-multi-nacht-vrouw-sport</handle>
     <title>Multi Nacht Vrouw Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92517</sku>
@@ -6613,7 +6613,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/38/4e/f2d64c7c12f104ef7a71735bffeb.png,https://www.vitakruid.nl/media/cache/product_og_image/ce/4b/0496aa0228e76851cbd120e768b7.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-man-sport</handle>
+    <handle>vitakruid-multi-nacht-man-sport</handle>
     <title>Multi Nacht Man Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92388</sku>
@@ -6642,7 +6642,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/27/de/fba869dd59a31f11a548faf595c4.png,https://www.vitakruid.nl/media/cache/product_og_image/27/de/fba869dd59a31f11a548faf595c4.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-man-sport</handle>
+    <handle>vitakruid-multi-nacht-man-sport</handle>
     <title>Multi Nacht Man Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>92395</sku>
@@ -6671,7 +6671,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/2e/a9/e432fe32df7dd70fefddbcd074c3.png,https://www.vitakruid.nl/media/cache/product_og_image/27/de/fba869dd59a31f11a548faf595c4.png</image_links>
   </product>
   <product>
-    <handle>beaute-collageen-complex</handle>
+    <handle>vitakruid-beaute-collageen-complex</handle>
     <title>Beauté® Collageen Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>92661</sku>
@@ -6700,7 +6700,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ae/b1/08813957e86082ba7345b9fc40c7.png,https://www.vitakruid.nl/media/cache/product_og_image/af/96/3311b666878ed3428a4467915d81.png</image_links>
   </product>
   <product>
-    <handle>beaute-collageen-complex</handle>
+    <handle>vitakruid-beaute-collageen-complex</handle>
     <title>Beauté® Collageen Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>93620</sku>
@@ -6729,7 +6729,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/af/96/3311b666878ed3428a4467915d81.png,https://www.vitakruid.nl/media/cache/product_og_image/af/96/3311b666878ed3428a4467915d81.png</image_links>
   </product>
   <product>
-    <handle>choline-complex</handle>
+    <handle>vitakruid-choline-complex</handle>
     <title>Choline Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>92708</sku>
@@ -6758,7 +6758,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/8e/fa/ac109c5ba69b8c1baec55b6dc548.png,https://www.vitakruid.nl/media/cache/product_og_image/8e/fa/ac109c5ba69b8c1baec55b6dc548.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-tabletten</handle>
+    <handle>vitakruid-collageen-solugel-tabletten</handle>
     <title>Collageen Solugel® tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>92715</sku>
@@ -6787,7 +6787,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/7d/78/d1d19978510c24839ee523c545c2.png,https://www.vitakruid.nl/media/cache/product_og_image/7d/78/d1d19978510c24839ee523c545c2.png</image_links>
   </product>
   <product>
-    <handle>silsolutions</handle>
+    <handle>vitakruid-silsolutions</handle>
     <title>SilSolutions®</title>
     <vendor>Vitakruid</vendor>
     <sku>9014</sku>
@@ -6816,7 +6816,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4b/ba/d2b15941c19f149eabd5a3f00e46.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/82/4af384869d29aa9abc614b8ffa1e.png</image_links>
   </product>
   <product>
-    <handle>silsolutions</handle>
+    <handle>vitakruid-silsolutions</handle>
     <title>SilSolutions®</title>
     <vendor>Vitakruid</vendor>
     <sku>9012</sku>
@@ -6845,7 +6845,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/b0/cc/f209ab7548806fb14ed3486b2dc2.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/82/4af384869d29aa9abc614b8ffa1e.png</image_links>
   </product>
   <product>
-    <handle>silsolutions</handle>
+    <handle>vitakruid-silsolutions</handle>
     <title>SilSolutions®</title>
     <vendor>Vitakruid</vendor>
     <sku>92678</sku>
@@ -6874,7 +6874,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/95/fa/41a9f1c174bc205f0b6286ddbd77.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/82/4af384869d29aa9abc614b8ffa1e.png</image_links>
   </product>
   <product>
-    <handle>silsolutions</handle>
+    <handle>vitakruid-silsolutions</handle>
     <title>SilSolutions®</title>
     <vendor>Vitakruid</vendor>
     <sku>92685</sku>
@@ -6903,7 +6903,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3e/82/4af384869d29aa9abc614b8ffa1e.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/82/4af384869d29aa9abc614b8ffa1e.png</image_links>
   </product>
   <product>
-    <handle>silsolutions</handle>
+    <handle>vitakruid-silsolutions</handle>
     <title>SilSolutions®</title>
     <vendor>Vitakruid</vendor>
     <sku>92814</sku>
@@ -6932,7 +6932,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/e6/a4/5e44fd600cf128becd0ddaed2d55.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/82/4af384869d29aa9abc614b8ffa1e.png</image_links>
   </product>
   <product>
-    <handle>silsolutions</handle>
+    <handle>vitakruid-silsolutions</handle>
     <title>SilSolutions®</title>
     <vendor>Vitakruid</vendor>
     <sku>92821</sku>
@@ -6961,7 +6961,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/12/98/d81e1a90060b82026cc29120c880.png,https://www.vitakruid.nl/media/cache/product_og_image/3e/82/4af384869d29aa9abc614b8ffa1e.png</image_links>
   </product>
   <product>
-    <handle>gaba-capsules</handle>
+    <handle>vitakruid-gaba-capsules</handle>
     <title>GABA Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>92838</sku>
@@ -6990,7 +6990,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/34/63/5b1e087abda436779d056c33e148.png,https://www.vitakruid.nl/media/cache/product_og_image/34/63/5b1e087abda436779d056c33e148.png</image_links>
   </product>
   <product>
-    <handle>magnesium-complex</handle>
+    <handle>vitakruid-magnesium-complex</handle>
     <title>Magnesium Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>92845</sku>
@@ -7019,7 +7019,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/39/90/29714222ea71f6f9745319ea9a92.png,https://www.vitakruid.nl/media/cache/product_og_image/39/90/29714222ea71f6f9745319ea9a92.png</image_links>
   </product>
   <product>
-    <handle>magnesium-l-threonaat</handle>
+    <handle>vitakruid-magnesium-l-threonaat</handle>
     <title>Magnesium L-Threonaat</title>
     <vendor>Vitakruid</vendor>
     <sku>92937</sku>
@@ -7048,7 +7048,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9f/97/afcbdaa8898986aa62abe6d78711.png,https://www.vitakruid.nl/media/cache/product_og_image/9f/97/afcbdaa8898986aa62abe6d78711.png</image_links>
   </product>
   <product>
-    <handle>cordyceps-cpa3</handle>
+    <handle>vitakruid-cordyceps-cpa3</handle>
     <title>Cordyceps CPA³</title>
     <vendor>Vitakruid</vendor>
     <sku>92968</sku>
@@ -7077,7 +7077,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/bc/57/b58c8d215e4b278dcd8aaa324e50.png,https://www.vitakruid.nl/media/cache/product_og_image/bc/57/b58c8d215e4b278dcd8aaa324e50.png</image_links>
   </product>
   <product>
-    <handle>energiecomplex</handle>
+    <handle>vitakruid-energiecomplex</handle>
     <title>EnergieComplex</title>
     <vendor>Vitakruid</vendor>
     <sku>92944</sku>
@@ -7106,7 +7106,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/79/8b/ebf21474ac1ff4c238f7eb579ced.png,https://www.vitakruid.nl/media/cache/product_og_image/79/8b/ebf21474ac1ff4c238f7eb579ced.png</image_links>
   </product>
   <product>
-    <handle>echinacea2</handle>
+    <handle>vitakruid-echinacea2</handle>
     <title>Echinacea² purpurea-angustifolia</title>
     <vendor>Vitakruid</vendor>
     <sku>92975</sku>
@@ -7135,7 +7135,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c7/44/8c2c1bd9515c0377d1368b1a2fe3.png,https://www.vitakruid.nl/media/cache/product_og_image/c7/44/8c2c1bd9515c0377d1368b1a2fe3.png</image_links>
   </product>
   <product>
-    <handle>elite-post-workout-man</handle>
+    <handle>vitakruid-elite-post-workout-man</handle>
     <title>Elite Post Workout Man</title>
     <vendor>Vitakruid</vendor>
     <sku>92999</sku>
@@ -7164,7 +7164,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/46/dd/1fec3fab73dfb98d9942d09bc5fa.png,https://www.vitakruid.nl/media/cache/product_og_image/46/dd/1fec3fab73dfb98d9942d09bc5fa.png</image_links>
   </product>
   <product>
-    <handle>elite-post-workout-vrouw</handle>
+    <handle>vitakruid-elite-post-workout-vrouw</handle>
     <title>Elite Post Workout Vrouw</title>
     <vendor>Vitakruid</vendor>
     <sku>93002</sku>
@@ -7193,7 +7193,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ba/b1/afb0d0cf094f852908bb3c48960a.png,https://www.vitakruid.nl/media/cache/product_og_image/ba/b1/afb0d0cf094f852908bb3c48960a.png</image_links>
   </product>
   <product>
-    <handle>shilajit-500-primavie</handle>
+    <handle>vitakruid-shilajit-500-primavie</handle>
     <title>Shilajit 500 PrimaVie®</title>
     <vendor>Vitakruid</vendor>
     <sku>93361</sku>
@@ -7222,7 +7222,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/bd/6c/696194dabe1a804df5cb6d5dc7d8.png,https://www.vitakruid.nl/media/cache/product_og_image/bd/6c/696194dabe1a804df5cb6d5dc7d8.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-sachets</handle>
+    <handle>vitakruid-collageen-solugel-sachets</handle>
     <title>Collageen Solugel® sachets</title>
     <vendor>Vitakruid</vendor>
     <sku>93378</sku>
@@ -7251,7 +7251,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/6c/dd/6df90d5779298d15f452a17a16aa.png,https://www.vitakruid.nl/media/cache/product_og_image/6c/dd/6df90d5779298d15f452a17a16aa.png</image_links>
   </product>
   <product>
-    <handle>collageen-solugel-matcha</handle>
+    <handle>vitakruid-collageen-solugel-matcha</handle>
     <title>Collageen Solugel® Matcha</title>
     <vendor>Vitakruid</vendor>
     <sku>93460</sku>
@@ -7280,7 +7280,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/57/de/c90ff62ba75878492199d118c9ff.png,https://www.vitakruid.nl/media/cache/product_og_image/57/de/c90ff62ba75878492199d118c9ff.png</image_links>
   </product>
   <product>
-    <handle>elite-elektrolyten</handle>
+    <handle>vitakruid-elite-elektrolyten</handle>
     <title>Elite Elektrolyten</title>
     <vendor>Vitakruid</vendor>
     <sku>93033</sku>
@@ -7309,7 +7309,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ea/d4/d788007f3b28e39ce089b7e78e82.png,https://www.vitakruid.nl/media/cache/product_og_image/ea/d4/d788007f3b28e39ce089b7e78e82.png</image_links>
   </product>
   <product>
-    <handle>lions-mane</handle>
+    <handle>vitakruid-lions-mane</handle>
     <title>Lion's Mane³</title>
     <vendor>Vitakruid</vendor>
     <sku>93453</sku>
@@ -7338,7 +7338,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/3c/1f/c04dd6a5928e3607e1766223aa0b.png,https://www.vitakruid.nl/media/cache/product_og_image/3c/1f/c04dd6a5928e3607e1766223aa0b.png</image_links>
   </product>
   <product>
-    <handle>matcha</handle>
+    <handle>vitakruid-matcha</handle>
     <title>Matcha</title>
     <vendor>Vitakruid</vendor>
     <sku>93477</sku>
@@ -7367,7 +7367,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9e/f1/992d12586fc9d099bdb338a5d39f.png,https://www.vitakruid.nl/media/cache/product_og_image/9e/f1/992d12586fc9d099bdb338a5d39f.png</image_links>
   </product>
   <product>
-    <handle>d-ribose</handle>
+    <handle>vitakruid-d-ribose</handle>
     <title>D-Ribose</title>
     <vendor>Vitakruid</vendor>
     <sku>93484</sku>
@@ -7396,7 +7396,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/21/a9/9802868af04b383304f4c683773a.png,https://www.vitakruid.nl/media/cache/product_og_image/21/a9/9802868af04b383304f4c683773a.png</image_links>
   </product>
   <product>
-    <handle>visolie-1800-tg-mama</handle>
+    <handle>vitakruid-visolie-1800-tg-mama</handle>
     <title>Visolie 1800 TG® Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>93675</sku>
@@ -7425,7 +7425,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/74/2c/319271e97c62778f3388f00de9bc.png,https://www.vitakruid.nl/media/cache/product_og_image/c8/02/5cfea31573b3a8d7a9c2db05637b.png</image_links>
   </product>
   <product>
-    <handle>visolie-1800-tg-mama</handle>
+    <handle>vitakruid-visolie-1800-tg-mama</handle>
     <title>Visolie 1800 TG® Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>93514</sku>
@@ -7454,7 +7454,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c8/02/5cfea31573b3a8d7a9c2db05637b.png,https://www.vitakruid.nl/media/cache/product_og_image/c8/02/5cfea31573b3a8d7a9c2db05637b.png</image_links>
   </product>
   <product>
-    <handle>magnesium-sport</handle>
+    <handle>vitakruid-magnesium-sport</handle>
     <title>Magnesium Sport</title>
     <vendor>Vitakruid</vendor>
     <sku>93521</sku>
@@ -7483,7 +7483,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/be/63/9c8cc33a20bba62499675280fc00.png,https://www.vitakruid.nl/media/cache/product_og_image/be/63/9c8cc33a20bba62499675280fc00.png</image_links>
   </product>
   <product>
-    <handle>magnesium-150-tauraat</handle>
+    <handle>vitakruid-magnesium-150-tauraat</handle>
     <title>Magnesium 150 Tauraat</title>
     <vendor>Vitakruid</vendor>
     <sku>93538</sku>
@@ -7512,7 +7512,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f3/d6/84fd04411a0e9251de1fa2614955.png,https://www.vitakruid.nl/media/cache/product_og_image/f3/d6/84fd04411a0e9251de1fa2614955.png</image_links>
   </product>
   <product>
-    <handle>magnesium-elite-5-complex</handle>
+    <handle>vitakruid-magnesium-elite-5-complex</handle>
     <title>Magnesium Elite⁵ Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>93545</sku>
@@ -7541,7 +7541,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a3/19/7c19b2043c4bd7fd93a46b71442a.png,https://www.vitakruid.nl/media/cache/product_og_image/a3/19/7c19b2043c4bd7fd93a46b71442a.png</image_links>
   </product>
   <product>
-    <handle>samplepakket-mama</handle>
+    <handle>vitakruid-samplepakket-mama</handle>
     <title>Samplepakket Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>93446</sku>
@@ -7569,7 +7569,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4b/44/d4886a9ea7f4bd1941ab49b4e142.png,https://www.vitakruid.nl/media/cache/product_og_image/4b/44/d4886a9ea7f4bd1941ab49b4e142.png</image_links>
   </product>
   <product>
-    <handle>guarboonvezels</handle>
+    <handle>vitakruid-guarboonvezels</handle>
     <title>Guarboonvezels</title>
     <vendor>Vitakruid</vendor>
     <sku>93552</sku>
@@ -7598,7 +7598,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/ce/29/4c2d615ea2998782c4779e46ba71.png,https://www.vitakruid.nl/media/cache/product_og_image/ce/29/4c2d615ea2998782c4779e46ba71.png</image_links>
   </product>
   <product>
-    <handle>maca-complex</handle>
+    <handle>vitakruid-maca-complex</handle>
     <title>Maca³ Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>93590</sku>
@@ -7627,7 +7627,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/82/e5/4a4861142f303ff2e764c97ffd21.png,https://www.vitakruid.nl/media/cache/product_og_image/82/e5/4a4861142f303ff2e764c97ffd21.png</image_links>
   </product>
   <product>
-    <handle>marine-fytoplankton</handle>
+    <handle>vitakruid-marine-fytoplankton</handle>
     <title>Marine Fytoplankton</title>
     <vendor>Vitakruid</vendor>
     <sku>93576</sku>
@@ -7656,7 +7656,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f2/c4/dbc6c4300cfb68aabe14feee68d8.png,https://www.vitakruid.nl/media/cache/product_og_image/f2/c4/dbc6c4300cfb68aabe14feee68d8.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-k2-softgels</handle>
+    <handle>vitakruid-vitamine-d3-k2-softgels</handle>
     <title>Vitamine D3 &amp; K2 softgels</title>
     <vendor>Vitakruid</vendor>
     <sku>93606</sku>
@@ -7685,7 +7685,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/2a/74/d02f0923a3c8ac8361259b692365.png,https://www.vitakruid.nl/media/cache/product_og_image/2a/74/d02f0923a3c8ac8361259b692365.png</image_links>
   </product>
   <product>
-    <handle>vitamine-d3-k2-tabletten</handle>
+    <handle>vitakruid-vitamine-d3-k2-tabletten</handle>
     <title>Vitamine D3 &amp; K2 tabletten</title>
     <vendor>Vitakruid</vendor>
     <sku>93613</sku>
@@ -7714,7 +7714,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9e/e7/a03607f75a9c54bc877520308995.png,https://www.vitakruid.nl/media/cache/product_og_image/9e/e7/a03607f75a9c54bc877520308995.png</image_links>
   </product>
   <product>
-    <handle>magnesium-elite-6-complex</handle>
+    <handle>vitakruid-magnesium-elite-6-complex</handle>
     <title>Magnesium Elite⁶ Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>93699</sku>
@@ -7743,7 +7743,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/d8/d3/34e60a9412bd609246525717b47c.png,https://www.vitakruid.nl/media/cache/product_og_image/d8/d3/34e60a9412bd609246525717b47c.png</image_links>
   </product>
   <product>
-    <handle>visolie-1100-tg-junior</handle>
+    <handle>vitakruid-visolie-1100-tg-junior</handle>
     <title>Visolie 1100 TG® Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>93569</sku>
@@ -7772,7 +7772,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/53/b5/889f38a906ab359fb0cb4cc2c229.png,https://www.vitakruid.nl/media/cache/product_og_image/53/b5/889f38a906ab359fb0cb4cc2c229.png</image_links>
   </product>
   <product>
-    <handle>reishi-duo-extract</handle>
+    <handle>vitakruid-reishi-duo-extract</handle>
     <title>Reishi³ Duo extract</title>
     <vendor>Vitakruid</vendor>
     <sku>93804</sku>
@@ -7801,7 +7801,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/9e/56/162673aebe9aa961dd0b3db5a67c.png,https://www.vitakruid.nl/media/cache/product_og_image/9e/56/162673aebe9aa961dd0b3db5a67c.png</image_links>
   </product>
   <product>
-    <handle>femme-vruchtbaarheid-support</handle>
+    <handle>vitakruid-femme-vruchtbaarheid-support</handle>
     <title>Femme Vruchtbaarheid Support</title>
     <vendor>Vitakruid</vendor>
     <sku>93835</sku>
@@ -7830,7 +7830,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/46/01/d74ae472145e431c1fcb77dc3f7c.png,https://www.vitakruid.nl/media/cache/product_og_image/46/01/d74ae472145e431c1fcb77dc3f7c.png</image_links>
   </product>
   <product>
-    <handle>myo-inositol-complex</handle>
+    <handle>vitakruid-myo-inositol-complex</handle>
     <title>Myo-Inositol Complex</title>
     <vendor>Vitakruid</vendor>
     <sku>93842</sku>
@@ -7859,7 +7859,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/56/3b/e69c199fd814609af1d34142c18a.png,https://www.vitakruid.nl/media/cache/product_og_image/56/3b/e69c199fd814609af1d34142c18a.png</image_links>
   </product>
   <product>
-    <handle>symflora-mama</handle>
+    <handle>vitakruid-symflora-mama</handle>
     <title>Symflora® Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>93828</sku>
@@ -7888,7 +7888,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/84/12/5beacbff5e751a7174f608331571.png,https://www.vitakruid.nl/media/cache/product_og_image/84/12/5beacbff5e751a7174f608331571.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-mama-capsules</handle>
+    <handle>vitakruid-multi-dag-nacht-mama-capsules</handle>
     <title>Multi Dag &amp; Nacht® Mama Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>93736</sku>
@@ -7917,7 +7917,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/2e/de/4f52cd263b3db26a39799b60daf6.png,https://www.vitakruid.nl/media/cache/product_og_image/2e/de/4f52cd263b3db26a39799b60daf6.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-nacht-mama-capsules</handle>
+    <handle>vitakruid-multi-dag-nacht-mama-capsules</handle>
     <title>Multi Dag &amp; Nacht® Mama Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>93743</sku>
@@ -7946,7 +7946,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/f5/ae/3980a8ec54ddab2837e6c4d5571c.png,https://www.vitakruid.nl/media/cache/product_og_image/2e/de/4f52cd263b3db26a39799b60daf6.png</image_links>
   </product>
   <product>
-    <handle>multi-100-ri</handle>
+    <handle>vitakruid-multi-100-ri</handle>
     <title>Multi 100% RI</title>
     <vendor>Vitakruid</vendor>
     <sku>93873</sku>
@@ -7975,7 +7975,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/12/74/a6c132ed66a10e8bb90d4d2293b6.png,https://www.vitakruid.nl/media/cache/product_og_image/12/74/a6c132ed66a10e8bb90d4d2293b6.png</image_links>
   </product>
   <product>
-    <handle>ijzer-bisglycinaat-mama</handle>
+    <handle>vitakruid-ijzer-bisglycinaat-mama</handle>
     <title>IJzer Bisglycinaat Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>93866</sku>
@@ -8004,7 +8004,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/5a/b2/561178a27004f30447b13f9dc719.png,https://www.vitakruid.nl/media/cache/product_og_image/5a/b2/561178a27004f30447b13f9dc719.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-mama-capsules</handle>
+    <handle>vitakruid-multi-dag-mama-capsules</handle>
     <title>Multi Dag Mama Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>93750</sku>
@@ -8033,7 +8033,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c7/e1/290c638925924600a4b50a49dbd3.png,https://www.vitakruid.nl/media/cache/product_og_image/c7/e1/290c638925924600a4b50a49dbd3.png</image_links>
   </product>
   <product>
-    <handle>multi-dag-mama-capsules</handle>
+    <handle>vitakruid-multi-dag-mama-capsules</handle>
     <title>Multi Dag Mama Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>93767</sku>
@@ -8062,7 +8062,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/c7/e1/290c638925924600a4b50a49dbd3.png,https://www.vitakruid.nl/media/cache/product_og_image/c7/e1/290c638925924600a4b50a49dbd3.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-mama-capsules</handle>
+    <handle>vitakruid-multi-nacht-mama-capsules</handle>
     <title>Multi Nacht Mama Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>93774</sku>
@@ -8091,7 +8091,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4e/cf/5197ec751c8b7256ff1c555dc263.png,https://www.vitakruid.nl/media/cache/product_og_image/4e/cf/5197ec751c8b7256ff1c555dc263.png</image_links>
   </product>
   <product>
-    <handle>multi-nacht-mama-capsules</handle>
+    <handle>vitakruid-multi-nacht-mama-capsules</handle>
     <title>Multi Nacht Mama Capsules</title>
     <vendor>Vitakruid</vendor>
     <sku>93781</sku>
@@ -8120,7 +8120,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4e/cf/5197ec751c8b7256ff1c555dc263.png,https://www.vitakruid.nl/media/cache/product_og_image/4e/cf/5197ec751c8b7256ff1c555dc263.png</image_links>
   </product>
   <product>
-    <handle>calcium-1000-mama</handle>
+    <handle>vitakruid-calcium-1000-mama</handle>
     <title>Calcium 1000 Mama</title>
     <vendor>Vitakruid</vendor>
     <sku>93880</sku>
@@ -8149,7 +8149,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/a0/4e/a61a4a17c64e7328dc44347724e9.png,https://www.vitakruid.nl/media/cache/product_og_image/a0/4e/a61a4a17c64e7328dc44347724e9.png</image_links>
   </product>
   <product>
-    <handle>multi-one-a-day-junior</handle>
+    <handle>vitakruid-multi-one-a-day-junior</handle>
     <title>Multi One-a-Day Junior</title>
     <vendor>Vitakruid</vendor>
     <sku>93897</sku>
@@ -8178,7 +8178,7 @@
     <image_links>https://www.vitakruid.nl/media/cache/product_overview_image/4e/df/67d7b7fde0eccf51a5fccfedc601.png,https://www.vitakruid.nl/media/cache/product_og_image/4e/df/67d7b7fde0eccf51a5fccfedc601.png</image_links>
   </product>
   <product>
-    <handle>zwangerschap-bundel</handle>
+    <handle>vitakruid-zwangerschap-bundel</handle>
     <title>Zwangerschap Bundel</title>
     <vendor>Vitakruid</vendor>
     <sku>zwangerschap</sku>
