@@ -212,10 +212,31 @@ def parse_base(html):
     }
 
 
+class VariantStoring(RuntimeError):
+    """Het variant-endpoint van één maat komt niet (bv. HTTP 500 bij Vitakruid zelf).
+
+    Sinds 08-10-2026 geeft vitakruid.nl een 500 op /get-variant-b2c/91367
+    (Magnesium 150 Bisglycinaat, 180 tabletten) terwijl de maat gewoon in hun
+    keuzemenu staat. Dat is hún storing; die mag niet elke run rood maken.
+    """
+
+    def __init__(self, code, oorzaak):
+        super().__init__(f"variant {code}: {oorzaak}")
+        self.code = code
+        self.oorzaak = oorzaak
+
+
 def parse_variant(session, code):
-    """Per variant: SKU, EAN, Z-index, prijs (retail incl. BTW), afbeelding."""
-    r = fetch(session, f"{BASE}/get-variant-b2c/{code}", allow_404=True, ajax=True,
-              verplicht=True)
+    """Per variant: SKU, EAN, Z-index, prijs (retail incl. BTW), afbeelding.
+
+    Een maat die na alle pogingen niet komt is een `VariantStoring`, geen stil None:
+    `scrape_products` neemt dan de vorige feed-regel over.
+    """
+    try:
+        r = fetch(session, f"{BASE}/get-variant-b2c/{code}", allow_404=True, ajax=True,
+                  verplicht=True)
+    except RuntimeError as e:
+        raise VariantStoring(code, str(e).split(" (", 1)[-1].split(").", 1)[0]) from e
     if not r:
         return None
     try:
@@ -239,10 +260,61 @@ def parse_variant(session, code):
     }
 
 
-def scrape_products(session, slugs):
-    """Yield per product: gedeelde info + lijst varianten (elk met eigen EAN/prijs)."""
+MAX_OVERNAME = 0.05   # meer dan 5% varianten uit de vorige feed = geen storing meer, maar een uitval
+
+
+def lees_vorige_varianten(filepath):
+    """De bestaande feed-XML als {sku: {veld: tekst}} — de reserve bij een VariantStoring.
+
+    Leest elk kindelement van `<product>` als veld; `<images>` wordt een lijst
+    van src-adressen. Geen bestand = lege reserve (eerste run).
+    """
+    if not os.path.exists(filepath):
+        return {}
+    import xml.etree.ElementTree as ET
+    vorige = {}
+    for item in ET.parse(filepath).getroot().findall("product"):
+        velden = {}
+        for el in item:
+            if el.tag == "images":
+                velden["images"] = [s.text or "" for s in el.iter("src")]
+            else:
+                velden[el.tag] = el.text or ""
+        if velden.get("sku"):
+            vorige[velden["sku"]] = velden
+    return vorige
+
+
+def _variant_uit_vorige(code, label, oud):
+    """Bouw een variant-dict uit een vorige feed-regel (zelfde vorm als parse_variant)."""
+    try:
+        price = float(oud.get("price", ""))
+    except ValueError:
+        return None
+    images = oud.get("images") or []
+    return {
+        "code": code, "sku": oud.get("sku") or code, "ean": oud.get("barcode", ""),
+        "zindex": oud.get("zindex", ""), "price": price,
+        "image": images[0] if images else "",
+        "samenstelling": oud.get("samenstelling", ""), "dosering": oud.get("dosering", ""),
+        "label": label or oud.get("option1", ""), "overgenomen": True,
+    }
+
+
+def scrape_products(session, slugs, vorige=None, max_overname=MAX_OVERNAME):
+    """Yield per product: gedeelde info + lijst varianten (elk met eigen EAN/prijs).
+
+    `vorige` = `lees_vorige_varianten(feedbestand)`. Geeft het variant-endpoint een
+    storing (VariantStoring), dan gaat de vorige feed-regel van die SKU mee, luid
+    gemeld. Staat de SKU niet in de vorige feed, dan valt de maat weg (ook luid).
+    Komt meer dan `max_overname` van de varianten zo tot stand, dan is Vitakruid
+    niet half maar heel stuk en stopt de run alsnog (de rem van 17-07-2026).
+    """
+    vorige = vorige or {}
     total = len(slugs)
     skipped = 0
+    varianten_totaal = 0
+    overgenomen, weggevallen = [], []
     for i, slug in enumerate(slugs, 1):
         r = fetch(session, f"{BASE}/products/{slug}", allow_404=True, verplicht=True)
         if not r:
@@ -255,20 +327,43 @@ def scrape_products(session, slugs):
         options = base["variant_options"] or [(base["base_sku"], "")]
         variants = []
         for code, label in options:
-            v = parse_variant(session, code)
+            try:
+                v = parse_variant(session, code)
+            except VariantStoring as e:
+                v = _variant_uit_vorige(code, label, vorige.get(code) or {})
+                if v:
+                    overgenomen.append(code)
+                    print(f"    ⚠️  STORING bij variant {code} ({e.oorzaak}) — vorige feed-regel "
+                          f"overgenomen: {base['title'][:40]} {v['label']} € {v['price']:.2f}")
+                else:
+                    weggevallen.append(code)
+                    print(f"    ⚠️  STORING bij variant {code} ({e.oorzaak}) — niet in de vorige "
+                          f"feed, maat valt weg: {base['title'][:40]} {label}")
             if v and v["price"] is not None:
-                v["label"] = label
+                v.setdefault("label", label)
                 variants.append(v)
             time.sleep(REQUEST_DELAY)
         if not variants:
             skipped += 1
             continue
 
+        varianten_totaal += len(variants)
         print(f"  [{i}/{total}] {base['title'][:48]:48} {len(variants)} variant(en)")
         yield {**base, "slug": slug, "variants": variants}
         time.sleep(REQUEST_DELAY)
 
     print(f"\nℹ️  Overgeslagen: {skipped} (geen product/prijs).")
+    storingen = len(overgenomen) + len(weggevallen)
+    if storingen:
+        print(f"⚠️  Variant-storingen: {len(overgenomen)} overgenomen uit de vorige feed "
+              f"{overgenomen}, {len(weggevallen)} weggevallen {weggevallen}.")
+    grens = max_overname * (varianten_totaal + len(weggevallen))
+    if storingen and storingen > grens:
+        raise RuntimeError(
+            f"{storingen} variant-storingen op {varianten_totaal + len(weggevallen)} varianten "
+            f"(> {max_overname:.0%}): dat is geen losse storing bij Vitakruid maar een uitval. "
+            "De run stopt: een feed vol oude regels wegschrijven verbergt dat."
+        )
 
 
 # --------------------------------------------------------------------------- #
