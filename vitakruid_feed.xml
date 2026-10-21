@@ -1731,16 +1731,6 @@
     <quantity/>
   </product>
   <product>
-    <handle>baby-k</handle>
-    <title>Baby K</title>
-    <vendor>Vitakruid</vendor>
-    <sku>91824</sku>
-    <barcode>8717438691824</barcode>
-    <price>17.90</price>
-    <available>true</available>
-    <quantity/>
-  </product>
-  <product>
     <handle>baby-d</handle>
     <title>Baby D</title>
     <vendor>Vitakruid</vendor>
@@ -2734,9 +2724,9 @@
     <handle>multi-dag-nacht-mama-capsules</handle>
     <title>Multi Dag &amp; Nacht® Mama Capsules</title>
     <vendor>Vitakruid</vendor>
-    <sku>93736</sku>
-    <barcode>8717438693736</barcode>
-    <price>34.90</price>
+    <sku>93743</sku>
+    <barcode>8717438693743</barcode>
+    <price>89.90</price>
     <available>true</available>
     <quantity/>
   </product>
@@ -2744,9 +2734,9 @@
     <handle>multi-dag-nacht-mama-capsules</handle>
     <title>Multi Dag &amp; Nacht® Mama Capsules</title>
     <vendor>Vitakruid</vendor>
-    <sku>93743</sku>
-    <barcode>8717438693743</barcode>
-    <price>89.90</price>
+    <sku>93736</sku>
+    <barcode>8717438693736</barcode>
+    <price>34.90</price>
     <available>true</available>
     <quantity/>
   </product>
