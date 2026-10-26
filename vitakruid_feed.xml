@@ -1731,6 +1731,16 @@
     <quantity/>
   </product>
   <product>
+    <handle>baby-k</handle>
+    <title>Baby K</title>
+    <vendor>Vitakruid</vendor>
+    <sku>91824</sku>
+    <barcode>8717438691824</barcode>
+    <price>17.90</price>
+    <available>true</available>
+    <quantity/>
+  </product>
+  <product>
     <handle>baby-d</handle>
     <title>Baby D</title>
     <vendor>Vitakruid</vendor>
