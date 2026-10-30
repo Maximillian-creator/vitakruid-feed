@@ -61,6 +61,8 @@ def main():
     products = list(vc.scrape_products(session, slugs, vorige=vorige))
     root = build_xml(products)
     vc.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
+    import prijsrem
+    print(prijsrem.verslag(prijsrem.pas_toe(root, OUTPUT_FILE)))
     save_xml(root, OUTPUT_FILE)
     n = sum(len(p["variants"]) for p in products)
     print(f"⏱️  Klaar in {time.time() - start:.0f}s — {n} varianten in de feed")
