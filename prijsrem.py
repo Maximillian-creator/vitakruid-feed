@@ -17,7 +17,13 @@ vorige feed (het bestand dat in het repo staat, dus wat Stock Sync het laatst la
     al het andere (> 3%)                 → de prijs uit de vorige feed blijft staan, met een logregel
 
 Beschikbaarheid, voorraad en alle andere velden gaan altijd mee: de rem raakt alleen `<price>`.
-Een nieuwe SKU zonder vorige prijs gaat door zoals hij binnenkomt. `FORCE_PRIJZEN=1` zet de rem
+Een nieuwe SKU zonder vorige prijs gaat door zoals hij binnenkomt.
+
+Een SKU die in de vorige feed vaker voorkomt, vergelijken we op SKU + handle (05-11-2026:
+Vitakruid geeft drie bundels elk dezelfde code, bv. `zwangerschap` voor "Zwangerschap Bundel"
+€ 69,64 én "Zwangerschap Bundel Basis" € 42,14). Op SKU alleen pakte de rem de prijs van het
+andere product en "hield" die vast, zodat de basisbundel € 69,64 zou worden. Is het ook met de
+handle nog dubbelzinnig, dan gaat de regel door zonder vergelijking (telt als "zonder vorige"). `FORCE_PRIJZEN=1` zet de rem
 uit voor één run (bewust, bv. na een echte prijsronde van een leverancier).
 
 Gebruik in scraper.py, vlak vóór save_xml:
@@ -39,22 +45,48 @@ BTW_MINIMUM = 0.30           # btw-correctie alleen als ≥ 30% van de vergeleke
 BTW_FACTOREN = (1.09, 1.21)  # de twee Nederlandse tarieven; welk tarief een product heeft, weten we niet zeker
 
 
+HANDLE_TAG = "handle"
+
+
+def _sleutels(el: ET.Element, sku_tag: str) -> tuple[str, tuple[str, str]]:
+    sku = (el.findtext(sku_tag) or "").strip()
+    return sku, (sku, (el.findtext(HANDLE_TAG) or "").strip())
+
+
 def lees_vorige(pad: str, item_tag: str = "product", sku_tag: str = "sku", price_tag: str = "price") -> dict:
-    """{sku: prijs} uit de vorige feed; leeg als er geen (leesbare) vorige feed is."""
+    """Prijzen uit de vorige feed: `sku` → prijs, of `(sku, handle)` → prijs als de SKU vaker
+    voorkomt. Dubbelzinnige sleutels staan er niet in. Leeg als er geen (leesbare) vorige feed is."""
     try:
         root = ET.parse(pad).getroot()
     except (OSError, ET.ParseError):
         return {}
-    uit = {}
+    rijen = []
     for el in root.iter(item_tag):
-        sku = (el.findtext(sku_tag) or "").strip()
+        sku, sku_handle = _sleutels(el, sku_tag)
         try:
             prijs = float((el.findtext(price_tag) or "").replace(",", "."))
         except ValueError:
             continue
         if sku and prijs > 0:
+            rijen.append((sku, sku_handle, prijs))
+    per_sku = {}
+    for sku, _, _ in rijen:
+        per_sku[sku] = per_sku.get(sku, 0) + 1
+    per_paar = {}
+    for _, paar, _ in rijen:
+        per_paar[paar] = per_paar.get(paar, 0) + 1
+    uit = {}
+    for sku, paar, prijs in rijen:
+        if per_sku[sku] == 1:
             uit[sku] = prijs
+        elif per_paar[paar] == 1:
+            uit[paar] = prijs
     return uit
+
+
+def _vorige_prijs(vorige: dict, el: ET.Element, sku_tag: str):
+    sku, paar = _sleutels(el, sku_tag)
+    return vorige.get(sku) if sku in vorige else vorige.get(paar)
 
 
 def _klasse(ratio: float) -> tuple[str, float]:
@@ -87,7 +119,7 @@ def pas_toe(root: ET.Element, vorig_pad: str, item_tag: str = "product", sku_tag
             nieuw = float((pel.text or "").replace(",", ".")) if pel is not None else 0.0
         except ValueError:
             nieuw = 0.0
-        oud = vorige.get(sku)
+        oud = _vorige_prijs(vorige, el, sku_tag)
         if not sku or pel is None or nieuw <= 0 or not oud:
             r["nieuw_zonder_vorige"] += 1
             continue

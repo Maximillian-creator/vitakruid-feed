@@ -120,15 +120,30 @@ def clean_text(fragment):
 
 
 def _product_ld(html):
+    """Het Product-blok uit de JSON-LD, met `{"@id": …}`-verwijzingen (merk) ingevuld.
+
+    Sinds ~02-11-2026 zet vitakruid.nl alles in één `@graph` (Product, AggregateOffer,
+    Brand, …) en verwijst het merk met een `@id`. De oude code zocht het Product alleen
+    bovenaan, vond niets en sloeg alle 205 producten over: vier dagen geen feed.
+    """
     for block in re.findall(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html, re.DOTALL):
         try:
             j = json.loads(block.strip())
         except Exception:
             continue
-        types = j.get("@type") if isinstance(j, dict) else None
-        types = types if isinstance(types, list) else [types]
-        if isinstance(j, dict) and "Product" in types:
-            return j
+        knopen = j.get("@graph", [j]) if isinstance(j, dict) else j if isinstance(j, list) else []
+        knopen = [k for k in knopen if isinstance(k, dict)]
+        op_id = {k["@id"]: k for k in knopen if k.get("@id")}
+        for k in knopen:
+            types = k.get("@type")
+            types = types if isinstance(types, list) else [types]
+            if "Product" in types:
+                k = dict(k)
+                for veld in ("brand", "manufacturer"):
+                    ref = k.get(veld)
+                    if isinstance(ref, dict) and set(ref) == {"@id"} and ref["@id"] in op_id:
+                        k[veld] = op_id[ref["@id"]]
+                return k
     return None
 
 

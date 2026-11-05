@@ -99,6 +99,44 @@ def test_andere_tags_blijven_onaangeraakt():
     assert root.find("product").findtext("available") == "false" and _prijzen(root)["s1"] == 20.00
 
 
+def _xml_met_handle(rijen: list) -> str:
+    return '<?xml version="1.0"?><products>' + "".join(
+        f"<product><handle>{h}</handle><sku>{s}</sku><price>{p:.2f}</price></product>"
+        for h, s, p in rijen) + "</products>"
+
+
+def test_dubbele_sku_vergelijkt_op_handle():
+    """Vitakruid 05-11: twee bundels met SKU `zwangerschap`. Op SKU alleen kreeg de basisbundel
+    de prijs van de grote bundel (42,14 → 69,64)."""
+    vorig = [("zwangerschap-bundel-basis", "zwangerschap", 42.14), ("zwangerschap-bundel", "zwangerschap", 69.64)]
+    d = tempfile.mkdtemp()
+    pad = os.path.join(d, "feed.xml")
+    with open(pad, "w", encoding="utf-8") as f:
+        f.write(_xml_met_handle(vorig))
+    root = ET.fromstring(_xml_met_handle(vorig))
+    r = prijsrem.pas_toe(root, pad)
+    prijzen = {el.findtext("handle"): float(el.findtext("price")) for el in root.iter("product")}
+    assert prijzen == {"zwangerschap-bundel-basis": 42.14, "zwangerschap-bundel": 69.64}, prijzen
+    assert r["vergeleken"] == 2 and not r["vastgehouden"], r
+    # een echte sprong bij een van beide wordt nog steeds vastgehouden, met de eigen vorige prijs
+    root = ET.fromstring(_xml_met_handle([vorig[0], ("zwangerschap-bundel", "zwangerschap", 30.00)]))
+    r = prijsrem.pas_toe(root, pad)
+    prijzen = {el.findtext("handle"): float(el.findtext("price")) for el in root.iter("product")}
+    assert prijzen == {"zwangerschap-bundel-basis": 42.14, "zwangerschap-bundel": 69.64}, prijzen
+
+
+def test_ook_met_handle_dubbelzinnig_gaat_door_zonder_vergelijking():
+    vorig = [("x", "dup", 10.00), ("x", "dup", 50.00), ("y", "uniek", 20.00)]
+    d = tempfile.mkdtemp()
+    pad = os.path.join(d, "feed.xml")
+    with open(pad, "w", encoding="utf-8") as f:
+        f.write(_xml_met_handle(vorig))
+    root = ET.fromstring(_xml_met_handle([("x", "dup", 11.00), ("x", "dup", 49.00), ("y", "uniek", 20.00)]))
+    r = prijsrem.pas_toe(root, pad)
+    assert [float(el.findtext("price")) for el in root.iter("product")] == [11.00, 49.00, 20.00]
+    assert r["vergeleken"] == 1 and r["nieuw_zonder_vorige"] == 2, r
+
+
 if __name__ == "__main__":
     fouten = 0
     for naam, f in sorted(globals().items()):
