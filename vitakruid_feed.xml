@@ -2840,4 +2840,14 @@
     <available>true</available>
     <quantity/>
   </product>
+  <product>
+    <handle>junior-d</handle>
+    <title>Junior D</title>
+    <vendor>Vitakruid</vendor>
+    <sku>94160</sku>
+    <barcode/>
+    <price>12.90</price>
+    <available>true</available>
+    <quantity/>
+  </product>
 </products>
